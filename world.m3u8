@@ -1,0 +1,9 @@
+#EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/world/epg.xml.gz"
+#EXTINF:-1 tvg-id="mjh-al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" group-title="World",Al Jazeera
+https://i.mjh.nz/.r/al-jazeera.m3u8
+#EXTINF:-1 tvg-id="mjh-channel-news-asia" tvg-name="Channel News Asia (CNA)" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" group-title="World",Channel News Asia (CNA)
+https://i.mjh.nz/.r/channel-news-asia.m3u8
+#EXTINF:-1 tvg-id="mjh-dw-news" tvg-name="DW English" tvg-logo="https://www.dw.com/images/icons/favicon-540x540.png" group-title="World",DW English
+https://i.mjh.nz/.r/dw-news.m3u8
+#EXTINF:-1 tvg-id="mjh-redbull-tv" tvg-name="Redbull TV" tvg-logo="https://i.mjh.nz/.images/redbull-tv.png" group-title="World",Redbull TV
+https://i.mjh.nz/.r/redbull-tv.m3u8
