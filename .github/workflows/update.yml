@@ -1,4 +1,4 @@
-name: Update Master Playlist
+name: Update Playlists
 
 on:
   schedule:
@@ -27,6 +27,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add nz_all.m3u8
-          git commit -m "Update nz_all.m3u8 playlist" || exit 0
+          git add nz.m3u8 nzau.m3u8 world.m3u8
+          git commit -m "Update separate playlists for NZ, NZAU, and World" || exit 0
           git push
