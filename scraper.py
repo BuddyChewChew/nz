@@ -3,11 +3,11 @@ import json
 import gzip
 from io import BytesIO
 
-# Configuration: Integrated settings for all three services
+# Configuration: Updated Service 1 to use the GitHub .json.gz link
 SERVICES = [
     {
         "name": "NZ",
-        "json_url": "https://i.mjh.nz/nz/tv.json",
+        "json_url": "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/nz/tv.json.gz",
         "epg_url": "https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/nz/epg.xml.gz"
     },
     {
@@ -25,24 +25,24 @@ SERVICES = [
 OUTPUT_FILE = "nz_all.m3u8"
 
 def fetch_json(url):
-    """Helper to handle both standard and gzipped JSON files."""
+    """Fetches and decompresses .json.gz files from GitHub."""
     response = requests.get(url, timeout=30)
     response.raise_for_status()
     
-    # If the URL ends in .gz or the response is compressed, decompress it
+    # All links provided now end in .gz
     if url.endswith('.gz') or response.headers.get('Content-Encoding') == 'gzip':
         with gzip.GzipFile(fileobj=BytesIO(response.content)) as f:
             return json.load(f)
     return response.json()
 
 def generate_consolidated_m3u():
-    # Build the M3U header with all EPG URLs separated by commas
+    # Header containing all three EPG links
     epg_list = ",".join([s["epg_url"] for s in SERVICES])
     m3u_content = f'#EXTM3U x-tvg-url="{epg_list}"\n'
     
     for service in SERVICES:
         try:
-            print(f"Processing {service['name']}...")
+            print(f"Fetching {service['name']} from GitHub...")
             data = fetch_json(service["json_url"])
 
             for channel_id, info in data.items():
@@ -50,8 +50,7 @@ def generate_consolidated_m3u():
                 logo = info.get("logo", "")
                 url = info.get("mjh_master", "")
                 chno = info.get("chno", "")
-                # Set the group-title strictly to the service name for categorization
-                group = service["name"]
+                group = service["name"] # Groups: NZ, NZAU, World
                 epg_id = info.get("epg_id", channel_id)
                 
                 if not url:
@@ -67,13 +66,13 @@ def generate_consolidated_m3u():
                 m3u_content += f'{url}\n'
 
         except Exception as e:
-            print(f"Failed to process {service['name']}: {e}")
+            print(f"Error processing {service['name']}: {e}")
 
-    # Write the full, final version of the integrated code
+    # Final integrated file creation
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(m3u_content)
     
-    print(f"Successfully generated {OUTPUT_FILE} with channels grouped by service.")
+    print(f"Successfully updated {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     generate_consolidated_m3u()
