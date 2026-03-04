@@ -28,5 +28,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add nz.m3u8 nzau.m3u8 world.m3u8
-          git commit -m "Update playlists with bypass headers" || exit 0
+          git commit -m "Revert to clean playlist structure" || exit 0
           git push
