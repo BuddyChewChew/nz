@@ -2,8 +2,9 @@ import requests
 import json
 import gzip
 from io import BytesIO
+from urllib.parse import quote
 
-# Configuration: Integrated settings for separate headers
+# Configuration: Separate settings for each service
 SERVICES = [
     {
         "name": "NZ",
@@ -26,7 +27,7 @@ SERVICES = [
 ]
 
 def fetch_json(url):
-    """Fetches and decompresses .json.gz files from the source."""
+    """Fetches and decompresses .json.gz files."""
     try:
         response = requests.get(url, timeout=30)
         response.raise_for_status()
@@ -43,7 +44,7 @@ def generate_playlists():
         if not data:
             continue
 
-        # Header contains ONLY the EPG URL specific to this service
+        # Header with only the EPG URL specific to this service
         m3u_content = f'#EXTM3U x-tvg-url="{service["epg_url"]}"\n'
         
         for channel_id, info in data.items():
@@ -57,6 +58,23 @@ def generate_playlists():
             if not url:
                 continue
 
+            # Extract headers from the JSON (User-Agent, Referer)
+            headers = info.get("headers", {})
+            ua = headers.get("user-agent", "")
+            ref = headers.get("referer", "")
+            
+            # Format the URL with headers for TiviMate compatibility
+            # Format: URL|User-Agent=...&Referer=...
+            header_suffix = []
+            if ua:
+                header_suffix.append(f"User-Agent={ua}")
+            if ref:
+                header_suffix.append(f"Referer={ref}")
+            
+            final_url = url
+            if header_suffix:
+                final_url += "|" + "&".join(header_suffix)
+
             # Build the #EXTINF line
             extinf = f'#EXTINF:-1 tvg-id="{epg_id}" tvg-name="{name}" tvg-logo="{logo}"'
             if chno:
@@ -64,13 +82,13 @@ def generate_playlists():
             extinf += f' group-title="{group}",{name}\n'
             
             m3u_content += extinf
-            m3u_content += f'{url}\n'
+            m3u_content += f'{final_url}\n'
 
         # Write the file
         with open(service["filename"], "w", encoding="utf-8") as f:
             f.write(m3u_content)
         
-        print(f"Successfully saved {service['filename']}")
+        print(f"Successfully saved {service['filename']} with custom headers.")
 
 if __name__ == "__main__":
     generate_playlists()
