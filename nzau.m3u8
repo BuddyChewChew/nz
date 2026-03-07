@@ -289,6 +289,14 @@ https://i.mjh.nz/.r/ncis-fast.m3u8
 https://i.mjh.nz/.r/onthecase-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-outbacktruckers-fast" tvg-name="Outback Truckers" tvg-logo="https://i.mjh.nz/.images/auto-outbacktruckers-fast-332b21.png" group-title="NZAU",Outback Truckers
 https://i.mjh.nz/.r/outbacktruckers-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-para-alpine-skiing-fast" tvg-name="Para Alpine Skiing" tvg-logo="https://imageresizer.static9.net.au/J8YiDHWSiiG2YHTPm52tx74sjSI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F02%2F756578%2Fparaalpineskiing.png" group-title="NZAU",Para Alpine Skiing
+https://i.mjh.nz/.r/para-alpine-skiing-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-para-biathlon-fast" tvg-name="Para Biathlon" tvg-logo="https://imageresizer.static9.net.au/fUKJC1QbblOrHcjChUr93w2ok14=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F02%2F756579%2Fparabiathlon.png" group-title="NZAU",Para Biathlon
+https://i.mjh.nz/.r/para-biathlon-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-para-ice-hockey-fast" tvg-name="Para Ice Hockey" tvg-logo="https://imageresizer.static9.net.au/chM3-D9KAWfGJPMKItHsxx9B_WM=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F02%2F756583%2Fparaicehockey.png" group-title="NZAU",Para Ice Hockey
+https://i.mjh.nz/.r/para-ice-hockey-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-para-snowboard-fast" tvg-name="Para Snowboard" tvg-logo="https://imageresizer.static9.net.au/W41tBy0dYQLo8-jyu8ZFgJ9n63g=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F02%2F756584%2Fparasnowboard.png" group-title="NZAU",Para Snowboard
+https://i.mjh.nz/.r/para-snowboard-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-parliament-tv" tvg-name="Parliament TV" tvg-logo="https://i.mjh.nz/.images/parliament-tv.png" tvg-chno="31" group-title="NZAU",Parliament TV
 https://i.mjh.nz/.r/parliament-tv.m3u8
 #EXTINF:-1 tvg-id="mjh-prime" tvg-name="Sky Open" tvg-logo="https://i.mjh.nz/.images/sky-open.png" tvg-chno="8" group-title="NZAU",Sky Open
