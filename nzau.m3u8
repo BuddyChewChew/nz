@@ -149,6 +149,8 @@ https://c.mjh.nz/abc-nsw.m3u8
 https://c.mjh.nz/abc-tv-plus.m3u8
 #EXTINF:-1 tvg-id="mjh-acountrypractice-fast" tvg-name="A Country Practice" tvg-logo="https://i.mjh.nz/.images/auto-acountrypractice-fast-3f02ad.png" group-title="NZAU",A Country Practice
 https://i.mjh.nz/.r/acountrypractice-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-aircrashinvestigations-fast" tvg-name="Air Crash Investigations" tvg-logo="https://i.mjh.nz/.images/auto-aircrashinvestigations-fast-7ff35e.png" group-title="NZAU",Air Crash Investigations
+https://i.mjh.nz/.r/aircrashinvestigations-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" tvg-chno="20" group-title="NZAU",Al Jazeera
 https://i.mjh.nz/.r/al-jazeera.m3u8
 #EXTINF:-1 tvg-id="mjh-all-starcinema-fast" tvg-name="All-Star Cinema" tvg-logo="https://i.mjh.nz/.images/auto-all-starcinema-fast-9f2397.png" group-title="NZAU",All-Star Cinema
@@ -216,11 +218,11 @@ https://i.mjh.nz/.r/cas41-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-ch200" tvg-name="CH200" tvg-logo="https://i.mjh.nz/.images/ch200.png" tvg-chno="200" group-title="NZAU",CH200
 https://i.mjh.nz/.r/ch200.m3u8
 #EXTINF:-1 tvg-id="mjh-channel-9-lismore" tvg-name="Channel 9 (Norther Rivers)" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="NZAU",Channel 9 (Norther Rivers)
-plugin://slyguy.9now/?_=play_channel&_play=1&reference=live-ch9-nlm-ssai&region=lismore
+https://i.mjh.nz/.r/channel-9-lismore.m3u8
 #EXTINF:-1 tvg-id="mjh-channel-9-newcastle" tvg-name="Channel 9 (Newcastle)" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="NZAU",Channel 9 (Newcastle)
-plugin://slyguy.9now/?_=play_channel&_play=1&reference=live-ch9-new-ssai&region=newcastle
+https://i.mjh.nz/.r/channel-9-newcastle.m3u8
 #EXTINF:-1 tvg-id="mjh-channel-9-nsw" tvg-name="Channel 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" tvg-chno="91" group-title="NZAU",Channel 9
-plugin://slyguy.9now/?_=play_channel&_play=1&reference=live-ch9-syd-ssai&region=nsw
+https://i.mjh.nz/.r/channel-9-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-channel-news-asia" tvg-name="Channel News Asia (CNA)" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" group-title="NZAU",Channel News Asia (CNA)
 https://i.mjh.nz/.r/channel-news-asia.m3u8
 #EXTINF:-1 tvg-id="mjh-cricketgold-fast" tvg-name="Cricket Gold" tvg-logo="https://i.mjh.nz/.images/auto-cricketgold-fast-906f03.png" group-title="NZAU",Cricket Gold
@@ -240,9 +242,9 @@ https://i.mjh.nz/.r/etc-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-firstlight" tvg-name="Firstlight" tvg-logo="https://i.mjh.nz/.images/firstlight.png" tvg-chno="26" group-title="NZAU",Firstlight
 https://i.mjh.nz/.r/firstlight.m3u8
 #EXTINF:-1 tvg-id="mjh-gem-nsw" tvg-name="9Gem" tvg-logo="https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png" tvg-chno="92" group-title="NZAU",9Gem
-plugin://slyguy.9now/?_=play_channel&_play=1&reference=live-gem-syd-ssai&region=nsw
+https://i.mjh.nz/.r/gem-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-go-nsw" tvg-name="9Go!" tvg-logo="https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png" tvg-chno="93" group-title="NZAU",9Go!
-plugin://slyguy.9now/?_=play_channel&_play=1&reference=live-go-syd-ssai&region=nsw
+https://i.mjh.nz/.r/go-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-good-dot" tvg-name="GOOD." tvg-logo="https://i.mjh.nz/.images/good-dot.png" group-title="NZAU",GOOD.
 https://c.mjh.nz/good-dot.m3u8
 #EXTINF:-1 tvg-id="mjh-h2-fast" tvg-name="H2" tvg-logo="https://imageresizer.static9.net.au/OxADVUkSO8Xp2ATCSJmMsa0gcDE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F684622%2Fh2_squircle.png" group-title="NZAU",H2
@@ -256,7 +258,7 @@ https://i.mjh.nz/.r/hope-channel.m3u8
 #EXTINF:-1 tvg-id="mjh-judgejudy-fast" tvg-name="Judge Judy" tvg-logo="https://i.mjh.nz/.images/auto-judgejudy-fast-8781e8.png" group-title="NZAU",Judge Judy
 https://i.mjh.nz/.r/judgejudy-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-life-nsw" tvg-name="9Life" tvg-logo="https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png" tvg-chno="94" group-title="NZAU",9Life
-plugin://slyguy.9now/?_=play_channel&_play=1&reference=live-life-syd-ssai&region=nsw
+https://i.mjh.nz/.r/life-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-livgolfreplays-fast" tvg-name="LIV Golf Replays" tvg-logo="https://i.mjh.nz/.images/auto-livgolfreplays-fast-471f30.png" group-title="NZAU",LIV Golf Replays
 https://i.mjh.nz/.r/livgolfreplays-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-lmn-fast" tvg-name="LMN" tvg-logo="https://imageresizer.static9.net.au/GfA3WNoMOfZbJOqJeq-UrX5nsdk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F12%2F658518%2Fgroup-61484.png" group-title="NZAU",LMN
@@ -269,10 +271,6 @@ https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
 https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="NZAU",Mighty Machines
 https://i.mjh.nz/.r/mightymachines-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-misc503-fast" tvg-name="Australian Kart Championship" tvg-logo="https://i.mjh.nz/.images/auto-misc503-fast-3c70ed.png" group-title="NZAU",Australian Kart Championship
-https://i.mjh.nz/.r/misc503-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-misc515-fast" tvg-name="WSL Challenger Series" tvg-logo="https://i.mjh.nz/.images/auto-misc515-fast-5e5c5f.png" group-title="NZAU",WSL Challenger Series
-https://i.mjh.nz/.r/misc515-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1286" tvg-name="Big Rig" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244778333.png" group-title="NZAU",Big Rig
 https://i.mjh.nz/.r/mood-1286.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1287" tvg-name="The Groat" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1743730111010.png" group-title="NZAU",The Groat
@@ -291,12 +289,6 @@ https://i.mjh.nz/.r/ncis-fast.m3u8
 https://i.mjh.nz/.r/onthecase-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-outbacktruckers-fast" tvg-name="Outback Truckers" tvg-logo="https://i.mjh.nz/.images/auto-outbacktruckers-fast-332b21.png" group-title="NZAU",Outback Truckers
 https://i.mjh.nz/.r/outbacktruckers-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-para-alpine-skiing-fast" tvg-name="Para Alpine Skiing" tvg-logo="https://imageresizer.static9.net.au/J8YiDHWSiiG2YHTPm52tx74sjSI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F02%2F756578%2Fparaalpineskiing.png" group-title="NZAU",Para Alpine Skiing
-https://i.mjh.nz/.r/para-alpine-skiing-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-para-cross-country-fast" tvg-name="Para Cross Country" tvg-logo="https://imageresizer.static9.net.au/-oQavMGQXZQGgGcxxR2fy6O2iDY=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F02%2F756582%2Fparacrosscountryskiing.png" group-title="NZAU",Para Cross Country
-https://i.mjh.nz/.r/para-cross-country-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-para-ice-hockey-fast" tvg-name="Para Ice Hockey" tvg-logo="https://imageresizer.static9.net.au/chM3-D9KAWfGJPMKItHsxx9B_WM=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F02%2F756583%2Fparaicehockey.png" group-title="NZAU",Para Ice Hockey
-https://i.mjh.nz/.r/para-ice-hockey-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-parliament-tv" tvg-name="Parliament TV" tvg-logo="https://i.mjh.nz/.images/parliament-tv.png" tvg-chno="31" group-title="NZAU",Parliament TV
 https://i.mjh.nz/.r/parliament-tv.m3u8
 #EXTINF:-1 tvg-id="mjh-prime" tvg-name="Sky Open" tvg-logo="https://i.mjh.nz/.images/sky-open.png" tvg-chno="8" group-title="NZAU",Sky Open
@@ -314,7 +306,7 @@ https://i.mjh.nz/.r/redbull-tv.m3u8
 #EXTINF:-1 tvg-id="mjh-rmc-fast" tvg-name="River Monsters" tvg-logo="https://i.mjh.nz/.images/auto-rmc-fast-cd77f2.png" group-title="NZAU",River Monsters
 https://i.mjh.nz/.r/rmc-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-rush-nsw" tvg-name="9Rush" tvg-logo="https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png" tvg-chno="96" group-title="NZAU",9Rush
-plugin://slyguy.9now/?_=play_channel&_play=1&reference=live-rush-syd-ssai&region=nsw
+https://i.mjh.nz/.r/rush-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-rush-nz" tvg-name="RUSH" tvg-logo="https://i.mjh.nz/.images/rush-nz.png" tvg-chno="9" group-title="NZAU",RUSH
 https://i.mjh.nz/.r/rush-nz.m3u8
 #EXTINF:-1 tvg-id="mjh-sbs-2syd" tvg-name="SBS VICELAND" tvg-logo="https://image.pr.sbsod.com/22f3c441-e7fd-565e-96bc-39b881c39500" tvg-chno="31" group-title="NZAU",SBS VICELAND
@@ -399,6 +391,8 @@ https://i.mjh.nz/.r/snowy-mountains.m3u8
 https://i.mjh.nz/.r/superbowlchampions-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-surveillancecentral-fast" tvg-name="Surveillance Central" tvg-logo="https://i.mjh.nz/.images/auto-surveillancecentral-fast-4eeefa.png" group-title="NZAU",Surveillance Central
 https://i.mjh.nz/.r/surveillancecentral-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-syd1_event-fast" tvg-name="The Oscars" tvg-logo="https://i.mjh.nz/.images/auto-syd1_event-fast-a0511e.png" group-title="NZAU",The Oscars
+https://i.mjh.nz/.r/syd1_event-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-taste-fast" tvg-name="Taste" tvg-logo="https://i.mjh.nz/.images/auto-taste-fast-9581ec.png" group-title="NZAU",Taste
 https://i.mjh.nz/.r/taste-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-te-reo" tvg-name="Te Reo" tvg-logo="https://i.mjh.nz/.images/te-reo.png" tvg-chno="10" group-title="NZAU",Te Reo
