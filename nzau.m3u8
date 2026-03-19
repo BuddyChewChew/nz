@@ -47,6 +47,8 @@ https://i.mjh.nz/.r/10-haveyoubeenpayingattention.m3u8
 https://i.mjh.nz/.r/10-heartland.m3u8
 #EXTINF:-1 tvg-id="mjh-10-highwaythruhell" tvg-name="Highway Thru Hell" tvg-logo="https://10.com.au/ip/s3/2025/06/19/3c941c6bd357c1bc3acc855f846e842c-1383806.png?image-profile=logo" group-title="NZAU",Highway Thru Hell
 https://i.mjh.nz/.r/10-highwaythruhell.m3u8
+#EXTINF:-1 tvg-id="mjh-10-historyandwarfare" tvg-name="History & Warfare" tvg-logo="https://10.com.au/ip/s3/2026/03/17/5010fc64782edb4842a94d1484f72514-1419388.png?image-profile=logo" group-title="NZAU",History & Warfare
+https://i.mjh.nz/.r/10-historyandwarfare.m3u8
 #EXTINF:-1 tvg-id="mjh-10-masterchef" tvg-name="MasterChef" tvg-logo="https://10.com.au/ip/s3/2022/09/02/3fff1b47f7c01770b7f0f319770d5362-1177252.png?image-profile=logo" group-title="NZAU",MasterChef
 https://i.mjh.nz/.r/10-masterchef.m3u8
 #EXTINF:-1 tvg-id="mjh-10-medical-emergency" tvg-name="Medical Emergency" tvg-logo="https://10.com.au/ip/s3/2023/06/28/115b6796134f1e983f41c224c31cc7c9-1246084.png?image-profile=logo" group-title="NZAU",Medical Emergency
