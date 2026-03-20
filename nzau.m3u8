@@ -239,6 +239,8 @@ https://i.mjh.nz/.r/drive-fast.m3u8
 https://i.mjh.nz/.r/dw-news.m3u8
 #EXTINF:-1 tvg-id="mjh-eden" tvg-name="eden" tvg-logo="https://i.mjh.nz/.images/eden.png" tvg-chno="18" group-title="NZAU",eden
 https://i.mjh.nz/.r/eden.m3u8
+#EXTINF:-1 tvg-id="mjh-election-2026-sa-decides-fast" tvg-name="Election 2026: SA Decides" tvg-logo="https://imageresizer.static9.net.au/VbZ3vHA_bRzpIRytR2vfJ4PzrZY=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F03%2F760675%2Fnews_sq.png" group-title="NZAU",Election 2026: SA Decides
+https://i.mjh.nz/.r/election-2026-sa-decides-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-etc-fast" tvg-name="Escape to the Country" tvg-logo="https://i.mjh.nz/.images/auto-etc-fast-6d4429.png" group-title="NZAU",Escape to the Country
 https://i.mjh.nz/.r/etc-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-firstlight" tvg-name="Firstlight" tvg-logo="https://i.mjh.nz/.images/firstlight.png" tvg-chno="26" group-title="NZAU",Firstlight
@@ -373,6 +375,10 @@ https://i.mjh.nz/.r/sky-fast6.m3u8
 https://i.mjh.nz/.r/sky-hgtv.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-news-now" tvg-name="Sky News Now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png" group-title="NZAU",Sky News Now
 https://i.mjh.nz/.r/sky-news-now.m3u8
+#EXTINF:-1 tvg-id="mjh-sky-popup1" tvg-name="ThreeNow Sport 1" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/popup1/logos/default.png" group-title="NZAU",ThreeNow Sport 1
+https://i.mjh.nz/.r/sky-popup1.m3u8
+#EXTINF:-1 tvg-id="mjh-sky-popup2" tvg-name="ThreeNow Sport 2" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/popup2/logos/default.png" group-title="NZAU",ThreeNow Sport 2
+https://i.mjh.nz/.r/sky-popup2.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-ptcn" tvg-name="CNN Headlines" tvg-logo="https://cdn-prod.fullscreen.nz/v1/images/channel/linear/ptcn/logos/default.png" group-title="NZAU",CNN Headlines
 https://i.mjh.nz/.r/sky-ptcn.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-ptmb" tvg-name="MythBusters" tvg-logo="https://cdn-prod.fullscreen.nz/v1/images/channel/linear/ptmb/logos/default.png" group-title="NZAU",MythBusters
