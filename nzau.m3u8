@@ -239,8 +239,6 @@ https://i.mjh.nz/.r/drive-fast.m3u8
 https://i.mjh.nz/.r/dw-news.m3u8
 #EXTINF:-1 tvg-id="mjh-eden" tvg-name="eden" tvg-logo="https://i.mjh.nz/.images/eden.png" tvg-chno="18" group-title="NZAU",eden
 https://i.mjh.nz/.r/eden.m3u8
-#EXTINF:-1 tvg-id="mjh-election-2026-sa-decides-fast" tvg-name="Election 2026: SA Decides" tvg-logo="https://imageresizer.static9.net.au/VbZ3vHA_bRzpIRytR2vfJ4PzrZY=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F03%2F760675%2Fnews_sq.png" group-title="NZAU",Election 2026: SA Decides
-https://i.mjh.nz/.r/election-2026-sa-decides-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-etc-fast" tvg-name="Escape to the Country" tvg-logo="https://i.mjh.nz/.images/auto-etc-fast-6d4429.png" group-title="NZAU",Escape to the Country
 https://i.mjh.nz/.r/etc-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-firstlight" tvg-name="Firstlight" tvg-logo="https://i.mjh.nz/.images/firstlight.png" tvg-chno="26" group-title="NZAU",Firstlight
