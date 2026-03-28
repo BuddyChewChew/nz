@@ -89,6 +89,8 @@ https://i.mjh.nz/.r/10-south-park.m3u8
 https://i.mjh.nz/.r/10-southparkkyle.m3u8
 #EXTINF:-1 tvg-id="mjh-10-spongebobsquarepants" tvg-name="SpongeBob SquarePants" tvg-logo="https://10.com.au/ip/s3/2024/05/27/ee4d9694aa3f7a2fe97b6f18aa773b88-1316803.png?image-profile=logo" group-title="NZAU",SpongeBob SquarePants
 https://i.mjh.nz/.r/10-spongebobsquarepants.m3u8
+#EXTINF:-1 tvg-id="mjh-10-tensport5" tvg-name="10 Sport 5" tvg-logo="https://10.com.au/ip/s3/2025/08/20/ff0f2812b7edc667ce796f69a310dfd5-1391076.png?image-profile=logo" group-title="NZAU",10 Sport 5
+https://i.mjh.nz/.r/10-tensport5.m3u8
 #EXTINF:-1 tvg-id="mjh-10-thankgodyourehere" tvg-name="Thank God You're Here" tvg-logo="https://10.com.au/ip/s3/2025/08/19/9cde4af8ad28a81defc2e020775ff74f-1390978.png?image-profile=logo" group-title="NZAU",Thank God You're Here
 https://i.mjh.nz/.r/10-thankgodyourehere.m3u8
 #EXTINF:-1 tvg-id="mjh-10-the-twilight-zone" tvg-name="The Twilight Zone" tvg-logo="https://10.com.au/ip/s3/2023/06/28/c60c6fcc024a5e14036e5f446aa81eae-1246026.png?image-profile=logo" group-title="NZAU",The Twilight Zone
