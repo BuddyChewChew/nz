@@ -273,8 +273,6 @@ https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
 https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="NZAU",Mighty Machines
 https://i.mjh.nz/.r/mightymachines-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-misc501-fast" tvg-name="NDRC (National Drag Racing Championship)" tvg-logo="https://i.mjh.nz/.images/auto-misc501-fast-89df55.png" group-title="NZAU",NDRC (National Drag Racing Championship)
-https://i.mjh.nz/.r/misc501-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1286" tvg-name="Big Rig" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244778333.png" group-title="NZAU",Big Rig
 https://i.mjh.nz/.r/mood-1286.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1287" tvg-name="The Groat" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1743730111010.png" group-title="NZAU",The Groat
@@ -297,8 +295,6 @@ https://i.mjh.nz/.r/outbacktruckers-fast.m3u8
 https://i.mjh.nz/.r/parliament-tv.m3u8
 #EXTINF:-1 tvg-id="mjh-prime" tvg-name="Sky Open" tvg-logo="https://i.mjh.nz/.images/sky-open.png" tvg-chno="8" group-title="NZAU",Sky Open
 https://i.mjh.nz/.r/prime.m3u8
-#EXTINF:-1 tvg-id="mjh-qrl-hostplus-cup-2026-fast" tvg-name="QRL Hostplus Cup 2026" tvg-logo="https://imageresizer.static9.net.au/LNpywqVf2w4867hx6GFb3LerFzs=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F02%2F756275%2Fsquircle_qrlhostplus.png" group-title="NZAU",QRL Hostplus Cup 2026
-https://i.mjh.nz/.r/qrl-hostplus-cup-2026-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-racing-fast" tvg-name="Racing.com" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" tvg-chno="78" group-title="NZAU",Racing.com
 https://i.mjh.nz/.r/racing-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-racingwa-fast" tvg-name="Racing WA" tvg-logo="https://i.mjh.nz/.images/auto-racingwa-fast-128220.png" group-title="NZAU",Racing WA
@@ -379,7 +375,7 @@ https://i.mjh.nz/.r/sky-news-now.m3u8
 https://i.mjh.nz/.r/sky-popup1.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-popup2" tvg-name="ThreeNow Sport 2" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/popup2/logos/default.png" group-title="NZAU",ThreeNow Sport 2
 https://i.mjh.nz/.r/sky-popup2.m3u8
-#EXTINF:-1 tvg-id="mjh-sky-ptcn" tvg-name="CNN Headlines" tvg-logo="https://cdn-prod.fullscreen.nz/v1/images/channel/linear/ptcn/logos/default.png" group-title="NZAU",CNN Headlines
+#EXTINF:-1 tvg-id="mjh-sky-ptcn" tvg-name="CNN Headlines International" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/ptcn/logos/default.png" group-title="NZAU",CNN Headlines International
 https://i.mjh.nz/.r/sky-ptcn.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-ptmb" tvg-name="MythBusters" tvg-logo="https://cdn-prod.fullscreen.nz/v1/images/channel/linear/ptmb/logos/default.png" group-title="NZAU",MythBusters
 https://i.mjh.nz/.r/sky-ptmb.m3u8
