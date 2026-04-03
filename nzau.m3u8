@@ -19,6 +19,8 @@ https://i.mjh.nz/.r/7flix-syd.m3u8
 https://i.mjh.nz/.r/7mate-syd.m3u8
 #EXTINF:-1 tvg-id="mjh-7now-fast" tvg-name="7now" tvg-logo="https://i.mjh.nz/.images/auto-7now-fast-c5b39e.png" group-title="NZAU",7now
 https://i.mjh.nz/.r/7now-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-7pop3-fast" tvg-name="Royal Children's Hospital Good Friday Appeal" tvg-logo="https://i.mjh.nz/.images/auto-7pop3-fast-7908ec.png" group-title="NZAU",Royal Children's Hospital Good Friday Appeal
+https://i.mjh.nz/.r/7pop3-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-7two-syd" tvg-name="7two" tvg-logo="https://i.mjh.nz/.images/auto-7two-syd-701123.png" tvg-chno="72" group-title="NZAU",7two
 https://i.mjh.nz/.r/7two-syd.m3u8
 #EXTINF:-1 tvg-id="mjh-9crime-fast" tvg-name="9Crime" tvg-logo="https://imageresizer.static9.net.au/OwBWBtMcLMF5vBP09k6w4LneJQM=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585343%2Fgroup-61566.png" group-title="NZAU",9Crime
@@ -169,6 +171,8 @@ https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
 https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="NZAU",Mighty Machines
 https://i.mjh.nz/.r/mightymachines-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-misc515-fast" tvg-name="WSL Championship Tour" tvg-logo="https://i.mjh.nz/.images/auto-misc515-fast-35f6c5.png" group-title="NZAU",WSL Championship Tour
+https://i.mjh.nz/.r/misc515-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1286" tvg-name="Big Rig" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244778333.png" group-title="NZAU",Big Rig
 https://i.mjh.nz/.r/mood-1286.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1287" tvg-name="The Groat" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1743730111010.png" group-title="NZAU",The Groat
@@ -269,6 +273,8 @@ https://i.mjh.nz/.r/sky-fast6.m3u8
 https://i.mjh.nz/.r/sky-hgtv.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-news-now" tvg-name="Sky News Now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png" group-title="NZAU",Sky News Now
 https://i.mjh.nz/.r/sky-news-now.m3u8
+#EXTINF:-1 tvg-id="mjh-sky-popup1" tvg-name="ThreeNow Sport 1" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/popup1/logos/default.png" group-title="NZAU",ThreeNow Sport 1
+https://i.mjh.nz/.r/sky-popup1.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-ptcn" tvg-name="CNN Headlines International" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/ptcn/logos/default.png" group-title="NZAU",CNN Headlines International
 https://i.mjh.nz/.r/sky-ptcn.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-ptmb" tvg-name="MythBusters" tvg-logo="https://cdn-prod.fullscreen.nz/v1/images/channel/linear/ptmb/logos/default.png" group-title="NZAU",MythBusters
