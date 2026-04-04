@@ -19,8 +19,6 @@ https://i.mjh.nz/.r/7flix-syd.m3u8
 https://i.mjh.nz/.r/7mate-syd.m3u8
 #EXTINF:-1 tvg-id="mjh-7now-fast" tvg-name="7now" tvg-logo="https://i.mjh.nz/.images/auto-7now-fast-c5b39e.png" group-title="NZAU",7now
 https://i.mjh.nz/.r/7now-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-7pop3-fast" tvg-name="Royal Children's Hospital Good Friday Appeal" tvg-logo="https://i.mjh.nz/.images/auto-7pop3-fast-7908ec.png" group-title="NZAU",Royal Children's Hospital Good Friday Appeal
-https://i.mjh.nz/.r/7pop3-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-7two-syd" tvg-name="7two" tvg-logo="https://i.mjh.nz/.images/auto-7two-syd-701123.png" tvg-chno="72" group-title="NZAU",7two
 https://i.mjh.nz/.r/7two-syd.m3u8
 #EXTINF:-1 tvg-id="mjh-9crime-fast" tvg-name="9Crime" tvg-logo="https://imageresizer.static9.net.au/OwBWBtMcLMF5vBP09k6w4LneJQM=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585343%2Fgroup-61566.png" group-title="NZAU",9Crime
@@ -171,6 +169,8 @@ https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
 https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="NZAU",Mighty Machines
 https://i.mjh.nz/.r/mightymachines-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-misc502-fast" tvg-name="Stawell Gift" tvg-logo="https://i.mjh.nz/.images/auto-misc502-fast-37c619.png" group-title="NZAU",Stawell Gift
+https://i.mjh.nz/.r/misc502-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-misc515-fast" tvg-name="WSL Championship Tour" tvg-logo="https://i.mjh.nz/.images/auto-misc515-fast-35f6c5.png" group-title="NZAU",WSL Championship Tour
 https://i.mjh.nz/.r/misc515-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1286" tvg-name="Big Rig" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244778333.png" group-title="NZAU",Big Rig
