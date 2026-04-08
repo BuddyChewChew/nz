@@ -33,8 +33,8 @@ https://i.mjh.nz/.r/10-embarrassing-bodies.m3u8
 https://i.mjh.nz/.r/10-forty-eight-hours.m3u8
 #EXTINF:-1 tvg-id="mjh-10-geckotv" tvg-name="Gecko TV" tvg-logo="https://10.com.au/ip/s3/2023/02/23/b81bfc3f4737696257ef326b0e68208e-1219777.png?image-profile=logo" tvg-chno="17" group-title="NZAU",Gecko TV
 https://i.mjh.nz/.r/10-geckotv.m3u8
-#EXTINF:-1 tvg-id="mjh-10-ghost_hunters" tvg-name="Ghost Hunters" tvg-logo="https://10.com.au/ip/s3/2024/02/20/6a0f5d5002748886ee7b1936f996a304-1298978.png?image-profile=logo" group-title="NZAU",Ghost Hunters
-https://i.mjh.nz/.r/10-ghost_hunters.m3u8
+#EXTINF:-1 tvg-id="mjh-10-ghosthunters" tvg-name="Ghost Hunters" tvg-logo="https://10.com.au/ip/s3/2024/02/20/6a0f5d5002748886ee7b1936f996a304-1298978.png?image-profile=logo" group-title="NZAU",Ghost Hunters
+https://i.mjh.nz/.r/10-ghosthunters.m3u8
 #EXTINF:-1 tvg-id="mjh-10-hardcorepawn" tvg-name="Hardcore Pawn" tvg-logo="https://10.com.au/ip/s3/2025/03/03/1d46b70035ba5c816af46c6d4ee079cd-1366514.png?image-profile=logo" group-title="NZAU",Hardcore Pawn
 https://i.mjh.nz/.r/10-hardcorepawn.m3u8
 #EXTINF:-1 tvg-id="mjh-10-haunt-tv" tvg-name="Haunt TV" tvg-logo="https://10.com.au/ip/s3/2023/07/12/8cb62aeb9de0e12611b68059325da0f3-1248632.png?image-profile=logo" group-title="NZAU",Haunt TV
@@ -255,6 +255,8 @@ https://i.mjh.nz/.r/hardcorepawn-fast.m3u8
 https://i.mjh.nz/.r/heki-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-hope-channel" tvg-name="Hope Channel" tvg-logo="https://i.mjh.nz/.images/hope-channel.png" tvg-chno="27" group-title="NZAU",Hope Channel
 https://i.mjh.nz/.r/hope-channel.m3u8
+#EXTINF:-1 tvg-id="mjh-igttest123-fast" tvg-name="IGNITE Test Channel" tvg-logo="https://i.mjh.nz/.images/auto-igttest123-fast-7fe952.png" group-title="NZAU",IGNITE Test Channel
+https://i.mjh.nz/.r/igttest123-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-judgejudy-fast" tvg-name="Judge Judy" tvg-logo="https://i.mjh.nz/.images/auto-judgejudy-fast-8781e8.png" group-title="NZAU",Judge Judy
 https://i.mjh.nz/.r/judgejudy-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-life-nsw" tvg-name="9Life" tvg-logo="https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png" tvg-chno="94" group-title="NZAU",9Life
@@ -271,6 +273,8 @@ https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
 https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="NZAU",Mighty Machines
 https://i.mjh.nz/.r/mightymachines-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-misc515-fast" tvg-name="WSL Championship Tour" tvg-logo="https://i.mjh.nz/.images/auto-misc515-fast-35f6c5.png" group-title="NZAU",WSL Championship Tour
+https://i.mjh.nz/.r/misc515-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1286" tvg-name="Big Rig" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244778333.png" group-title="NZAU",Big Rig
 https://i.mjh.nz/.r/mood-1286.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1287" tvg-name="The Groat" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1743730111010.png" group-title="NZAU",The Groat
