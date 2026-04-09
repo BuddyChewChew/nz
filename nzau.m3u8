@@ -163,8 +163,8 @@ https://i.mjh.nz/.r/anglersparadise-fast.m3u8
 https://i.mjh.nz/.r/art-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-ausbiz-fast" tvg-name="ausbiz" tvg-logo="https://i.mjh.nz/.images/auto-ausbiz-fast-b12203.png" group-title="NZAU",ausbiz
 https://i.mjh.nz/.r/ausbiz-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-australian-open-swimming-2026-fast" tvg-name="Australian Open Swimming 2026 " tvg-logo="https://imageresizer.static9.net.au/wrPjfhVL5NaG8YfpIMVKWrIkkrI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F03%2F763777%2Fsquircle_swimmingaus.png" group-title="NZAU",Australian Open Swimming 2026 
-https://i.mjh.nz/.r/australian-open-swimming-2026-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-australian-age-championships-swimming-2026-fast" tvg-name="Australian Age Championships Swimming 2026" tvg-logo="https://imageresizer.static9.net.au/N02Oc19HWgNbFbQS1PGPyI5PXng=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F04%2F765292%2Fsquircle_swimmingaus.png" group-title="NZAU",Australian Age Championships Swimming 2026
+https://i.mjh.nz/.r/australian-age-championships-swimming-2026-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-bbc-antiques-roadshow-247-fast" tvg-name="BBC Antiques Roadshow" tvg-logo="https://imageresizer.static9.net.au/zRjEXK-6iFh-92EKnAZN9rXREkA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648315%2Fgroup-61774.png" group-title="NZAU",BBC Antiques Roadshow
 https://i.mjh.nz/.r/bbc-antiques-roadshow-247-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-bbc-comedy-fast" tvg-name="BBC Comedy" tvg-logo="https://imageresizer.static9.net.au/2bl6ZyviwjpHCeVoXf8twpEVFjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648314%2Fgroup-61772.png" group-title="NZAU",BBC Comedy
@@ -255,8 +255,6 @@ https://i.mjh.nz/.r/hardcorepawn-fast.m3u8
 https://i.mjh.nz/.r/heki-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-hope-channel" tvg-name="Hope Channel" tvg-logo="https://i.mjh.nz/.images/hope-channel.png" tvg-chno="27" group-title="NZAU",Hope Channel
 https://i.mjh.nz/.r/hope-channel.m3u8
-#EXTINF:-1 tvg-id="mjh-igttest123-fast" tvg-name="IGNITE Test Channel" tvg-logo="https://i.mjh.nz/.images/auto-igttest123-fast-7fe952.png" group-title="NZAU",IGNITE Test Channel
-https://i.mjh.nz/.r/igttest123-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-judgejudy-fast" tvg-name="Judge Judy" tvg-logo="https://i.mjh.nz/.images/auto-judgejudy-fast-8781e8.png" group-title="NZAU",Judge Judy
 https://i.mjh.nz/.r/judgejudy-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-life-nsw" tvg-name="9Life" tvg-logo="https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png" tvg-chno="94" group-title="NZAU",9Life
