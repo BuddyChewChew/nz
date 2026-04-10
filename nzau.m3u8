@@ -175,6 +175,8 @@ https://i.mjh.nz/.r/bbc-food-fast.m3u8
 https://i.mjh.nz/.r/bbc-home-garden-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-bbc-news" tvg-name="BBC News" tvg-logo="https://i.mjh.nz/.images/bbc-news.png" group-title="NZAU",BBC News
 https://i.mjh.nz/.r/bbc-news.m3u8
+#EXTINF:-1 tvg-id="mjh-bbc-news-fast" tvg-name="BBC News" tvg-logo="https://imageresizer.static9.net.au/85c0UKHMSSRPXJ2MJ2PXqvUcXok=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F03%2F763537%2Fbbc_squircle.png" group-title="NZAU",BBC News
+https://i.mjh.nz/.r/bbc-news-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-bbc-top-gear-247-fast" tvg-name="BBC Top Gear" tvg-logo="https://imageresizer.static9.net.au/anIncnAgaLBmeroZtHqBIXHpW6c=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648316%2Fgroup-61773.png" group-title="NZAU",BBC Top Gear
 https://i.mjh.nz/.r/bbc-top-gear-247-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-belowdeckvault-fast" tvg-name="Below Deck Vault" tvg-logo="https://i.mjh.nz/.images/auto-belowdeckvault-fast-587793.png" group-title="NZAU",Below Deck Vault
@@ -373,6 +375,10 @@ https://i.mjh.nz/.r/sky-fast6.m3u8
 https://i.mjh.nz/.r/sky-hgtv.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-news-now" tvg-name="Sky News Now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png" group-title="NZAU",Sky News Now
 https://i.mjh.nz/.r/sky-news-now.m3u8
+#EXTINF:-1 tvg-id="mjh-sky-popup1" tvg-name="ThreeNow Sport 1" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/popup1/logos/default.png" group-title="NZAU",ThreeNow Sport 1
+https://i.mjh.nz/.r/sky-popup1.m3u8
+#EXTINF:-1 tvg-id="mjh-sky-popup2" tvg-name="ThreeNow Sport 2" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/popup2/logos/default.png" group-title="NZAU",ThreeNow Sport 2
+https://i.mjh.nz/.r/sky-popup2.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-ptcn" tvg-name="CNN Headlines International" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/ptcn/logos/default.png" group-title="NZAU",CNN Headlines International
 https://i.mjh.nz/.r/sky-ptcn.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-ptmb" tvg-name="MythBusters" tvg-logo="https://cdn-prod.fullscreen.nz/v1/images/channel/linear/ptmb/logos/default.png" group-title="NZAU",MythBusters
