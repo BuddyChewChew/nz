@@ -71,8 +71,6 @@ https://i.mjh.nz/.r/10-nicktoons.m3u8
 https://i.mjh.nz/.r/10-nicktoons-90s.m3u8
 #EXTINF:-1 tvg-id="mjh-10-nsw" tvg-name="10" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" tvg-chno="10" group-title="NZAU",10
 https://i.mjh.nz/.r/10-nsw.m3u8
-#EXTINF:-1 tvg-id="mjh-10-offspring" tvg-name="Offspring" tvg-logo="https://10.com.au/ip/s3/2026/03/03/9f79cc5c1a3ec5d86ed77a87f59ff02b-1417693.png?image-profile=logo" group-title="NZAU",Offspring
-https://i.mjh.nz/.r/10-offspring.m3u8
 #EXTINF:-1 tvg-id="mjh-10-prisoner-cell-block-h" tvg-name="Prisoner: Cell Block H" tvg-logo="https://10.com.au/ip/s3/2022/09/26/b6430b0f79d6b4c9fc5c6ea295bbae03-1182444.png?image-profile=logo" group-title="NZAU",Prisoner: Cell Block H
 https://i.mjh.nz/.r/10-prisoner-cell-block-h.m3u8
 #EXTINF:-1 tvg-id="mjh-10-projectrunway" tvg-name="Project Runway" tvg-logo="https://10.com.au/ip/s3/2025/03/18/9652b72f62d4dcb715e22ec6f972b1e7-1369332.png?image-profile=logo" group-title="NZAU",Project Runway
