@@ -169,6 +169,8 @@ https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
 https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="NZAU",Mighty Machines
 https://i.mjh.nz/.r/mightymachines-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-misc502-fast" tvg-name="Australian Junior Athletics Championships" tvg-logo="https://i.mjh.nz/.images/auto-misc502-fast-8e33d1.png" group-title="NZAU",Australian Junior Athletics Championships
+https://i.mjh.nz/.r/misc502-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1286" tvg-name="Big Rig" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244778333.png" group-title="NZAU",Big Rig
 https://i.mjh.nz/.r/mood-1286.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1287" tvg-name="The Groat" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1743730111010.png" group-title="NZAU",The Groat
