@@ -1,6 +1,108 @@
 #EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/nzau/epg.xml.gz"
+#EXTINF:-1 tvg-id="mjh-10-adultanimation" tvg-name="Adult Animation" tvg-logo="https://10.com.au/ip/s3/2024/03/21/fb3a87d8a0126b81727106f43c2a2aef-1304705.png?image-profile=logo" group-title="NZAU",Adult Animation
+https://i.mjh.nz/.r/10-adultanimation.m3u8
+#EXTINF:-1 tvg-id="mjh-10-americas-next-top-model" tvg-name="America's Next Top Model" tvg-logo="https://10.com.au/ip/s3/2023/06/28/8db83f030cafec640ddec14612d03daa-1246018.png?image-profile=logo" group-title="NZAU",America's Next Top Model
+https://i.mjh.nz/.r/10-americas-next-top-model.m3u8
+#EXTINF:-1 tvg-id="mjh-10-anthonybourdain" tvg-name="Anthony Bourdain: Parts Unknown" tvg-logo="https://10.com.au/ip/s3/2025/05/26/cbf83588f02110ded81566ecc62e2f0e-1380501.png?image-profile=logo" group-title="NZAU",Anthony Bourdain: Parts Unknown
+https://i.mjh.nz/.r/10-anthonybourdain.m3u8
+#EXTINF:-1 tvg-id="mjh-10-australias-next-top-model" tvg-name="Australia's Next Top Model" tvg-logo="https://10.com.au/ip/s3/2024/06/03/224a876a47cdb7e1a8b3bb1eeca17565-1318253.png?image-profile=logo" group-title="NZAU",Australia's Next Top Model
+https://i.mjh.nz/.r/10-australias-next-top-model.m3u8
+#EXTINF:-1 tvg-id="mjh-10-becker" tvg-name="Becker" tvg-logo="https://10.com.au/ip/s3/2023/06/28/e0449ed804aaacb1de64f87d94912dd3-1246030.png?image-profile=logo" group-title="NZAU",Becker
+https://i.mjh.nz/.r/10-becker.m3u8
+#EXTINF:-1 tvg-id="mjh-10-cheapseats" tvg-name="The Cheap Seats" tvg-logo="https://10.com.au/ip/s3/2025/08/08/47006754904d1d36520e76157ecbfb41-1390280.png?image-profile=logo" group-title="NZAU",The Cheap Seats
+https://i.mjh.nz/.r/10-cheapseats.m3u8
+#EXTINF:-1 tvg-id="mjh-10-cops" tvg-name="COPS" tvg-logo="https://10.com.au/ip/s3/2025/03/30/6fadf0873ac36ecacdc63ed8bba4cf3d-1371071.png?image-profile=logo" group-title="NZAU",COPS
+https://i.mjh.nz/.r/10-cops.m3u8
+#EXTINF:-1 tvg-id="mjh-10-crime-hunters" tvg-name="Crime Hunters" tvg-logo="https://10.com.au/ip/s3/2024/03/06/cb69de15e7b8989a218ad25b7f6547ef-1301820.png?image-profile=logo" group-title="NZAU",Crime Hunters
+https://i.mjh.nz/.r/10-crime-hunters.m3u8
+#EXTINF:-1 tvg-id="mjh-10-crime-time" tvg-name="Crime Time" tvg-logo="https://10.com.au/ip/s3/2024/09/25/c27b803a4128c5b097cd3a23e1be973c-1341004.png?image-profile=logo" group-title="NZAU",Crime Time
+https://i.mjh.nz/.r/10-crime-time.m3u8
+#EXTINF:-1 tvg-id="mjh-10-deadlywomen" tvg-name="Deadly Women" tvg-logo="https://10.com.au/ip/s3/2025/06/19/01e576c63918373cd03aa21ea8566f1e-1383812.png?image-profile=logo" group-title="NZAU",Deadly Women
+https://i.mjh.nz/.r/10-deadlywomen.m3u8
+#EXTINF:-1 tvg-id="mjh-10-demanddrama" tvg-name="Demand Drama" tvg-logo="https://10.com.au/ip/s3/2025/11/24/c74394cd357189d5310b9c1a661279d5-1401182.png?image-profile=logo" group-title="NZAU",Demand Drama
+https://i.mjh.nz/.r/10-demanddrama.m3u8
+#EXTINF:-1 tvg-id="mjh-10-diagnosismurder" tvg-name="Diagnosis Murder" tvg-logo="https://10.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png?image-profile=logo" group-title="NZAU",Diagnosis Murder
+https://i.mjh.nz/.r/10-diagnosismurder.m3u8
+#EXTINF:-1 tvg-id="mjh-10-documentaryshell" tvg-name="Sharks & Other Predators" tvg-logo="https://10.com.au/ip/s3/2025/04/27/ef0a0364c8a70872e6d5f7a4cf5d2585-1376360.png?image-profile=logo" group-title="NZAU",Sharks & Other Predators
+https://i.mjh.nz/.r/10-documentaryshell.m3u8
+#EXTINF:-1 tvg-id="mjh-10-eightoutof10cats" tvg-name="8 Out Of 10 Cats" tvg-logo="https://10.com.au/ip/s3/2024/11/18/03a9b9a1a42bcf2ce1bbb94a8fa47224-1350731.png?image-profile=logo" group-title="NZAU",8 Out Of 10 Cats
+https://i.mjh.nz/.r/10-eightoutof10cats.m3u8
+#EXTINF:-1 tvg-id="mjh-10-embarrassing-bodies" tvg-name="Embarrassing Bodies" tvg-logo="https://10.com.au/ip/s3/2024/10/21/f315a8cda9494cc30e29fdba87430ff8-1345391.png?image-profile=logo" group-title="NZAU",Embarrassing Bodies
+https://i.mjh.nz/.r/10-embarrassing-bodies.m3u8
+#EXTINF:-1 tvg-id="mjh-10-forty-eight-hours" tvg-name="48 Hours" tvg-logo="https://10.com.au/ip/s3/2023/06/28/7dd910de29f31095b69e17f1da8f3f0e-1245997.png?image-profile=logo" group-title="NZAU",48 Hours
+https://i.mjh.nz/.r/10-forty-eight-hours.m3u8
+#EXTINF:-1 tvg-id="mjh-10-geckotv" tvg-name="Gecko TV" tvg-logo="https://10.com.au/ip/s3/2023/02/23/b81bfc3f4737696257ef326b0e68208e-1219777.png?image-profile=logo" tvg-chno="17" group-title="NZAU",Gecko TV
+https://i.mjh.nz/.r/10-geckotv.m3u8
+#EXTINF:-1 tvg-id="mjh-10-ghosthunters" tvg-name="Ghost Hunters" tvg-logo="https://10.com.au/ip/s3/2024/02/20/6a0f5d5002748886ee7b1936f996a304-1298978.png?image-profile=logo" group-title="NZAU",Ghost Hunters
+https://i.mjh.nz/.r/10-ghosthunters.m3u8
+#EXTINF:-1 tvg-id="mjh-10-hardcorepawn" tvg-name="Hardcore Pawn" tvg-logo="https://10.com.au/ip/s3/2025/03/03/1d46b70035ba5c816af46c6d4ee079cd-1366514.png?image-profile=logo" group-title="NZAU",Hardcore Pawn
+https://i.mjh.nz/.r/10-hardcorepawn.m3u8
+#EXTINF:-1 tvg-id="mjh-10-haunt-tv" tvg-name="Haunt TV" tvg-logo="https://10.com.au/ip/s3/2023/07/12/8cb62aeb9de0e12611b68059325da0f3-1248632.png?image-profile=logo" group-title="NZAU",Haunt TV
+https://i.mjh.nz/.r/10-haunt-tv.m3u8
+#EXTINF:-1 tvg-id="mjh-10-haveyoubeenpayingattention" tvg-name="Have You Been Paying Attention?" tvg-logo="https://10.com.au/ip/s3/2024/12/17/20963e84ceedc64212b60c21c883e5c4-1356262.png?image-profile=logo" group-title="NZAU",Have You Been Paying Attention?
+https://i.mjh.nz/.r/10-haveyoubeenpayingattention.m3u8
+#EXTINF:-1 tvg-id="mjh-10-heartland" tvg-name="Heartland" tvg-logo="https://10.com.au/ip/s3/2026/02/01/8b5e285428d559ef6e3afdeebfe53a5d-1408387.png?image-profile=logo" group-title="NZAU",Heartland
+https://i.mjh.nz/.r/10-heartland.m3u8
+#EXTINF:-1 tvg-id="mjh-10-highwaythruhell" tvg-name="Highway Thru Hell" tvg-logo="https://10.com.au/ip/s3/2025/06/19/3c941c6bd357c1bc3acc855f846e842c-1383806.png?image-profile=logo" group-title="NZAU",Highway Thru Hell
+https://i.mjh.nz/.r/10-highwaythruhell.m3u8
+#EXTINF:-1 tvg-id="mjh-10-historyandwarfare" tvg-name="History & Warfare" tvg-logo="https://10.com.au/ip/s3/2026/03/17/5010fc64782edb4842a94d1484f72514-1419388.png?image-profile=logo" group-title="NZAU",History & Warfare
+https://i.mjh.nz/.r/10-historyandwarfare.m3u8
+#EXTINF:-1 tvg-id="mjh-10-masterchef" tvg-name="MasterChef" tvg-logo="https://10.com.au/ip/s3/2022/09/02/3fff1b47f7c01770b7f0f319770d5362-1177252.png?image-profile=logo" group-title="NZAU",MasterChef
+https://i.mjh.nz/.r/10-masterchef.m3u8
+#EXTINF:-1 tvg-id="mjh-10-medical-emergency" tvg-name="Medical Emergency" tvg-logo="https://10.com.au/ip/s3/2023/06/28/115b6796134f1e983f41c224c31cc7c9-1246084.png?image-profile=logo" group-title="NZAU",Medical Emergency
+https://i.mjh.nz/.r/10-medical-emergency.m3u8
+#EXTINF:-1 tvg-id="mjh-10-moviesphere" tvg-name="Moviesphere" tvg-logo="https://10.com.au/ip/s3/2022/12/05/6bb229de8fcf96e206e99ca455fc2267-1202912.png?image-profile=logo" group-title="NZAU",Moviesphere
+https://i.mjh.nz/.r/10-moviesphere.m3u8
+#EXTINF:-1 tvg-id="mjh-10-mtv-jersey-shore" tvg-name="MTV Jersey Shore" tvg-logo="https://10.com.au/ip/s3/2024/07/22/c0f6c4c235b6c6c3cfbce14921c9296a-1328660.png?image-profile=logo" group-title="NZAU",MTV Jersey Shore
+https://i.mjh.nz/.r/10-mtv-jersey-shore.m3u8
+#EXTINF:-1 tvg-id="mjh-10-mtv-reality" tvg-name="MTV Reality" tvg-logo="https://10.com.au/ip/s3/2023/09/25/f51b3f2548dfdb88949cdbd13f037679-1266119.png?image-profile=logo" group-title="NZAU",MTV Reality
+https://i.mjh.nz/.r/10-mtv-reality.m3u8
+#EXTINF:-1 tvg-id="mjh-10-mtvgeordieshore" tvg-name="MTV Geordie Shore" tvg-logo="https://10.com.au/ip/s3/2024/02/19/bf63da35ab6b66b6af03dec697ccaf99-1298650.png?image-profile=logo" group-title="NZAU",MTV Geordie Shore
+https://i.mjh.nz/.r/10-mtvgeordieshore.m3u8
+#EXTINF:-1 tvg-id="mjh-10-mtvridiculousness" tvg-name="MTV Ridiculousness" tvg-logo="https://10.com.au/ip/s3/2024/02/19/6a7d740896d031b59c9d33d0e6dff544-1298686.png?image-profile=logo" group-title="NZAU",MTV Ridiculousness
+https://i.mjh.nz/.r/10-mtvridiculousness.m3u8
+#EXTINF:-1 tvg-id="mjh-10-nick-jr" tvg-name="Nick Jr Club" tvg-logo="https://10.com.au/ip/s3/2024/06/06/d14509f218578984e3a6f6f34f0ee12c-1319009.png?image-profile=logo" group-title="NZAU",Nick Jr Club
+https://i.mjh.nz/.r/10-nick-jr.m3u8
+#EXTINF:-1 tvg-id="mjh-10-nickteen" tvg-name="NickTeen" tvg-logo="https://10.com.au/ip/s3/2024/06/04/ecc540be818b29d753e036e046028a27-1318595.png?image-profile=logo" group-title="NZAU",NickTeen
+https://i.mjh.nz/.r/10-nickteen.m3u8
+#EXTINF:-1 tvg-id="mjh-10-nicktoons" tvg-name="NickToons" tvg-logo="https://10.com.au/ip/s3/2024/06/04/f2f7c4166d8450351c2ae5d8b28c769e-1318512.png?image-profile=logo" group-title="NZAU",NickToons
+https://i.mjh.nz/.r/10-nicktoons.m3u8
+#EXTINF:-1 tvg-id="mjh-10-nicktoons-90s" tvg-name="NickToons 90s" tvg-logo="https://10.com.au/ip/s3/2024/06/07/a1aaf63737e7d2076759dd850b58471a-1319376.png?image-profile=logo" group-title="NZAU",NickToons 90s
+https://i.mjh.nz/.r/10-nicktoons-90s.m3u8
 #EXTINF:-1 tvg-id="mjh-10-nsw" tvg-name="10" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" tvg-chno="10" group-title="NZAU",10
 https://i.mjh.nz/.r/10-nsw.m3u8
+#EXTINF:-1 tvg-id="mjh-10-prisoner-cell-block-h" tvg-name="Prisoner: Cell Block H" tvg-logo="https://10.com.au/ip/s3/2022/09/26/b6430b0f79d6b4c9fc5c6ea295bbae03-1182444.png?image-profile=logo" group-title="NZAU",Prisoner: Cell Block H
+https://i.mjh.nz/.r/10-prisoner-cell-block-h.m3u8
+#EXTINF:-1 tvg-id="mjh-10-projectrunway" tvg-name="Project Runway" tvg-logo="https://10.com.au/ip/s3/2025/03/18/9652b72f62d4dcb715e22ec6f972b1e7-1369332.png?image-profile=logo" group-title="NZAU",Project Runway
+https://i.mjh.nz/.r/10-projectrunway.m3u8
+#EXTINF:-1 tvg-id="mjh-10-romancemovies" tvg-name="Romance Movies" tvg-logo="https://10.com.au/ip/s3/2026/02/01/b6b83c33a913b0086cd9991c6b1d0512-1408395.png?image-profile=logo" group-title="NZAU",Romance Movies
+https://i.mjh.nz/.r/10-romancemovies.m3u8
+#EXTINF:-1 tvg-id="mjh-10-rookieblue" tvg-name="rookie-blue" tvg-logo="https://10.com.au/ip/s3/2026/02/01/b4f014a58a872ecca3409d233c38f122-1408366.png?image-profile=logo" group-title="NZAU",rookie-blue
+https://i.mjh.nz/.r/10-rookieblue.m3u8
+#EXTINF:-1 tvg-id="mjh-10-shockwave" tvg-name="Shockwave" tvg-logo="https://10.com.au/ip/s3/2026/03/31/145f61f54f2e66b3bf4a2fefff5b267a-1421437.png?image-profile=logo" group-title="NZAU",Shockwave
+https://i.mjh.nz/.r/10-shockwave.m3u8
+#EXTINF:-1 tvg-id="mjh-10-south-park" tvg-name="South Park" tvg-logo="https://10.com.au/ip/s3/2023/08/03/41a79ba6a28f011b379ea68d41c28ea0-1253591.png?image-profile=logo" group-title="NZAU",South Park
+https://i.mjh.nz/.r/10-south-park.m3u8
+#EXTINF:-1 tvg-id="mjh-10-spongebobsquarepants" tvg-name="SpongeBob SquarePants" tvg-logo="https://10.com.au/ip/s3/2024/05/27/ee4d9694aa3f7a2fe97b6f18aa773b88-1316803.png?image-profile=logo" group-title="NZAU",SpongeBob SquarePants
+https://i.mjh.nz/.r/10-spongebobsquarepants.m3u8
+#EXTINF:-1 tvg-id="mjh-10-thankgodyourehere" tvg-name="Thank God You're Here" tvg-logo="https://10.com.au/ip/s3/2025/08/19/9cde4af8ad28a81defc2e020775ff74f-1390978.png?image-profile=logo" group-title="NZAU",Thank God You're Here
+https://i.mjh.nz/.r/10-thankgodyourehere.m3u8
+#EXTINF:-1 tvg-id="mjh-10-the-twilight-zone" tvg-name="The Twilight Zone" tvg-logo="https://10.com.au/ip/s3/2023/06/28/c60c6fcc024a5e14036e5f446aa81eae-1246026.png?image-profile=logo" group-title="NZAU",The Twilight Zone
+https://i.mjh.nz/.r/10-the-twilight-zone.m3u8
+#EXTINF:-1 tvg-id="mjh-10-theonlywayisessex" tvg-name="The Only Way Is Essex" tvg-logo="https://10.com.au/ip/s3/2024/10/21/644463c986545838587c1b800be3da68-1345463.png?image-profile=logo" group-title="NZAU",The Only Way Is Essex
+https://i.mjh.nz/.r/10-theonlywayisessex.m3u8
+#EXTINF:-1 tvg-id="mjh-10-true-stories" tvg-name="True Stories" tvg-logo="https://10.com.au/ip/s3/2022/09/22/bf31efb3f5efe008cc774909b0cef282-1181809.png?image-profile=logo" group-title="NZAU",True Stories
+https://i.mjh.nz/.r/10-true-stories.m3u8
+#EXTINF:-1 tvg-id="mjh-10-twentyfoursevengameshows" tvg-name="24/7 Gameshows" tvg-logo="https://10.com.au/ip/s3/2025/11/24/c583accb5c213a54fd36f23a829c5ba4-1401207.png?image-profile=logo" group-title="NZAU",24/7 Gameshows
+https://i.mjh.nz/.r/10-twentyfoursevengameshows.m3u8
+#EXTINF:-1 tvg-id="mjh-10-undercoverboss" tvg-name="Undercover Boss" tvg-logo="https://10.com.au/ip/s3/2024/10/21/45e53866fa7cd6757ddf34e52e7a9262-1345397.png?image-profile=logo" group-title="NZAU",Undercover Boss
+https://i.mjh.nz/.r/10-undercoverboss.m3u8
+#EXTINF:-1 tvg-id="mjh-10-wicked-tuna" tvg-name="Wicked Tuna" tvg-logo="https://10.com.au/ip/s3/2022/09/02/2d667eb54bf0119b84b744f9569ee214-1177247.png?image-profile=logo" group-title="NZAU",Wicked Tuna
+https://i.mjh.nz/.r/10-wicked-tuna.m3u8
+#EXTINF:-1 tvg-id="mjh-10-world-of-survivor" tvg-name="World Of Survivor" tvg-logo="https://10.com.au/ip/s3/2024/09/24/6a7955dee63fad795d40332b9cfbf8ce-1340644.png?image-profile=logo" group-title="NZAU",World Of Survivor
+https://i.mjh.nz/.r/10-world-of-survivor.m3u8
+#EXTINF:-1 tvg-id="mjh-10-youtv" tvg-name="YouTV" tvg-logo="https://10.com.au/ip/s3/2024/07/10/33f7c16e8ba1628d52844cb45b8eac4f-1326074.png?image-profile=logo" tvg-chno="16" group-title="NZAU",YouTV
+https://i.mjh.nz/.r/10-youtv.m3u8
 #EXTINF:-1 tvg-id="mjh-10bold-nsw" tvg-name="10 Drama" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/66c9f2639a7bca4a6691764a0db801d7-1384581.png" tvg-chno="12" group-title="NZAU",10 Drama
 https://i.mjh.nz/.r/10bold-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-10peach-nsw" tvg-name="10 Comedy" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/443fa2a5bca1191f12efa002a2a8ef85-1384586.png" tvg-chno="11" group-title="NZAU",10 Comedy
@@ -177,8 +279,6 @@ https://i.mjh.nz/.r/mood-1288.m3u8
 https://i.mjh.nz/.r/mood-1289.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1290" tvg-name="JuiceTV" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244355255.png" tvg-chno="38" group-title="NZAU",JuiceTV
 https://i.mjh.nz/.r/mood-1290.m3u8
-#EXTINF:-1 tvg-id="mjh-moviesphere-fast" tvg-name="MovieSphere" tvg-logo="https://i.mjh.nz/.images/auto-moviesphere-fast-c0653a.png" group-title="NZAU",MovieSphere
-https://i.mjh.nz/.r/moviesphere-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mythbusters-fast" tvg-name="Mythbusters" tvg-logo="https://i.mjh.nz/.images/auto-mythbusters-fast-3a72b1.png" group-title="NZAU",Mythbusters
 https://i.mjh.nz/.r/mythbusters-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-ncis-fast" tvg-name="NCIS" tvg-logo="https://i.mjh.nz/.images/auto-ncis-fast-6f82bd.png" group-title="NZAU",NCIS
