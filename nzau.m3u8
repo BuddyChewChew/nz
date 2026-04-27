@@ -159,8 +159,6 @@ https://i.mjh.nz/.r/allsaints-fast.m3u8
 https://i.mjh.nz/.r/anglersparadise-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-art-fast" tvg-name="Antiques Road Trip" tvg-logo="https://i.mjh.nz/.images/auto-art-fast-99c60f.png" group-title="NZAU",Antiques Road Trip
 https://i.mjh.nz/.r/art-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-ausbiz-fast" tvg-name="ausbiz" tvg-logo="https://i.mjh.nz/.images/auto-ausbiz-fast-b12203.png" group-title="NZAU",ausbiz
-https://i.mjh.nz/.r/ausbiz-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-bbc-antiques-roadshow-247-fast" tvg-name="BBC Antiques Roadshow" tvg-logo="https://imageresizer.static9.net.au/zRjEXK-6iFh-92EKnAZN9rXREkA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648315%2Fgroup-61774.png" group-title="NZAU",BBC Antiques Roadshow
 https://i.mjh.nz/.r/bbc-antiques-roadshow-247-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-bbc-comedy-fast" tvg-name="BBC Comedy" tvg-logo="https://imageresizer.static9.net.au/2bl6ZyviwjpHCeVoXf8twpEVFjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648314%2Fgroup-61772.png" group-title="NZAU",BBC Comedy
@@ -269,8 +267,6 @@ https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
 https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="NZAU",Mighty Machines
 https://i.mjh.nz/.r/mightymachines-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-misc515-fast" tvg-name="WSL Championship Tour" tvg-logo="https://i.mjh.nz/.images/auto-misc515-fast-35f6c5.png" group-title="NZAU",WSL Championship Tour
-https://i.mjh.nz/.r/misc515-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1286" tvg-name="Big Rig" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244778333.png" group-title="NZAU",Big Rig
 https://i.mjh.nz/.r/mood-1286.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1287" tvg-name="The Groat" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1743730111010.png" group-title="NZAU",The Groat
