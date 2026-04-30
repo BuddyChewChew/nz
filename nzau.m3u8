@@ -99,6 +99,8 @@ https://i.mjh.nz/.r/10-twentyfoursevengameshows.m3u8
 https://i.mjh.nz/.r/10-undercoverboss.m3u8
 #EXTINF:-1 tvg-id="mjh-10-wicked-tuna" tvg-name="Wicked Tuna" tvg-logo="https://10.com.au/ip/s3/2022/09/02/2d667eb54bf0119b84b744f9569ee214-1177247.png?image-profile=logo" group-title="NZAU",Wicked Tuna
 https://i.mjh.nz/.r/10-wicked-tuna.m3u8
+#EXTINF:-1 tvg-id="mjh-10-wildest" tvg-name="Wildest" tvg-logo="https://10.com.au/ip/s3/2026/04/28/230f46ab9b55bdb4f98a00f616d8b0a2-1424324.png?image-profile=logo" group-title="NZAU",Wildest
+https://i.mjh.nz/.r/10-wildest.m3u8
 #EXTINF:-1 tvg-id="mjh-10-world-of-survivor" tvg-name="World Of Survivor" tvg-logo="https://10.com.au/ip/s3/2024/09/24/6a7955dee63fad795d40332b9cfbf8ce-1340644.png?image-profile=logo" group-title="NZAU",World Of Survivor
 https://i.mjh.nz/.r/10-world-of-survivor.m3u8
 #EXTINF:-1 tvg-id="mjh-10-youtv" tvg-name="YouTV" tvg-logo="https://10.com.au/ip/s3/2024/07/10/33f7c16e8ba1628d52844cb45b8eac4f-1326074.png?image-profile=logo" tvg-chno="16" group-title="NZAU",YouTV
@@ -383,8 +385,6 @@ https://i.mjh.nz/.r/sky-racing-2.m3u8
 https://i.mjh.nz/.r/sky-racing-thoroughbred.m3u8
 #EXTINF:-1 tvg-id="mjh-snowy-mountains" tvg-name="Snowy Mountains Television" tvg-logo="https://i.mjh.nz/.images/smtv.png" group-title="NZAU",Snowy Mountains Television
 https://i.mjh.nz/.r/snowy-mountains.m3u8
-#EXTINF:-1 tvg-id="mjh-superbowlchampions-fast" tvg-name="Super Bowl Champions" tvg-logo="https://i.mjh.nz/.images/auto-superbowlchampions-fast-613fd9.png" group-title="NZAU",Super Bowl Champions
-https://i.mjh.nz/.r/superbowlchampions-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-surveillancecentral-fast" tvg-name="Surveillance Central" tvg-logo="https://i.mjh.nz/.images/auto-surveillancecentral-fast-4eeefa.png" group-title="NZAU",Surveillance Central
 https://i.mjh.nz/.r/surveillancecentral-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-taste-fast" tvg-name="Taste" tvg-logo="https://i.mjh.nz/.images/auto-taste-fast-9581ec.png" group-title="NZAU",Taste
