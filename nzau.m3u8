@@ -129,6 +129,8 @@ https://i.mjh.nz/.r/7two-syd.m3u8
 https://i.mjh.nz/.r/9crime-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-9mysteryparanormal-fast" tvg-name="9Mystery&Paranormal" tvg-logo="https://imageresizer.static9.net.au/1l9r5t0Fkyry61l_5eKpIxtv0SE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F685323%2Fmp_squircle.png" group-title="NZAU",9Mystery&Paranormal
 https://i.mjh.nz/.r/9mysteryparanormal-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-9news-federal-budget-2026-fast" tvg-name="9News: Federal Budget 2026" tvg-logo="https://imageresizer.static9.net.au/i7D6lpcvf6ew_wK61mcEd7N42hI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F05%2F770538%2Fnews_sq.png" group-title="NZAU",9News: Federal Budget 2026
+https://i.mjh.nz/.r/9news-federal-budget-2026-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-abc-90-seconds-business" tvg-name="ABC Business in 90 Seconds" tvg-logo="https://live-production.wcms.abc-cdn.net.au/ae76d32898cca0be596b7f23c1bd41f2?impolicy=wcms_crop_resize&cropH=630&cropW=1119&xPos=10&yPos=0&width=862&height=485" group-title="NZAU",ABC Business in 90 Seconds
 https://c.mjh.nz/business_in_90_seconds
 #EXTINF:-1 tvg-id="mjh-abc-90-seconds-news" tvg-name="ABC News in 90 Seconds" tvg-logo="https://live-production.wcms.abc-cdn.net.au/144a0dacebeb9f616c1fcd637e3b2cf2?impolicy=wcms_crop_resize&cropH=630&cropW=1119&xPos=10&yPos=0&width=862&height=485" group-title="NZAU",ABC News in 90 Seconds
