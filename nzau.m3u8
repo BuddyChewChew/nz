@@ -73,8 +73,6 @@ https://i.mjh.nz/.r/10-nicktoons-90s.m3u8
 https://i.mjh.nz/.r/10-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-10-prisoner-cell-block-h" tvg-name="Prisoner: Cell Block H" tvg-logo="https://10.com.au/ip/s3/2022/09/26/b6430b0f79d6b4c9fc5c6ea295bbae03-1182444.png?image-profile=logo" group-title="NZAU",Prisoner: Cell Block H
 https://i.mjh.nz/.r/10-prisoner-cell-block-h.m3u8
-#EXTINF:-1 tvg-id="mjh-10-projectrunway" tvg-name="Project Runway" tvg-logo="https://10.com.au/ip/s3/2025/03/18/9652b72f62d4dcb715e22ec6f972b1e7-1369332.png?image-profile=logo" group-title="NZAU",Project Runway
-https://i.mjh.nz/.r/10-projectrunway.m3u8
 #EXTINF:-1 tvg-id="mjh-10-romancemovies" tvg-name="Romance Movies" tvg-logo="https://10.com.au/ip/s3/2026/02/01/b6b83c33a913b0086cd9991c6b1d0512-1408395.png?image-profile=logo" group-title="NZAU",Romance Movies
 https://i.mjh.nz/.r/10-romancemovies.m3u8
 #EXTINF:-1 tvg-id="mjh-10-rookieblue" tvg-name="rookie-blue" tvg-logo="https://10.com.au/ip/s3/2026/02/01/b4f014a58a872ecca3409d233c38f122-1408366.png?image-profile=logo" group-title="NZAU",rookie-blue
@@ -99,8 +97,6 @@ https://i.mjh.nz/.r/10-twentyfoursevengameshows.m3u8
 https://i.mjh.nz/.r/10-undercoverboss.m3u8
 #EXTINF:-1 tvg-id="mjh-10-wicked-tuna" tvg-name="Wicked Tuna" tvg-logo="https://10.com.au/ip/s3/2022/09/02/2d667eb54bf0119b84b744f9569ee214-1177247.png?image-profile=logo" group-title="NZAU",Wicked Tuna
 https://i.mjh.nz/.r/10-wicked-tuna.m3u8
-#EXTINF:-1 tvg-id="mjh-10-wildest" tvg-name="Wildest" tvg-logo="https://10.com.au/ip/s3/2026/04/28/230f46ab9b55bdb4f98a00f616d8b0a2-1424324.png?image-profile=logo" group-title="NZAU",Wildest
-https://i.mjh.nz/.r/10-wildest.m3u8
 #EXTINF:-1 tvg-id="mjh-10-world-of-survivor" tvg-name="World Of Survivor" tvg-logo="https://10.com.au/ip/s3/2024/09/24/6a7955dee63fad795d40332b9cfbf8ce-1340644.png?image-profile=logo" group-title="NZAU",World Of Survivor
 https://i.mjh.nz/.r/10-world-of-survivor.m3u8
 #EXTINF:-1 tvg-id="mjh-10-youtv" tvg-name="YouTV" tvg-logo="https://10.com.au/ip/s3/2024/07/10/33f7c16e8ba1628d52844cb45b8eac4f-1326074.png?image-profile=logo" tvg-chno="16" group-title="NZAU",YouTV
