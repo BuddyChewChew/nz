@@ -259,6 +259,8 @@ https://i.mjh.nz/.r/heki-fast.m3u8
 https://i.mjh.nz/.r/hope-channel.m3u8
 #EXTINF:-1 tvg-id="mjh-judgejudy-fast" tvg-name="Judge Judy" tvg-logo="https://i.mjh.nz/.images/auto-judgejudy-fast-8781e8.png" group-title="NZAU",Judge Judy
 https://i.mjh.nz/.r/judgejudy-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-kitchennightmares-fast" tvg-name="Kitchen Nightmares" tvg-logo="https://i.mjh.nz/.images/auto-kitchennightmares-fast-ba1ad2.png" group-title="NZAU",Kitchen Nightmares
+https://i.mjh.nz/.r/kitchennightmares-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-life-nsw" tvg-name="9Life" tvg-logo="https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png" tvg-chno="94" group-title="NZAU",9Life
 https://i.mjh.nz/.r/life-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-livgolfreplays-fast" tvg-name="LIV Golf Replays" tvg-logo="https://i.mjh.nz/.images/auto-livgolfreplays-fast-471f30.png" group-title="NZAU",LIV Golf Replays
@@ -341,14 +343,14 @@ https://i.mjh.nz/.r/sbs-sbs-pop-araby.m3u8
 https://i.mjh.nz/.r/sbs-sbs-pop-asia.m3u8
 #EXTINF:-1 tvg-id="mjh-sbs-sbs-pop-desi" tvg-name="SBS South Asian" tvg-logo="https://image.pr.sbsod.com/4d5e3445-4705-5d55-81cf-3fc64a3ec2ff" tvg-chno="305" group-title="NZAU",SBS South Asian
 https://i.mjh.nz/.r/sbs-sbs-pop-desi.m3u8
-#EXTINF:-1 tvg-id="mjh-sbs-sbs-popeuro" tvg-name="SBS PopEuro" tvg-logo="https://image.pr.sbsod.com/8438d1c7-64dd-566b-89a2-b7d1e287727a" group-title="NZAU",SBS PopEuro
-https://i.mjh.nz/.r/sbs-sbs-popeuro.m3u8
 #EXTINF:-1 tvg-id="mjh-sbs-sbs-radio-1" tvg-name="SBS Radio 1" tvg-logo="https://image.pr.sbsod.com/084f19c8-f6dc-5124-a06a-ebcaf8ef38c6" tvg-chno="301" group-title="NZAU",SBS Radio 1
 https://i.mjh.nz/.r/sbs-sbs-radio-1.m3u8
 #EXTINF:-1 tvg-id="mjh-sbs-sbs-radio-2" tvg-name="SBS Radio 2" tvg-logo="https://image.pr.sbsod.com/7d5749f1-254e-57ca-923d-2b2b1b33821f" tvg-chno="302" group-title="NZAU",SBS Radio 2
 https://i.mjh.nz/.r/sbs-sbs-radio-2.m3u8
 #EXTINF:-1 tvg-id="mjh-sbs-sbs-radio-3" tvg-name="SBS Radio 3" tvg-logo="https://image.pr.sbsod.com/30724f75-f20c-512c-9108-cda06930de39" tvg-chno="303" group-title="NZAU",SBS Radio 3
 https://i.mjh.nz/.r/sbs-sbs-radio-3.m3u8
+#EXTINF:-1 tvg-id="mjh-sbs-sbs-radio-4" tvg-name="SBS KickOff" tvg-logo="https://image.pr.sbsod.com/96fa412f-bcbc-59e3-9be8-57005915cf86" group-title="NZAU",SBS KickOff
+https://i.mjh.nz/.r/sbs-sbs-radio-4.m3u8
 #EXTINF:-1 tvg-id="mjh-sbs-sbst" tvg-name="SBS" tvg-logo="https://image.pr.sbsod.com/b073959a-a63e-5b6a-a05a-157d615a4b8c" tvg-chno="30" group-title="NZAU",SBS
 https://i.mjh.nz/.r/sbs-sbst.m3u8
 #EXTINF:-1 tvg-id="mjh-sbs-sysdata_s_p_a_fifa_6" tvg-name="FIFA+" tvg-logo="https://image.pr.sbsod.com/82e2f8e9-238d-599f-84e7-891a54026c9f" group-title="NZAU",FIFA+
