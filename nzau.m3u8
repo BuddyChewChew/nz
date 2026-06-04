@@ -273,8 +273,6 @@ https://i.mjh.nz/.r/maori-tv.m3u8
 https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-medicalnrescue-fast" tvg-name="Medical And Rescue" tvg-logo="https://i.mjh.nz/.images/auto-medicalnrescue-fast-bd9388.png" group-title="NZAU",Medical And Rescue
 https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="NZAU",Mighty Machines
-https://i.mjh.nz/.r/mightymachines-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1286" tvg-name="Big Rig" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244778333.png" group-title="NZAU",Big Rig
 https://i.mjh.nz/.r/mood-1286.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1287" tvg-name="The Groat" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1743730111010.png" group-title="NZAU",The Groat
@@ -418,11 +416,11 @@ https://i.mjh.nz/.r/truckinghell-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-truecrimefiles-fast" tvg-name="True Crime Files" tvg-logo="https://i.mjh.nz/.images/auto-truecrimefiles-fast-26e3bf.png" group-title="NZAU",True Crime Files
 https://i.mjh.nz/.r/truecrimefiles-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-tvnz-1" tvg-name="TVNZ 1" tvg-logo="https://i.mjh.nz/.images/tvnz-1.png" tvg-chno="1" group-title="NZAU",TVNZ 1
-https://i.mjh.nz/.r/tvnz-1.m3u8
+https://i.mjh.nz/.r/tvnz-1.mpd
 #EXTINF:-1 tvg-id="mjh-tvnz-2" tvg-name="TVNZ 2" tvg-logo="https://i.mjh.nz/.images/tvnz-2.png" tvg-chno="2" group-title="NZAU",TVNZ 2
-https://i.mjh.nz/.r/tvnz-2.m3u8
+https://i.mjh.nz/.r/tvnz-2.mpd
 #EXTINF:-1 tvg-id="mjh-tvnz-duke" tvg-name="DUKE" tvg-logo="https://i.mjh.nz/.images/tvnz-duke.png" tvg-chno="6" group-title="NZAU",DUKE
-https://i.mjh.nz/.r/tvnz-duke.m3u8
+https://i.mjh.nz/.r/tvnz-duke.mpd
 #EXTINF:-1 tvg-id="mjh-tvsn-fast" tvg-name="TVSN" tvg-logo="https://i.mjh.nz/.images/auto-tvsn-fast-eda516.png" tvg-chno="77" group-title="NZAU",TVSN
 https://i.mjh.nz/.r/tvsn-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-tvsn-shopping" tvg-name="TVSN Shopping" tvg-logo="https://i.mjh.nz/.images/tvsn-shopping.png" group-title="NZAU",TVSN Shopping
