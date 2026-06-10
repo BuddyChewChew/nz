@@ -131,6 +131,8 @@ https://i.mjh.nz/.r/7two-syd.m3u8
 https://i.mjh.nz/.r/9crime-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-9mysteryparanormal-fast" tvg-name="9Mystery&Paranormal" tvg-logo="https://imageresizer.static9.net.au/1l9r5t0Fkyry61l_5eKpIxtv0SE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F685323%2Fmp_squircle.png" group-title="NZAU",9Mystery&Paranormal
 https://i.mjh.nz/.r/9mysteryparanormal-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-9news-presents-farewell-neale-daniher-fast" tvg-name="9News Presents: Farewell, Neale Daniher" tvg-logo="https://imageresizer.static9.net.au/HrDqtCLgHH8lsbGu2fHQpr-R33M=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F06%2F776837%2Fliveeventgroupswitcherimage_blue.png" group-title="NZAU",9News Presents: Farewell, Neale Daniher
+https://i.mjh.nz/.r/9news-presents-farewell-neale-daniher-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-abc-90-seconds-business" tvg-name="ABC Business in 90 Seconds" tvg-logo="https://live-production.wcms.abc-cdn.net.au/ae76d32898cca0be596b7f23c1bd41f2?impolicy=wcms_crop_resize&cropH=630&cropW=1119&xPos=10&yPos=0&width=862&height=485" group-title="NZAU",ABC Business in 90 Seconds
 https://c.mjh.nz/business_in_90_seconds
 #EXTINF:-1 tvg-id="mjh-abc-90-seconds-news" tvg-name="ABC News in 90 Seconds" tvg-logo="https://live-production.wcms.abc-cdn.net.au/144a0dacebeb9f616c1fcd637e3b2cf2?impolicy=wcms_crop_resize&cropH=630&cropW=1119&xPos=10&yPos=0&width=862&height=485" group-title="NZAU",ABC News in 90 Seconds
@@ -149,6 +151,8 @@ https://c.mjh.nz/abc-news.m3u8
 https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-abc-tv-plus" tvg-name="ABC Family" tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/7_Family_C-1053_iview_LivestreamOff_2000x2000_new.png" tvg-chno="22" group-title="NZAU",ABC Family
 https://c.mjh.nz/abc-tv-plus.m3u8
+#EXTINF:-1 tvg-id="mjh-acountrypractice-fast" tvg-name="A Country Practice" tvg-logo="https://i.mjh.nz/.images/auto-acountrypractice-fast-3f02ad.png" group-title="NZAU",A Country Practice
+https://i.mjh.nz/.r/acountrypractice-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-aircrashinvestigations-fast" tvg-name="Air Crash Investigations" tvg-logo="https://i.mjh.nz/.images/auto-aircrashinvestigations-fast-7ff35e.png" group-title="NZAU",Air Crash Investigations
 https://i.mjh.nz/.r/aircrashinvestigations-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" tvg-chno="20" group-title="NZAU",Al Jazeera
