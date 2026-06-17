@@ -23,6 +23,8 @@ https://i.mjh.nz/.r/maori-tv.m3u8
 https://i.mjh.nz/.r/mood-1286.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1287" tvg-name="The Groat" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1743730111010.png" group-title="NZ",The Groat
 https://i.mjh.nz/.r/mood-1287.m3u8
+#EXTINF:-1 tvg-id="mjh-mood-1288" tvg-name="Melo" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744280017572.png" group-title="NZ",Melo
+https://i.mjh.nz/.r/mood-1288.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1289" tvg-name="J2" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1762940270646.png" group-title="NZ",J2
 https://i.mjh.nz/.r/mood-1289.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1290" tvg-name="JuiceTV" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244355255.png" tvg-chno="38" group-title="NZ",JuiceTV

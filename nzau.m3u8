@@ -273,10 +273,14 @@ https://i.mjh.nz/.r/maori-tv.m3u8
 https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-medicalnrescue-fast" tvg-name="Medical And Rescue" tvg-logo="https://i.mjh.nz/.images/auto-medicalnrescue-fast-bd9388.png" group-title="NZAU",Medical And Rescue
 https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="NZAU",Mighty Machines
+https://i.mjh.nz/.r/mightymachines-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1286" tvg-name="Big Rig" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244778333.png" group-title="NZAU",Big Rig
 https://i.mjh.nz/.r/mood-1286.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1287" tvg-name="The Groat" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1743730111010.png" group-title="NZAU",The Groat
 https://i.mjh.nz/.r/mood-1287.m3u8
+#EXTINF:-1 tvg-id="mjh-mood-1288" tvg-name="Melo" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744280017572.png" group-title="NZAU",Melo
+https://i.mjh.nz/.r/mood-1288.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1289" tvg-name="J2" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1762940270646.png" group-title="NZAU",J2
 https://i.mjh.nz/.r/mood-1289.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1290" tvg-name="JuiceTV" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244355255.png" tvg-chno="38" group-title="NZAU",JuiceTV
