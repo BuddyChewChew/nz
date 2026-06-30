@@ -39,29 +39,25 @@ https://i.mjh.nz/.r/redbull-tv.m3u8
 https://i.mjh.nz/.r/rush-nz.m3u8
 #EXTINF:-1 tvg-id="mjh-shine-tv" tvg-name="Shine TV" tvg-logo="https://i.mjh.nz/.images/shine-tv.png" tvg-chno="25" group-title="NZ",Shine TV
 https://i.mjh.nz/.r/shine-tv.m3u8
-#EXTINF:-1 tvg-id="mjh-sky-fast1" tvg-name="Warner Bros TV Motorheads" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/fast1/logos/default.png" group-title="NZ",Warner Bros TV Motorheads
+#EXTINF:-1 tvg-id="mjh-sky-fast1" tvg-name="Warner Bros TV Motorheads" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/laHWrOWVIUsYpUq2F7y0r/900f30b379ffadcdd49ea43ff83dc3d9/Logo_Images_-_default.png" group-title="NZ",Warner Bros TV Motorheads
 https://i.mjh.nz/.r/sky-fast1.m3u8
-#EXTINF:-1 tvg-id="mjh-sky-fast2" tvg-name="Warner Bros TV Deadliest Catch" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/fast2/logos/default.png" group-title="NZ",Warner Bros TV Deadliest Catch
+#EXTINF:-1 tvg-id="mjh-sky-fast2" tvg-name="Warner Bros TV Deadliest Catch" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/4sdV9uGhLQRMYrBdMtGTNs/15a364e6a26ee48cff2979fa9f90bf51/Logo_-_default.png" group-title="NZ",Warner Bros TV Deadliest Catch
 https://i.mjh.nz/.r/sky-fast2.m3u8
-#EXTINF:-1 tvg-id="mjh-sky-fast3" tvg-name="Below Deck Vault" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/fast3/logos/default.png" group-title="NZ",Below Deck Vault
+#EXTINF:-1 tvg-id="mjh-sky-fast3" tvg-name="Below Deck Vault" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/5Z2Ys82fuOd44NeA08xHcn/d5a345204a1bee6ff31f52bc85b0b593/Logo.png" group-title="NZ",Below Deck Vault
 https://i.mjh.nz/.r/sky-fast3.m3u8
-#EXTINF:-1 tvg-id="mjh-sky-fast4" tvg-name="Warner Bros TV True Crime" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/fast4/logos/default.png" group-title="NZ",Warner Bros TV True Crime
+#EXTINF:-1 tvg-id="mjh-sky-fast4" tvg-name="Warner Bros TV True Crime" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/1gHJMQllMFrDalQ3o1yiBd/b223fc44c242254ebcda81101698527a/Logo_-_default.png" group-title="NZ",Warner Bros TV True Crime
 https://i.mjh.nz/.r/sky-fast4.m3u8
-#EXTINF:-1 tvg-id="mjh-sky-fast5" tvg-name="Warner Bros TV Paranormal" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/fast5/logos/default.png" group-title="NZ",Warner Bros TV Paranormal
+#EXTINF:-1 tvg-id="mjh-sky-fast5" tvg-name="Warner Bros TV Paranormal" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/6fSJzwOG5r7dfPc2uP4n7m/1e3923f6869c29300e3d76597c341282/Logo_Images_-_default.png" group-title="NZ",Warner Bros TV Paranormal
 https://i.mjh.nz/.r/sky-fast5.m3u8
-#EXTINF:-1 tvg-id="mjh-sky-fast6" tvg-name="Warner Bros TV House Hunters" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/fast6/logos/default.png" group-title="NZ",Warner Bros TV House Hunters
+#EXTINF:-1 tvg-id="mjh-sky-fast6" tvg-name="Warner Bros TV House Hunters" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/7lHULtKhOa2XUCfUvXAvL5/23ce1169fbdbda0a219f6af3211b73eb/Logo_Images_-_default.png" group-title="NZ",Warner Bros TV House Hunters
 https://i.mjh.nz/.r/sky-fast6.m3u8
-#EXTINF:-1 tvg-id="mjh-sky-hgtv" tvg-name="HGTV" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/hgtv/logos/default.png" tvg-chno="19" group-title="NZ",HGTV
+#EXTINF:-1 tvg-id="mjh-sky-hgtv" tvg-name="HGTV" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/7ln9bxKLUYx7i79iVBSREP/3728559763d31ce1a9484fb68db96ddc/Logo_Images_-_default.png" tvg-chno="19" group-title="NZ",HGTV
 https://i.mjh.nz/.r/sky-hgtv.m3u8
-#EXTINF:-1 tvg-id="mjh-sky-popup1" tvg-name="ThreeNow Sport 1" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/popup1/logos/default.png" group-title="NZ",ThreeNow Sport 1
-https://i.mjh.nz/.r/sky-popup1.m3u8
-#EXTINF:-1 tvg-id="mjh-sky-popup2" tvg-name="ThreeNow Sport 2" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/popup2/logos/default.png" group-title="NZ",ThreeNow Sport 2
-https://i.mjh.nz/.r/sky-popup2.m3u8
-#EXTINF:-1 tvg-id="mjh-sky-ptcn" tvg-name="CNN Headlines International" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/ptcn/logos/default.png" group-title="NZ",CNN Headlines International
+#EXTINF:-1 tvg-id="mjh-sky-ptcn" tvg-name="CNN Headlines International" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/5xPXSNCtJNBngNLKZBGLXU/d3fa23fd249dd7c195fe69df9a49961a/Logo_Images_-_default.png" group-title="NZ",CNN Headlines International
 https://i.mjh.nz/.r/sky-ptcn.m3u8
-#EXTINF:-1 tvg-id="mjh-sky-ptmb" tvg-name="MythBusters" tvg-logo="https://cdn-prod.fullscreen.nz/v1/images/channel/linear/ptmb/logos/default.png" group-title="NZ",MythBusters
+#EXTINF:-1 tvg-id="mjh-sky-ptmb" tvg-name="MythBusters" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/7IE0yWc4kkOAOZD1Y2w9x6/c950f41e60d2d136c3a3bb4f6dd281f6/Logo_Images_-_default.png" group-title="NZ",MythBusters
 https://i.mjh.nz/.r/sky-ptmb.m3u8
-#EXTINF:-1 tvg-id="mjh-sky-ptms" tvg-name="MovieSphere" tvg-logo="https://cdn.fullscreen.nz/v1/images/channel/linear/ptms/logos/default.png" group-title="NZ",MovieSphere
+#EXTINF:-1 tvg-id="mjh-sky-ptms" tvg-name="MovieSphere" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/4mdrvR6alGKw4BOn2sOnso/efe1f352f9ac767b86ed3ca3a1af2b62/Logo_Images_default.png" group-title="NZ",MovieSphere
 https://i.mjh.nz/.r/sky-ptms.m3u8
 #EXTINF:-1 tvg-id="mjh-te-reo" tvg-name="Te Reo" tvg-logo="https://i.mjh.nz/.images/te-reo.png" tvg-chno="10" group-title="NZ",Te Reo
 https://i.mjh.nz/.r/te-reo.m3u8
