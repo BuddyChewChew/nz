@@ -11,6 +11,8 @@ https://i.mjh.nz/.r/10-australias-next-top-model.m3u8
 https://i.mjh.nz/.r/10-becker.m3u8
 #EXTINF:-1 tvg-id="mjh-10-cheapseats" tvg-name="The Cheap Seats" tvg-logo="https://10.com.au/ip/s3/2025/08/08/47006754904d1d36520e76157ecbfb41-1390280.png?image-profile=logo" group-title="NZAU",The Cheap Seats
 https://i.mjh.nz/.r/10-cheapseats.m3u8
+#EXTINF:-1 tvg-id="mjh-10-christmasmovies" tvg-name="Christmas In July" tvg-logo="https://10.com.au/ip/s3/2026/07/03/1e7d6e6a6ff69ca1a15f952c8d3ca350-1439653.png?image-profile=logo" group-title="NZAU",Christmas In July
+https://i.mjh.nz/.r/10-christmasmovies.m3u8
 #EXTINF:-1 tvg-id="mjh-10-cops" tvg-name="COPS" tvg-logo="https://10.com.au/ip/s3/2025/03/30/6fadf0873ac36ecacdc63ed8bba4cf3d-1371071.png?image-profile=logo" group-title="NZAU",COPS
 https://i.mjh.nz/.r/10-cops.m3u8
 #EXTINF:-1 tvg-id="mjh-10-crime-hunters" tvg-name="Crime Hunters" tvg-logo="https://10.com.au/ip/s3/2024/03/06/cb69de15e7b8989a218ad25b7f6547ef-1301820.png?image-profile=logo" group-title="NZAU",Crime Hunters
@@ -275,8 +277,6 @@ https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
 https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="NZAU",Mighty Machines
 https://i.mjh.nz/.r/mightymachines-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-misc503-fast" tvg-name="Australian Kart Championship" tvg-logo="https://i.mjh.nz/.images/auto-misc503-fast-3c70ed.png" group-title="NZAU",Australian Kart Championship
-https://i.mjh.nz/.r/misc503-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-misc515-fast" tvg-name="MLC Major League Cricket MISC515" tvg-logo="https://i.mjh.nz/.images/auto-misc515-fast-ba216b.png" group-title="NZAU",MLC Major League Cricket MISC515
 https://i.mjh.nz/.r/misc515-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1286" tvg-name="Big Rig" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244778333.png" group-title="NZAU",Big Rig
