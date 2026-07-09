@@ -72,7 +72,7 @@ https://i.mjh.nz/.r/trackside-2.m3u8
 #EXTINF:-1 tvg-id="mjh-trackside-premier" tvg-name="Trackside Premier" tvg-logo="https://i.mjh.nz/.images/trackside-premier.png" group-title="NZ",Trackside Premier
 https://i.mjh.nz/.r/trackside-premier.m3u8
 #EXTINF:-1 tvg-id="mjh-tvnz-1" tvg-name="TVNZ 1" tvg-logo="https://i.mjh.nz/.images/tvnz-1.png" tvg-chno="1" group-title="NZ",TVNZ 1
-https://i.mjh.nz/.r/tvnz-1.m3u8
+https://i.mjh.nz/.r/tvnz-1.mpd
 #EXTINF:-1 tvg-id="mjh-tvnz-2" tvg-name="TVNZ 2" tvg-logo="https://i.mjh.nz/.images/tvnz-2.png" tvg-chno="2" group-title="NZ",TVNZ 2
 https://i.mjh.nz/.r/tvnz-2.mpd
 #EXTINF:-1 tvg-id="mjh-tvnz-duke" tvg-name="DUKE" tvg-logo="https://i.mjh.nz/.images/tvnz-duke.png" tvg-chno="6" group-title="NZ",DUKE
