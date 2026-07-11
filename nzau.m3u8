@@ -95,8 +95,6 @@ https://i.mjh.nz/.r/10-the-twilight-zone.m3u8
 https://i.mjh.nz/.r/10-theonlywayisessex.m3u8
 #EXTINF:-1 tvg-id="mjh-10-true-stories" tvg-name="True Stories" tvg-logo="https://10.com.au/ip/s3/2022/09/22/bf31efb3f5efe008cc774909b0cef282-1181809.png?image-profile=logo" group-title="NZAU",True Stories
 https://i.mjh.nz/.r/10-true-stories.m3u8
-#EXTINF:-1 tvg-id="mjh-10-twentyfoursevengameshows" tvg-name="24/7 Gameshows" tvg-logo="https://10.com.au/ip/s3/2025/11/24/c583accb5c213a54fd36f23a829c5ba4-1401207.png?image-profile=logo" group-title="NZAU",24/7 Gameshows
-https://i.mjh.nz/.r/10-twentyfoursevengameshows.m3u8
 #EXTINF:-1 tvg-id="mjh-10-undercoverboss" tvg-name="Undercover Boss" tvg-logo="https://10.com.au/ip/s3/2024/10/21/45e53866fa7cd6757ddf34e52e7a9262-1345397.png?image-profile=logo" group-title="NZAU",Undercover Boss
 https://i.mjh.nz/.r/10-undercoverboss.m3u8
 #EXTINF:-1 tvg-id="mjh-10-wicked-tuna" tvg-name="Wicked Tuna" tvg-logo="https://10.com.au/ip/s3/2022/09/02/2d667eb54bf0119b84b744f9569ee214-1177247.png?image-profile=logo" group-title="NZAU",Wicked Tuna
@@ -275,6 +273,8 @@ https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
 https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="NZAU",Mighty Machines
 https://i.mjh.nz/.r/mightymachines-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-misc503-fast" tvg-name="VFL" tvg-logo="https://i.mjh.nz/.images/auto-misc503-fast-f472ed.png" group-title="NZAU",VFL
+https://i.mjh.nz/.r/misc503-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-misc515-fast" tvg-name="MLC Major League Cricket MISC515" tvg-logo="https://i.mjh.nz/.images/auto-misc515-fast-ba216b.png" group-title="NZAU",MLC Major League Cricket MISC515
 https://i.mjh.nz/.r/misc515-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1286" tvg-name="Big Rig" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244778333.png" group-title="NZAU",Big Rig
