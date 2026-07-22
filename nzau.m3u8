@@ -149,6 +149,8 @@ https://c.mjh.nz/abc-nsw.m3u8
 https://c.mjh.nz/abc-tv-plus.m3u8
 #EXTINF:-1 tvg-id="mjh-acountrypractice-fast" tvg-name="A Country Practice" tvg-logo="https://i.mjh.nz/.images/auto-acountrypractice-fast-3f02ad.png" group-title="NZAU",A Country Practice
 https://i.mjh.nz/.r/acountrypractice-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-aircrashinvestigations-fast" tvg-name="Air Crash Investigations" tvg-logo="https://i.mjh.nz/.images/auto-aircrashinvestigations-fast-7ff35e.png" group-title="NZAU",Air Crash Investigations
+https://i.mjh.nz/.r/aircrashinvestigations-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" tvg-chno="20" group-title="NZAU",Al Jazeera
 https://i.mjh.nz/.r/al-jazeera.m3u8
 #EXTINF:-1 tvg-id="mjh-all-starcinema-fast" tvg-name="All-Star Cinema" tvg-logo="https://i.mjh.nz/.images/auto-all-starcinema-fast-9f2397.png" group-title="NZAU",All-Star Cinema
