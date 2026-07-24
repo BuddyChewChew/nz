@@ -177,6 +177,8 @@ https://i.mjh.nz/.r/blueheelers-fast.m3u8
 https://i.mjh.nz/.r/bluelight-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-botchedvault-fast" tvg-name="Botched VAULT" tvg-logo="https://i.mjh.nz/.images/auto-botchedvault-fast-4c6012.png" group-title="NZAU",Botched VAULT
 https://i.mjh.nz/.r/botchedvault-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-bowlsreplays-fast" tvg-name="Bowls Replays" tvg-logo="https://i.mjh.nz/.images/auto-bowlsreplays-fast-7a5a56.png" group-title="NZAU",Bowls Replays
+https://i.mjh.nz/.r/bowlsreplays-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-bravo" tvg-name="Bravo" tvg-logo="https://i.mjh.nz/.images/bravo.png" tvg-chno="4" group-title="NZAU",Bravo
 https://i.mjh.nz/.r/bravo.m3u8
 #EXTINF:-1 tvg-id="mjh-bravo-plus1" tvg-name="Bravo PLUS 1" tvg-logo="https://i.mjh.nz/.images/bravo-plus1.png" tvg-chno="14" group-title="NZAU",Bravo PLUS 1
@@ -247,8 +249,6 @@ https://i.mjh.nz/.r/maori-tv.m3u8
 https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="NZAU",Mighty Machines
 https://i.mjh.nz/.r/mightymachines-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-misc502-fast" tvg-name="Horse Racing" tvg-logo="https://i.mjh.nz/.images/auto-misc502-fast-61048a.png" group-title="NZAU",Horse Racing
-https://i.mjh.nz/.r/misc502-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1286" tvg-name="Big Rig" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244778333.png" group-title="NZAU",Big Rig
 https://i.mjh.nz/.r/mood-1286.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1287" tvg-name="The Groat" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1743730111010.png" group-title="NZAU",The Groat
