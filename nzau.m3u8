@@ -249,6 +249,8 @@ https://i.mjh.nz/.r/maori-tv.m3u8
 https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="NZAU",Mighty Machines
 https://i.mjh.nz/.r/mightymachines-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-misc15-fast" tvg-name="Glasgow 24/7" tvg-logo="https://i.mjh.nz/.images/auto-misc15-fast-cff9f1.png" group-title="NZAU",Glasgow 24/7
+https://i.mjh.nz/.r/misc15-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1286" tvg-name="Big Rig" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244778333.png" group-title="NZAU",Big Rig
 https://i.mjh.nz/.r/mood-1286.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1287" tvg-name="The Groat" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1743730111010.png" group-title="NZAU",The Groat
@@ -269,6 +271,8 @@ https://i.mjh.nz/.r/onthecase-fast.m3u8
 https://i.mjh.nz/.r/outbacktruckers-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-parliament-tv" tvg-name="Parliament TV" tvg-logo="https://i.mjh.nz/.images/parliament-tv.png" tvg-chno="31" group-title="NZAU",Parliament TV
 https://i.mjh.nz/.r/parliament-tv.m3u8
+#EXTINF:-1 tvg-id="mjh-powercombatreplays-fast" tvg-name="Power & Combat Replays" tvg-logo="https://i.mjh.nz/.images/auto-powercombatreplays-fast-2e64e2.png" group-title="NZAU",Power & Combat Replays
+https://i.mjh.nz/.r/powercombatreplays-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-prime" tvg-name="Sky Open" tvg-logo="https://i.mjh.nz/.images/sky-open.png" tvg-chno="8" group-title="NZAU",Sky Open
 https://i.mjh.nz/.r/prime.m3u8
 #EXTINF:-1 tvg-id="mjh-qrl-hostplus-cup-2026-fast" tvg-name="QRL Hostplus Cup 2026" tvg-logo="https://imageresizer.static9.net.au/LNpywqVf2w4867hx6GFb3LerFzs=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F02%2F756275%2Fsquircle_qrlhostplus.png" group-title="NZAU",QRL Hostplus Cup 2026
@@ -367,6 +371,8 @@ https://i.mjh.nz/.r/sky-racing-thoroughbred.m3u8
 https://i.mjh.nz/.r/snowy-mountains.m3u8
 #EXTINF:-1 tvg-id="mjh-surveillancecentral-fast" tvg-name="Surveillance Central" tvg-logo="https://i.mjh.nz/.images/auto-surveillancecentral-fast-4eeefa.png" group-title="NZAU",Surveillance Central
 https://i.mjh.nz/.r/surveillancecentral-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-swimmingreplays-fast" tvg-name="Swimming Replays" tvg-logo="https://i.mjh.nz/.images/auto-swimmingreplays-fast-930ec0.png" group-title="NZAU",Swimming Replays
+https://i.mjh.nz/.r/swimmingreplays-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-taronga-247-fast" tvg-name="Taronga 24/7" tvg-logo="https://imageresizer.static9.net.au/HvEyaXfq57tpzSGiLjqejGDiyA8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F06%2F779914%2Ftaronga_squircle.png" group-title="NZAU",Taronga 24/7
 https://i.mjh.nz/.r/taronga-247-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-taste-fast" tvg-name="Taste" tvg-logo="https://i.mjh.nz/.images/auto-taste-fast-9581ec.png" group-title="NZAU",Taste
