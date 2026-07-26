@@ -227,6 +227,8 @@ https://i.mjh.nz/.r/gem-nsw.m3u8
 https://i.mjh.nz/.r/go-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-good-dot" tvg-name="GOOD." tvg-logo="https://i.mjh.nz/.images/good-dot.png" group-title="NZAU",GOOD.
 https://c.mjh.nz/good-dot.m3u8
+#EXTINF:-1 tvg-id="mjh-gymnasticsreplays-fast" tvg-name="Gymnastics Replays" tvg-logo="https://i.mjh.nz/.images/auto-gymnasticsreplays-fast-65b990.png" group-title="NZAU",Gymnastics Replays
+https://i.mjh.nz/.r/gymnasticsreplays-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-h2-fast" tvg-name="H2" tvg-logo="https://imageresizer.static9.net.au/OxADVUkSO8Xp2ATCSJmMsa0gcDE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F684622%2Fh2_squircle.png" group-title="NZAU",H2
 https://i.mjh.nz/.r/h2-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-hardcorepawn-fast" tvg-name="Hardcore Pawn" tvg-logo="https://i.mjh.nz/.images/auto-hardcorepawn-fast-87f8ee.png" group-title="NZAU",Hardcore Pawn
@@ -355,6 +357,10 @@ https://i.mjh.nz/.r/sky-fast6.m3u8
 https://i.mjh.nz/.r/sky-hgtv.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-news-now" tvg-name="Sky News Now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png" group-title="NZAU",Sky News Now
 https://i.mjh.nz/.r/sky-news-now.m3u8
+#EXTINF:-1 tvg-id="mjh-sky-popup1" tvg-name="ThreeNow Sport 1" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/x5sb9PxNV3X9NmnokapqO/b9541319e37f2803dc7eec73c779d0b0/Logo_Images_-_default.png" group-title="NZAU",ThreeNow Sport 1
+https://i.mjh.nz/.r/sky-popup1.m3u8
+#EXTINF:-1 tvg-id="mjh-sky-popup2" tvg-name="ThreeNow Sport 2" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/1jZRHmRhF6VFjZET4V2hFM/6d31709f4e877e133c3d16d28e1b58d2/Logo_Images_-_default.png" group-title="NZAU",ThreeNow Sport 2
+https://i.mjh.nz/.r/sky-popup2.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-ptcn" tvg-name="CNN Headlines International" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/5xPXSNCtJNBngNLKZBGLXU/d3fa23fd249dd7c195fe69df9a49961a/Logo_Images_-_default.png" group-title="NZAU",CNN Headlines International
 https://i.mjh.nz/.r/sky-ptcn.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-ptmb" tvg-name="MythBusters" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/7IE0yWc4kkOAOZD1Y2w9x6/c950f41e60d2d136c3a3bb4f6dd281f6/Logo_Images_-_default.png" group-title="NZAU",MythBusters
@@ -379,6 +385,8 @@ https://i.mjh.nz/.r/taronga-247-fast.m3u8
 https://i.mjh.nz/.r/taste-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-te-reo" tvg-name="Te Reo" tvg-logo="https://i.mjh.nz/.images/te-reo.png" tvg-chno="10" group-title="NZAU",Te Reo
 https://i.mjh.nz/.r/te-reo.m3u8
+#EXTINF:-1 tvg-id="mjh-teamssportsreplays-fast" tvg-name="Teams Sports Replays" tvg-logo="https://i.mjh.nz/.images/auto-teamssportsreplays-fast-4d3873.png" group-title="NZAU",Teams Sports Replays
+https://i.mjh.nz/.r/teamssportsreplays-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-the-block-247-fast" tvg-name="The Block 24/7" tvg-logo="https://imageresizer.static9.net.au/Mj-NaVq7oZgtzt2bf55lkLIfyuQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F623508%2Ftheblock_squircle.png" group-title="NZAU",The Block 24/7
 https://i.mjh.nz/.r/the-block-247-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-therealhousewivesvault-fast" tvg-name="The Real Housewives VAULT" tvg-logo="https://i.mjh.nz/.images/auto-therealhousewivesvault-fast-dd8ea5.png" group-title="NZAU",The Real Housewives VAULT
