@@ -59,8 +59,6 @@ https://i.mjh.nz/.r/10-medical-emergency.m3u8
 https://i.mjh.nz/.r/10-moviesphere.m3u8
 #EXTINF:-1 tvg-id="mjh-10-mtv-jersey-shore" tvg-name="MTV Jersey Shore" tvg-logo="https://10.com.au/ip/s3/2024/07/22/c0f6c4c235b6c6c3cfbce14921c9296a-1328660.png?image-profile=logo" group-title="NZAU",MTV Jersey Shore
 https://i.mjh.nz/.r/10-mtv-jersey-shore.m3u8
-#EXTINF:-1 tvg-id="mjh-10-mtv-reality" tvg-name="MTV Reality" tvg-logo="https://10.com.au/ip/s3/2023/09/25/f51b3f2548dfdb88949cdbd13f037679-1266119.png?image-profile=logo" group-title="NZAU",MTV Reality
-https://i.mjh.nz/.r/10-mtv-reality.m3u8
 #EXTINF:-1 tvg-id="mjh-10-mtvgeordieshore" tvg-name="MTV Geordie Shore" tvg-logo="https://10.com.au/ip/s3/2024/02/19/bf63da35ab6b66b6af03dec697ccaf99-1298650.png?image-profile=logo" group-title="NZAU",MTV Geordie Shore
 https://i.mjh.nz/.r/10-mtvgeordieshore.m3u8
 #EXTINF:-1 tvg-id="mjh-10-mtvridiculousness" tvg-name="MTV Ridiculousness" tvg-logo="https://10.com.au/ip/s3/2024/02/19/6a7d740896d031b59c9d33d0e6dff544-1298686.png?image-profile=logo" group-title="NZAU",MTV Ridiculousness
@@ -89,8 +87,6 @@ https://i.mjh.nz/.r/10-south-park.m3u8
 https://i.mjh.nz/.r/10-spongebobsquarepants.m3u8
 #EXTINF:-1 tvg-id="mjh-10-thankgodyourehere" tvg-name="Thank God You're Here" tvg-logo="https://10.com.au/ip/s3/2025/08/19/9cde4af8ad28a81defc2e020775ff74f-1390978.png?image-profile=logo" group-title="NZAU",Thank God You're Here
 https://i.mjh.nz/.r/10-thankgodyourehere.m3u8
-#EXTINF:-1 tvg-id="mjh-10-the-twilight-zone" tvg-name="The Twilight Zone" tvg-logo="https://10.com.au/ip/s3/2023/06/28/c60c6fcc024a5e14036e5f446aa81eae-1246026.png?image-profile=logo" group-title="NZAU",The Twilight Zone
-https://i.mjh.nz/.r/10-the-twilight-zone.m3u8
 #EXTINF:-1 tvg-id="mjh-10-theonlywayisessex" tvg-name="The Only Way Is Essex" tvg-logo="https://10.com.au/ip/s3/2024/10/21/644463c986545838587c1b800be3da68-1345463.png?image-profile=logo" group-title="NZAU",The Only Way Is Essex
 https://i.mjh.nz/.r/10-theonlywayisessex.m3u8
 #EXTINF:-1 tvg-id="mjh-10-true-stories" tvg-name="True Stories" tvg-logo="https://10.com.au/ip/s3/2022/09/22/bf31efb3f5efe008cc774909b0cef282-1181809.png?image-profile=logo" group-title="NZAU",True Stories
