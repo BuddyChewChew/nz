@@ -147,6 +147,8 @@ https://i.mjh.nz/.r/al-jazeera.m3u8
 https://i.mjh.nz/.r/all-starcinema-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-art-fast" tvg-name="Antiques Road Trip" tvg-logo="https://i.mjh.nz/.images/auto-art-fast-99c60f.png" group-title="NZAU",Antiques Road Trip
 https://i.mjh.nz/.r/art-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-athleticsreplays-fast" tvg-name="Athletics Replays" tvg-logo="https://i.mjh.nz/.images/auto-athleticsreplays-fast-f68a21.png" group-title="NZAU",Athletics Replays
+https://i.mjh.nz/.r/athleticsreplays-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-ausbiz-fast" tvg-name="ausbiz" tvg-logo="https://i.mjh.nz/.images/auto-ausbiz-fast-b12203.png" group-title="NZAU",ausbiz
 https://i.mjh.nz/.r/ausbiz-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-bbc-antiques-roadshow-247-fast" tvg-name="BBC Antiques Roadshow" tvg-logo="https://imageresizer.static9.net.au/zRjEXK-6iFh-92EKnAZN9rXREkA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648315%2Fgroup-61774.png" group-title="NZAU",BBC Antiques Roadshow
