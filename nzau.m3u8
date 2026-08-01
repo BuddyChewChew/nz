@@ -207,6 +207,8 @@ https://i.mjh.nz/.r/channel-news-asia.m3u8
 https://i.mjh.nz/.r/cricketgold-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-csicrimesceneinvestigation-fast" tvg-name="CSI Crime Scene Investigation" tvg-logo="https://i.mjh.nz/.images/auto-csicrimesceneinvestigation-fast-87549e.png" group-title="NZAU",CSI Crime Scene Investigation
 https://i.mjh.nz/.r/csicrimesceneinvestigation-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-cyclingreplays-fast" tvg-name="Cycling Replays" tvg-logo="https://i.mjh.nz/.images/auto-cyclingreplays-fast-da2aa3.png" group-title="NZAU",Cycling Replays
+https://i.mjh.nz/.r/cyclingreplays-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-dance-moms-247-fast" tvg-name="Dance Moms 24/7" tvg-logo="https://imageresizer.static9.net.au/OKBRw5HKp9hAAVX3XM-A1HrVRug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585178%2Fsquircle_dancemoms.png" group-title="NZAU",Dance Moms 24/7
 https://i.mjh.nz/.r/dance-moms-247-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-drive-fast" tvg-name="Drive" tvg-logo="https://imageresizer.static9.net.au/FbD6lTD6rHmNM35zPbmc572qOB8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F07%2F702351%2Fdrive_squircle.png" group-title="NZAU",Drive
@@ -327,7 +329,7 @@ https://i.mjh.nz/.r/sbs-sbs-radio-1.m3u8
 https://i.mjh.nz/.r/sbs-sbs-radio-2.m3u8
 #EXTINF:-1 tvg-id="mjh-sbs-sbs-radio-3" tvg-name="SBS Radio 3" tvg-logo="https://image.pr.sbsod.com/30724f75-f20c-512c-9108-cda06930de39" tvg-chno="303" group-title="NZAU",SBS Radio 3
 https://i.mjh.nz/.r/sbs-sbs-radio-3.m3u8
-#EXTINF:-1 tvg-id="mjh-sbs-sbs-radio-4" tvg-name="SBS KickOff" tvg-logo="https://image.pr.sbsod.com/96fa412f-bcbc-59e3-9be8-57005915cf86" group-title="NZAU",SBS KickOff
+#EXTINF:-1 tvg-id="mjh-sbs-sbs-radio-4" tvg-name="SBS Radio 4" tvg-logo="https://image.pr.sbsod.com/a976dde8-b9e1-5fa1-ac7c-d8431839b02f" group-title="NZAU",SBS Radio 4
 https://i.mjh.nz/.r/sbs-sbs-radio-4.m3u8
 #EXTINF:-1 tvg-id="mjh-sbs-sbst" tvg-name="SBS" tvg-logo="https://image.pr.sbsod.com/b073959a-a63e-5b6a-a05a-157d615a4b8c" tvg-chno="30" group-title="NZAU",SBS
 https://i.mjh.nz/.r/sbs-sbst.m3u8
