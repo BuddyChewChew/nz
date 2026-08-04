@@ -211,6 +211,8 @@ https://i.mjh.nz/.r/channel-9-newcastle.m3u8
 https://i.mjh.nz/.r/channel-9-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-channel-news-asia" tvg-name="Channel News Asia (CNA)" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" group-title="NZAU",Channel News Asia (CNA)
 https://i.mjh.nz/.r/channel-news-asia.m3u8
+#EXTINF:-1 tvg-id="mjh-city2surf-2026-fast" tvg-name="City2Surf 2026" tvg-logo="https://imageresizer.static9.net.au/QX6OmL-SyylQj990TmgunaA4HVE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F07%2F786952%2Fsquircle.png" group-title="NZAU",City2Surf 2026
+https://i.mjh.nz/.r/city2surf-2026-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-cricketgold-fast" tvg-name="Cricket Gold" tvg-logo="https://i.mjh.nz/.images/auto-cricketgold-fast-906f03.png" group-title="NZAU",Cricket Gold
 https://i.mjh.nz/.r/cricketgold-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-csicrimesceneinvestigation-fast" tvg-name="CSI Crime Scene Investigation" tvg-logo="https://i.mjh.nz/.images/auto-csicrimesceneinvestigation-fast-87549e.png" group-title="NZAU",CSI Crime Scene Investigation
