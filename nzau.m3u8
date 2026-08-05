@@ -1,18 +1,12 @@
 #EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/nzau/epg.xml.gz"
 #EXTINF:-1 tvg-id="mjh-10-adultanimation" tvg-name="Adult Animation" tvg-logo="https://10.com.au/ip/s3/2024/03/21/fb3a87d8a0126b81727106f43c2a2aef-1304705.png?image-profile=logo" group-title="NZAU",Adult Animation
 https://i.mjh.nz/.r/10-adultanimation.m3u8
-#EXTINF:-1 tvg-id="mjh-10-americas-next-top-model" tvg-name="America's Next Top Model" tvg-logo="https://10.com.au/ip/s3/2023/06/28/8db83f030cafec640ddec14612d03daa-1246018.png?image-profile=logo" group-title="NZAU",America's Next Top Model
-https://i.mjh.nz/.r/10-americas-next-top-model.m3u8
 #EXTINF:-1 tvg-id="mjh-10-anthonybourdain" tvg-name="Anthony Bourdain: Parts Unknown" tvg-logo="https://10.com.au/ip/s3/2025/05/26/cbf83588f02110ded81566ecc62e2f0e-1380501.png?image-profile=logo" group-title="NZAU",Anthony Bourdain: Parts Unknown
 https://i.mjh.nz/.r/10-anthonybourdain.m3u8
-#EXTINF:-1 tvg-id="mjh-10-australias-next-top-model" tvg-name="Australia's Next Top Model" tvg-logo="https://10.com.au/ip/s3/2024/06/03/224a876a47cdb7e1a8b3bb1eeca17565-1318253.png?image-profile=logo" group-title="NZAU",Australia's Next Top Model
-https://i.mjh.nz/.r/10-australias-next-top-model.m3u8
 #EXTINF:-1 tvg-id="mjh-10-becker" tvg-name="Becker" tvg-logo="https://10.com.au/ip/s3/2023/06/28/e0449ed804aaacb1de64f87d94912dd3-1246030.png?image-profile=logo" group-title="NZAU",Becker
 https://i.mjh.nz/.r/10-becker.m3u8
 #EXTINF:-1 tvg-id="mjh-10-cheapseats" tvg-name="The Cheap Seats" tvg-logo="https://10.com.au/ip/s3/2025/08/08/47006754904d1d36520e76157ecbfb41-1390280.png?image-profile=logo" group-title="NZAU",The Cheap Seats
 https://i.mjh.nz/.r/10-cheapseats.m3u8
-#EXTINF:-1 tvg-id="mjh-10-christmasmovies" tvg-name="Christmas In July" tvg-logo="https://10.com.au/ip/s3/2026/07/03/1e7d6e6a6ff69ca1a15f952c8d3ca350-1439653.png?image-profile=logo" group-title="NZAU",Christmas In July
-https://i.mjh.nz/.r/10-christmasmovies.m3u8
 #EXTINF:-1 tvg-id="mjh-10-cops" tvg-name="COPS" tvg-logo="https://10.com.au/ip/s3/2025/03/30/6fadf0873ac36ecacdc63ed8bba4cf3d-1371071.png?image-profile=logo" group-title="NZAU",COPS
 https://i.mjh.nz/.r/10-cops.m3u8
 #EXTINF:-1 tvg-id="mjh-10-crime-hunters" tvg-name="Crime Hunters" tvg-logo="https://10.com.au/ip/s3/2024/03/06/cb69de15e7b8989a218ad25b7f6547ef-1301820.png?image-profile=logo" group-title="NZAU",Crime Hunters
@@ -57,10 +51,6 @@ https://i.mjh.nz/.r/10-masterchef.m3u8
 https://i.mjh.nz/.r/10-medical-emergency.m3u8
 #EXTINF:-1 tvg-id="mjh-10-moviesphere" tvg-name="Moviesphere" tvg-logo="https://10.com.au/ip/s3/2022/12/05/6bb229de8fcf96e206e99ca455fc2267-1202912.png?image-profile=logo" group-title="NZAU",Moviesphere
 https://i.mjh.nz/.r/10-moviesphere.m3u8
-#EXTINF:-1 tvg-id="mjh-10-mtv-jersey-shore" tvg-name="MTV Jersey Shore" tvg-logo="https://10.com.au/ip/s3/2024/07/22/c0f6c4c235b6c6c3cfbce14921c9296a-1328660.png?image-profile=logo" group-title="NZAU",MTV Jersey Shore
-https://i.mjh.nz/.r/10-mtv-jersey-shore.m3u8
-#EXTINF:-1 tvg-id="mjh-10-mtvgeordieshore" tvg-name="MTV Geordie Shore" tvg-logo="https://10.com.au/ip/s3/2024/02/19/bf63da35ab6b66b6af03dec697ccaf99-1298650.png?image-profile=logo" group-title="NZAU",MTV Geordie Shore
-https://i.mjh.nz/.r/10-mtvgeordieshore.m3u8
 #EXTINF:-1 tvg-id="mjh-10-mtvridiculousness" tvg-name="MTV Ridiculousness" tvg-logo="https://10.com.au/ip/s3/2024/02/19/6a7d740896d031b59c9d33d0e6dff544-1298686.png?image-profile=logo" group-title="NZAU",MTV Ridiculousness
 https://i.mjh.nz/.r/10-mtvridiculousness.m3u8
 #EXTINF:-1 tvg-id="mjh-10-nick-jr" tvg-name="Nick Jr Club" tvg-logo="https://10.com.au/ip/s3/2024/06/06/d14509f218578984e3a6f6f34f0ee12c-1319009.png?image-profile=logo" group-title="NZAU",Nick Jr Club
@@ -191,6 +181,8 @@ https://i.mjh.nz/.r/bravo.m3u8
 https://i.mjh.nz/.r/bravo-plus1.m3u8
 #EXTINF:-1 tvg-id="mjh-cas21-fast" tvg-name="Ghost Hunters" tvg-logo="https://i.mjh.nz/.images/auto-cas21-fast-f940a9.png" group-title="NZAU",Ghost Hunters
 https://i.mjh.nz/.r/cas21-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-cas24-fast" tvg-name="Bondi Vet" tvg-logo="https://i.mjh.nz/.images/auto-cas24-fast-b9e819.png" group-title="NZAU",Bondi Vet
+https://i.mjh.nz/.r/cas24-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-cas26-fast" tvg-name="Home and Away Classics" tvg-logo="https://i.mjh.nz/.images/auto-cas26-fast-ea7944.png" group-title="NZAU",Home and Away Classics
 https://i.mjh.nz/.r/cas26-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-cas33-fast" tvg-name="The Yorkshire Vet" tvg-logo="https://i.mjh.nz/.images/auto-cas33-fast-7aec74.png" group-title="NZAU",The Yorkshire Vet
