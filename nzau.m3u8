@@ -185,8 +185,6 @@ https://i.mjh.nz/.r/bluelight-fast.m3u8
 https://i.mjh.nz/.r/bordersecurityaustralia-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-botchedvault-fast" tvg-name="Botched VAULT" tvg-logo="https://i.mjh.nz/.images/auto-botchedvault-fast-4c6012.png" group-title="NZAU",Botched VAULT
 https://i.mjh.nz/.r/botchedvault-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-bowlsreplays-fast" tvg-name="Bowls Replays" tvg-logo="https://i.mjh.nz/.images/auto-bowlsreplays-fast-7a5a56.png" group-title="NZAU",Bowls Replays
-https://i.mjh.nz/.r/bowlsreplays-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-bravo" tvg-name="Bravo" tvg-logo="https://i.mjh.nz/.images/bravo.png" tvg-chno="4" group-title="NZAU",Bravo
 https://i.mjh.nz/.r/bravo.m3u8
 #EXTINF:-1 tvg-id="mjh-bravo-plus1" tvg-name="Bravo PLUS 1" tvg-logo="https://i.mjh.nz/.images/bravo-plus1.png" tvg-chno="14" group-title="NZAU",Bravo PLUS 1
@@ -219,8 +217,6 @@ https://i.mjh.nz/.r/channel-news-asia.m3u8
 https://i.mjh.nz/.r/cricketgold-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-csicrimesceneinvestigation-fast" tvg-name="CSI Crime Scene Investigation" tvg-logo="https://i.mjh.nz/.images/auto-csicrimesceneinvestigation-fast-87549e.png" group-title="NZAU",CSI Crime Scene Investigation
 https://i.mjh.nz/.r/csicrimesceneinvestigation-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-cyclingreplays-fast" tvg-name="Cycling Replays" tvg-logo="https://i.mjh.nz/.images/auto-cyclingreplays-fast-da2aa3.png" group-title="NZAU",Cycling Replays
-https://i.mjh.nz/.r/cyclingreplays-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-dance-moms-247-fast" tvg-name="Dance Moms 24/7" tvg-logo="https://imageresizer.static9.net.au/OKBRw5HKp9hAAVX3XM-A1HrVRug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585178%2Fsquircle_dancemoms.png" group-title="NZAU",Dance Moms 24/7
 https://i.mjh.nz/.r/dance-moms-247-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-drive-fast" tvg-name="Drive" tvg-logo="https://imageresizer.static9.net.au/FbD6lTD6rHmNM35zPbmc572qOB8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F07%2F702351%2Fdrive_squircle.png" group-title="NZAU",Drive
@@ -285,8 +281,6 @@ https://i.mjh.nz/.r/onthecase-fast.m3u8
 https://i.mjh.nz/.r/outbacktruckers-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-parliament-tv" tvg-name="Parliament TV" tvg-logo="https://i.mjh.nz/.images/parliament-tv.png" tvg-chno="31" group-title="NZAU",Parliament TV
 https://i.mjh.nz/.r/parliament-tv.m3u8
-#EXTINF:-1 tvg-id="mjh-powercombatreplays-fast" tvg-name="Power & Combat Replays" tvg-logo="https://i.mjh.nz/.images/auto-powercombatreplays-fast-2e64e2.png" group-title="NZAU",Power & Combat Replays
-https://i.mjh.nz/.r/powercombatreplays-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-prime" tvg-name="Sky Open" tvg-logo="https://i.mjh.nz/.images/sky-open.png" tvg-chno="8" group-title="NZAU",Sky Open
 https://i.mjh.nz/.r/prime.m3u8
 #EXTINF:-1 tvg-id="mjh-qrl-hostplus-cup-2026-fast" tvg-name="QRL Hostplus Cup 2026" tvg-logo="https://imageresizer.static9.net.au/LNpywqVf2w4867hx6GFb3LerFzs=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F02%2F756275%2Fsquircle_qrlhostplus.png" group-title="NZAU",QRL Hostplus Cup 2026
@@ -393,8 +387,6 @@ https://i.mjh.nz/.r/taronga-247-fast.m3u8
 https://i.mjh.nz/.r/taste-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-te-reo" tvg-name="Te Reo" tvg-logo="https://i.mjh.nz/.images/te-reo.png" tvg-chno="10" group-title="NZAU",Te Reo
 https://i.mjh.nz/.r/te-reo.m3u8
-#EXTINF:-1 tvg-id="mjh-teamssportsreplays-fast" tvg-name="Teams Sports Replays" tvg-logo="https://i.mjh.nz/.images/auto-teamssportsreplays-fast-4d3873.png" group-title="NZAU",Teams Sports Replays
-https://i.mjh.nz/.r/teamssportsreplays-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-the-block-247-fast" tvg-name="The Block 24/7" tvg-logo="https://imageresizer.static9.net.au/Mj-NaVq7oZgtzt2bf55lkLIfyuQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F623508%2Ftheblock_squircle.png" group-title="NZAU",The Block 24/7
 https://i.mjh.nz/.r/the-block-247-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-therealhousewivesvault-fast" tvg-name="The Real Housewives VAULT" tvg-logo="https://i.mjh.nz/.images/auto-therealhousewivesvault-fast-dd8ea5.png" group-title="NZAU",The Real Housewives VAULT
