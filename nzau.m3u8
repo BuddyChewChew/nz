@@ -195,6 +195,8 @@ https://i.mjh.nz/.r/cas21-fast.m3u8
 https://i.mjh.nz/.r/cas24-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-cas26-fast" tvg-name="Home and Away Classics" tvg-logo="https://i.mjh.nz/.images/auto-cas26-fast-ea7944.png" group-title="NZAU",Home and Away Classics
 https://i.mjh.nz/.r/cas26-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-cas32-fast" tvg-name="7NEWS Spotlight" tvg-logo="https://i.mjh.nz/.images/auto-cas32-fast-2bc14f.png" group-title="NZAU",7NEWS Spotlight
+https://i.mjh.nz/.r/cas32-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-cas33-fast" tvg-name="The Yorkshire Vet" tvg-logo="https://i.mjh.nz/.images/auto-cas33-fast-7aec74.png" group-title="NZAU",The Yorkshire Vet
 https://i.mjh.nz/.r/cas33-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-cas39-fast" tvg-name="24 Hours in A&E" tvg-logo="https://i.mjh.nz/.images/auto-cas39-fast-aa22c1.png" group-title="NZAU",24 Hours in A&E
@@ -251,6 +253,8 @@ https://i.mjh.nz/.r/judgejudy-fast.m3u8
 https://i.mjh.nz/.r/kitchennightmares-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-life-nsw" tvg-name="9Life" tvg-logo="https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png" tvg-chno="94" group-title="NZAU",9Life
 https://i.mjh.nz/.r/life-nsw.m3u8
+#EXTINF:-1 tvg-id="mjh-livgolfreplays-fast" tvg-name="LIV Golf Replays" tvg-logo="https://i.mjh.nz/.images/auto-livgolfreplays-fast-471f30.png" group-title="NZAU",LIV Golf Replays
+https://i.mjh.nz/.r/livgolfreplays-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-lmn-fast" tvg-name="LMN" tvg-logo="https://imageresizer.static9.net.au/GfA3WNoMOfZbJOqJeq-UrX5nsdk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F12%2F658518%2Fgroup-61484.png" group-title="NZAU",LMN
 https://i.mjh.nz/.r/lmn-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-maori-tv" tvg-name="Whakaata Māori" tvg-logo="https://i.mjh.nz/.images/maori-tv.png" tvg-chno="5" group-title="NZAU",Whakaata Māori
@@ -401,6 +405,8 @@ https://i.mjh.nz/.r/trackside-1.m3u8
 https://i.mjh.nz/.r/trackside-2.m3u8
 #EXTINF:-1 tvg-id="mjh-trackside-premier" tvg-name="Trackside Premier" tvg-logo="https://i.mjh.nz/.images/trackside-premier.png" group-title="NZAU",Trackside Premier
 https://i.mjh.nz/.r/trackside-premier.m3u8
+#EXTINF:-1 tvg-id="mjh-travelaustralia-fast" tvg-name="Travel Australia" tvg-logo="https://i.mjh.nz/.images/auto-travelaustralia-fast-cfd556.png" group-title="NZAU",Travel Australia
+https://i.mjh.nz/.r/travelaustralia-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-truckinghell-fast" tvg-name="Trucking Hell" tvg-logo="https://i.mjh.nz/.images/auto-truckinghell-fast-6b08c1.png" group-title="NZAU",Trucking Hell
 https://i.mjh.nz/.r/truckinghell-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-truecrimefiles-fast" tvg-name="True Crime Files" tvg-logo="https://i.mjh.nz/.images/auto-truecrimefiles-fast-26e3bf.png" group-title="NZAU",True Crime Files
@@ -419,5 +425,7 @@ https://i.mjh.nz/.r/tvsn-shopping.m3u8
 https://i.mjh.nz/.r/wairarapa-tv.m3u8
 #EXTINF:-1 tvg-id="mjh-waterrats-fast" tvg-name="Water Rats" tvg-logo="https://i.mjh.nz/.images/auto-waterrats-fast-428228.png" group-title="NZAU",Water Rats
 https://i.mjh.nz/.r/waterrats-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-winnersnlosers-fast" tvg-name="Winners & Losers" tvg-logo="https://i.mjh.nz/.images/auto-winnersnlosers-fast-a59958.png" group-title="NZAU",Winners & Losers
+https://i.mjh.nz/.r/winnersnlosers-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-wtn-fast" tvg-name="Wicked Tuna" tvg-logo="https://i.mjh.nz/.images/auto-wtn-fast-0a858d.png" group-title="NZAU",Wicked Tuna
 https://i.mjh.nz/.r/wtn-fast.m3u8
