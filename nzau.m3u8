@@ -297,8 +297,6 @@ https://i.mjh.nz/.r/racingwa-fast.m3u8
 https://i.mjh.nz/.r/real-emergency-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-redbull-tv" tvg-name="Redbull TV" tvg-logo="https://i.mjh.nz/.images/redbull-tv.png" group-title="NZAU",Redbull TV
 https://i.mjh.nz/.r/redbull-tv.m3u8
-#EXTINF:-1 tvg-id="mjh-rmc-fast" tvg-name="River Monsters" tvg-logo="https://i.mjh.nz/.images/auto-rmc-fast-cd77f2.png" group-title="NZAU",River Monsters
-https://i.mjh.nz/.r/rmc-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-rush-nsw" tvg-name="9Rush" tvg-logo="https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png" tvg-chno="96" group-title="NZAU",9Rush
 https://i.mjh.nz/.r/rush-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-rush-nz" tvg-name="RUSH" tvg-logo="https://i.mjh.nz/.images/rush-nz.png" tvg-chno="9" group-title="NZAU",RUSH
@@ -381,12 +379,12 @@ https://i.mjh.nz/.r/sky-racing-2.m3u8
 https://i.mjh.nz/.r/sky-racing-thoroughbred.m3u8
 #EXTINF:-1 tvg-id="mjh-snowy-mountains" tvg-name="Snowy Mountains Television" tvg-logo="https://i.mjh.nz/.images/smtv.png" group-title="NZAU",Snowy Mountains Television
 https://i.mjh.nz/.r/snowy-mountains.m3u8
+#EXTINF:-1 tvg-id="mjh-surveillancecentral-fast" tvg-name="Surveillance Central" tvg-logo="https://i.mjh.nz/.images/auto-surveillancecentral-fast-4eeefa.png" group-title="NZAU",Surveillance Central
+https://i.mjh.nz/.r/surveillancecentral-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-swimmingreplays-fast" tvg-name="Swimming Replays" tvg-logo="https://i.mjh.nz/.images/auto-swimmingreplays-fast-930ec0.png" group-title="NZAU",Swimming Replays
 https://i.mjh.nz/.r/swimmingreplays-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-taronga-247-fast" tvg-name="Taronga 24/7" tvg-logo="https://imageresizer.static9.net.au/HvEyaXfq57tpzSGiLjqejGDiyA8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F06%2F779914%2Ftaronga_squircle.png" group-title="NZAU",Taronga 24/7
 https://i.mjh.nz/.r/taronga-247-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-taste-fast" tvg-name="Taste" tvg-logo="https://i.mjh.nz/.images/auto-taste-fast-9581ec.png" group-title="NZAU",Taste
-https://i.mjh.nz/.r/taste-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-te-reo" tvg-name="Te Reo" tvg-logo="https://i.mjh.nz/.images/te-reo.png" tvg-chno="10" group-title="NZAU",Te Reo
 https://i.mjh.nz/.r/te-reo.m3u8
 #EXTINF:-1 tvg-id="mjh-the-block-247-fast" tvg-name="The Block 24/7" tvg-logo="https://imageresizer.static9.net.au/Mj-NaVq7oZgtzt2bf55lkLIfyuQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F623508%2Ftheblock_squircle.png" group-title="NZAU",The Block 24/7
