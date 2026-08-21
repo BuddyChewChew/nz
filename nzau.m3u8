@@ -265,6 +265,8 @@ https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
 https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="NZAU",Mighty Machines
 https://i.mjh.nz/.r/mightymachines-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-misc503-fast" tvg-name="Top End T20 Cricket MISC503" tvg-logo="https://i.mjh.nz/.images/auto-misc503-fast-f90888.png" group-title="NZAU",Top End T20 Cricket MISC503
+https://i.mjh.nz/.r/misc503-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1286" tvg-name="Big Rig" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244778333.png" group-title="NZAU",Big Rig
 https://i.mjh.nz/.r/mood-1286.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1287" tvg-name="The Groat" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1743730111010.png" group-title="NZAU",The Groat
@@ -301,7 +303,7 @@ https://i.mjh.nz/.r/redbull-tv.m3u8
 https://i.mjh.nz/.r/rush-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-rush-nz" tvg-name="RUSH" tvg-logo="https://i.mjh.nz/.images/rush-nz.png" tvg-chno="9" group-title="NZAU",RUSH
 https://i.mjh.nz/.r/rush-nz.m3u8
-#EXTINF:-1 tvg-id="mjh-sbs-2syd" tvg-name="SBS VICELAND" tvg-logo="https://image.pr.sbsod.com/22f3c441-e7fd-565e-96bc-39b881c39500" tvg-chno="31" group-title="NZAU",SBS VICELAND
+#EXTINF:-1 tvg-id="mjh-sbs-2syd" tvg-name="SBS2" tvg-logo="https://image.pr.sbsod.com/e7f27bb4-4672-599e-b9b4-a72cfdd8d3ba" tvg-chno="31" group-title="NZAU",SBS2
 https://i.mjh.nz/.r/sbs-2syd.m3u8
 #EXTINF:-1 tvg-id="mjh-sbs-3syd" tvg-name="SBS Food" tvg-logo="https://image.pr.sbsod.com/336c48bb-129d-5348-9d2f-63ab4fe6d493" tvg-chno="33" group-title="NZAU",SBS Food
 https://i.mjh.nz/.r/sbs-3syd.m3u8
