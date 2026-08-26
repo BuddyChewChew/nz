@@ -9,10 +9,6 @@ https://i.mjh.nz/.r/10-aussiedramapopup.m3u8
 https://i.mjh.nz/.r/10-becker.m3u8
 #EXTINF:-1 tvg-id="mjh-10-cheapseats" tvg-name="The Cheap Seats" tvg-logo="https://10.com.au/ip/s3/2025/08/08/47006754904d1d36520e76157ecbfb41-1390280.png?image-profile=logo" group-title="NZAU",The Cheap Seats
 https://i.mjh.nz/.r/10-cheapseats.m3u8
-#EXTINF:-1 tvg-id="mjh-10-cops" tvg-name="COPS" tvg-logo="https://10.com.au/ip/s3/2025/03/30/6fadf0873ac36ecacdc63ed8bba4cf3d-1371071.png?image-profile=logo" group-title="NZAU",COPS
-https://i.mjh.nz/.r/10-cops.m3u8
-#EXTINF:-1 tvg-id="mjh-10-crime-hunters" tvg-name="Crime Hunters" tvg-logo="https://10.com.au/ip/s3/2024/03/06/cb69de15e7b8989a218ad25b7f6547ef-1301820.png?image-profile=logo" group-title="NZAU",Crime Hunters
-https://i.mjh.nz/.r/10-crime-hunters.m3u8
 #EXTINF:-1 tvg-id="mjh-10-crime-time" tvg-name="Crime Time" tvg-logo="https://10.com.au/ip/s3/2024/09/25/c27b803a4128c5b097cd3a23e1be973c-1341004.png?image-profile=logo" group-title="NZAU",Crime Time
 https://i.mjh.nz/.r/10-crime-time.m3u8
 #EXTINF:-1 tvg-id="mjh-10-deadlywomen" tvg-name="Deadly Women" tvg-logo="https://10.com.au/ip/s3/2025/06/19/01e576c63918373cd03aa21ea8566f1e-1383812.png?image-profile=logo" group-title="NZAU",Deadly Women
@@ -21,8 +17,6 @@ https://i.mjh.nz/.r/10-deadlywomen.m3u8
 https://i.mjh.nz/.r/10-demanddrama.m3u8
 #EXTINF:-1 tvg-id="mjh-10-diagnosismurder" tvg-name="Diagnosis Murder" tvg-logo="https://10.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png?image-profile=logo" group-title="NZAU",Diagnosis Murder
 https://i.mjh.nz/.r/10-diagnosismurder.m3u8
-#EXTINF:-1 tvg-id="mjh-10-documentaryshell" tvg-name="Sharks & Other Predators" tvg-logo="https://10.com.au/ip/s3/2025/04/27/ef0a0364c8a70872e6d5f7a4cf5d2585-1376360.png?image-profile=logo" group-title="NZAU",Sharks & Other Predators
-https://i.mjh.nz/.r/10-documentaryshell.m3u8
 #EXTINF:-1 tvg-id="mjh-10-eightoutof10cats" tvg-name="8 Out Of 10 Cats" tvg-logo="https://10.com.au/ip/s3/2024/11/18/03a9b9a1a42bcf2ce1bbb94a8fa47224-1350731.png?image-profile=logo" group-title="NZAU",8 Out Of 10 Cats
 https://i.mjh.nz/.r/10-eightoutof10cats.m3u8
 #EXTINF:-1 tvg-id="mjh-10-embarrassing-bodies" tvg-name="Embarrassing Bodies" tvg-logo="https://10.com.au/ip/s3/2024/10/21/f315a8cda9494cc30e29fdba87430ff8-1345391.png?image-profile=logo" group-title="NZAU",Embarrassing Bodies
@@ -265,8 +259,10 @@ https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
 https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="NZAU",Mighty Machines
 https://i.mjh.nz/.r/mightymachines-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-misc503-fast" tvg-name="Top End T20 Cricket MISC503" tvg-logo="https://i.mjh.nz/.images/auto-misc503-fast-f90888.png" group-title="NZAU",Top End T20 Cricket MISC503
-https://i.mjh.nz/.r/misc503-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-misc501-fast" tvg-name="Top End T20 Cricket MISC501" tvg-logo="https://i.mjh.nz/.images/auto-misc501-fast-f90888.png" group-title="NZAU",Top End T20 Cricket MISC501
+https://i.mjh.nz/.r/misc501-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-misc515-fast" tvg-name="WSL Championship Tour" tvg-logo="https://i.mjh.nz/.images/auto-misc515-fast-35f6c5.png" group-title="NZAU",WSL Championship Tour
+https://i.mjh.nz/.r/misc515-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1286" tvg-name="Big Rig" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244778333.png" group-title="NZAU",Big Rig
 https://i.mjh.nz/.r/mood-1286.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1287" tvg-name="The Groat" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1743730111010.png" group-title="NZAU",The Groat
