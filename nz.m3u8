@@ -53,6 +53,8 @@ https://i.mjh.nz/.r/sky-fast5.m3u8
 https://i.mjh.nz/.r/sky-fast6.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-hgtv" tvg-name="HGTV" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/7ln9bxKLUYx7i79iVBSREP/3728559763d31ce1a9484fb68db96ddc/Logo_Images_-_default.png" tvg-chno="19" group-title="NZ",HGTV
 https://i.mjh.nz/.r/sky-hgtv.m3u8
+#EXTINF:-1 tvg-id="mjh-sky-popup1" tvg-name="ThreeNow Sport 1" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/x5sb9PxNV3X9NmnokapqO/b9541319e37f2803dc7eec73c779d0b0/Logo_Images_-_default.png" group-title="NZ",ThreeNow Sport 1
+https://i.mjh.nz/.r/sky-popup1.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-popup2" tvg-name="ThreeNow Sport 2" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/1jZRHmRhF6VFjZET4V2hFM/6d31709f4e877e133c3d16d28e1b58d2/Logo_Images_-_default.png" group-title="NZ",ThreeNow Sport 2
 https://i.mjh.nz/.r/sky-popup2.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-ptcn" tvg-name="CNN Headlines International" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/5xPXSNCtJNBngNLKZBGLXU/d3fa23fd249dd7c195fe69df9a49961a/Logo_Images_-_default.png" group-title="NZ",CNN Headlines International
