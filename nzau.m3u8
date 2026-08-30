@@ -141,6 +141,8 @@ https://c.mjh.nz/abc-nsw.m3u8
 https://c.mjh.nz/abc-tv-plus.m3u8
 #EXTINF:-1 tvg-id="mjh-acountrypractice-fast" tvg-name="A Country Practice" tvg-logo="https://i.mjh.nz/.images/auto-acountrypractice-fast-3f02ad.png" group-title="NZAU",A Country Practice
 https://i.mjh.nz/.r/acountrypractice-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-ade1_event-fast" tvg-name="SANFL" tvg-logo="https://i.mjh.nz/.images/auto-ade1_event-fast-e71672.png" group-title="NZAU",SANFL
+https://i.mjh.nz/.r/ade1_event-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-aircrashinvestigations-fast" tvg-name="Air Crash Investigations" tvg-logo="https://i.mjh.nz/.images/auto-aircrashinvestigations-fast-7ff35e.png" group-title="NZAU",Air Crash Investigations
 https://i.mjh.nz/.r/aircrashinvestigations-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" tvg-chno="20" group-title="NZAU",Al Jazeera
@@ -267,10 +269,10 @@ https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
 https://i.mjh.nz/.r/mens-national-basketball-nbl-blitz-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="NZAU",Mighty Machines
 https://i.mjh.nz/.r/mightymachines-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-misc501-fast" tvg-name="Top End T20 Cricket MISC501" tvg-logo="https://i.mjh.nz/.images/auto-misc501-fast-f90888.png" group-title="NZAU",Top End T20 Cricket MISC501
+https://i.mjh.nz/.r/misc501-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-misc503-fast" tvg-name="Top End T20 Cricket MISC503" tvg-logo="https://i.mjh.nz/.images/auto-misc503-fast-f90888.png" group-title="NZAU",Top End T20 Cricket MISC503
 https://i.mjh.nz/.r/misc503-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-misc514-fast" tvg-name="KFC T20 Max MISC514" tvg-logo="https://i.mjh.nz/.images/auto-misc514-fast-fed857.png" group-title="NZAU",KFC T20 Max MISC514
-https://i.mjh.nz/.r/misc514-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1286" tvg-name="Big Rig" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244778333.png" group-title="NZAU",Big Rig
 https://i.mjh.nz/.r/mood-1286.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1287" tvg-name="The Groat" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1743730111010.png" group-title="NZAU",The Groat
