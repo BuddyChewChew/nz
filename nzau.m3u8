@@ -17,8 +17,6 @@ https://i.mjh.nz/.r/10-crime-hunters.m3u8
 https://i.mjh.nz/.r/10-crime-time.m3u8
 #EXTINF:-1 tvg-id="mjh-10-deadlywomen" tvg-name="Deadly Women" tvg-logo="https://10.com.au/ip/s3/2025/06/19/01e576c63918373cd03aa21ea8566f1e-1383812.png?image-profile=logo" group-title="NZAU",Deadly Women
 https://i.mjh.nz/.r/10-deadlywomen.m3u8
-#EXTINF:-1 tvg-id="mjh-10-demanddrama" tvg-name="Demand Drama" tvg-logo="https://10.com.au/ip/s3/2025/11/24/c74394cd357189d5310b9c1a661279d5-1401182.png?image-profile=logo" group-title="NZAU",Demand Drama
-https://i.mjh.nz/.r/10-demanddrama.m3u8
 #EXTINF:-1 tvg-id="mjh-10-diagnosismurder" tvg-name="Diagnosis Murder" tvg-logo="https://10.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png?image-profile=logo" group-title="NZAU",Diagnosis Murder
 https://i.mjh.nz/.r/10-diagnosismurder.m3u8
 #EXTINF:-1 tvg-id="mjh-10-documentaryshell" tvg-name="Sharks & Other Predators" tvg-logo="https://10.com.au/ip/s3/2025/04/27/ef0a0364c8a70872e6d5f7a4cf5d2585-1376360.png?image-profile=logo" group-title="NZAU",Sharks & Other Predators
@@ -139,8 +137,6 @@ https://c.mjh.nz/abc-news.m3u8
 https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-abc-tv-plus" tvg-name="ABC Family" tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/7_Family_C-1053_iview_LivestreamOff_2000x2000_new.png" tvg-chno="22" group-title="NZAU",ABC Family
 https://c.mjh.nz/abc-tv-plus.m3u8
-#EXTINF:-1 tvg-id="mjh-acountrypractice-fast" tvg-name="A Country Practice" tvg-logo="https://i.mjh.nz/.images/auto-acountrypractice-fast-3f02ad.png" group-title="NZAU",A Country Practice
-https://i.mjh.nz/.r/acountrypractice-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-aircrashinvestigations-fast" tvg-name="Air Crash Investigations" tvg-logo="https://i.mjh.nz/.images/auto-aircrashinvestigations-fast-7ff35e.png" group-title="NZAU",Air Crash Investigations
 https://i.mjh.nz/.r/aircrashinvestigations-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" tvg-chno="20" group-title="NZAU",Al Jazeera
@@ -263,12 +259,10 @@ https://i.mjh.nz/.r/maori-tv.m3u8
 https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-medicalnrescue-fast" tvg-name="Medical And Rescue" tvg-logo="https://i.mjh.nz/.images/auto-medicalnrescue-fast-bd9388.png" group-title="NZAU",Medical And Rescue
 https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-mens-national-basketball-nbl-blitz-fast" tvg-name="Men's National Basketball NBL Blitz" tvg-logo="https://imageresizer.static9.net.au/iOqY2TUo5cfNPI6z_h2RJgbyKCY=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F08%2F790784%2Fnhlsquircle.png" group-title="NZAU",Men's National Basketball NBL Blitz
+#EXTINF:-1 tvg-id="mjh-mens-national-basketball-nbl-blitz-fast" tvg-name="NBL Blitz" tvg-logo="https://imageresizer.static9.net.au/iOqY2TUo5cfNPI6z_h2RJgbyKCY=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F08%2F790784%2Fnhlsquircle.png" group-title="NZAU",NBL Blitz
 https://i.mjh.nz/.r/mens-national-basketball-nbl-blitz-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="NZAU",Mighty Machines
 https://i.mjh.nz/.r/mightymachines-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-misc515-fast" tvg-name="WSL Championship Tour" tvg-logo="https://i.mjh.nz/.images/auto-misc515-fast-35f6c5.png" group-title="NZAU",WSL Championship Tour
-https://i.mjh.nz/.r/misc515-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1286" tvg-name="Big Rig" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244778333.png" group-title="NZAU",Big Rig
 https://i.mjh.nz/.r/mood-1286.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1287" tvg-name="The Groat" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1743730111010.png" group-title="NZAU",The Groat
@@ -301,8 +295,6 @@ https://i.mjh.nz/.r/racingwa-fast.m3u8
 https://i.mjh.nz/.r/real-emergency-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-redbull-tv" tvg-name="Redbull TV" tvg-logo="https://i.mjh.nz/.images/redbull-tv.png" group-title="NZAU",Redbull TV
 https://i.mjh.nz/.r/redbull-tv.m3u8
-#EXTINF:-1 tvg-id="mjh-rugby-league-new-south-wales-school-boys-and-girls-finals-2026-fast" tvg-name="Rugby League: New South Wales School Boys and Girls Finals 2026" tvg-logo="https://imageresizer.static9.net.au/Z3QLq3h-0EH1pgE-TOEhn4maXCg=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F08%2F792720%2Fnhlsquircle-1.png" group-title="NZAU",Rugby League: New South Wales School Boys and Girls Finals 2026
-https://i.mjh.nz/.r/rugby-league-new-south-wales-school-boys-and-girls-finals-2026-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-rugby-league-queensland-school-boys-and-girls-finals-fast" tvg-name="Rugby League: Queensland School Boys and Girls Finals" tvg-logo="https://imageresizer.static9.net.au/biMML_emaXXmNUWaXNCK_ARz0WI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F08%2F792721%2Fnhlsquircle.png" group-title="NZAU",Rugby League: Queensland School Boys and Girls Finals
 https://i.mjh.nz/.r/rugby-league-queensland-school-boys-and-girls-finals-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-rush-nsw" tvg-name="9Rush" tvg-logo="https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png" tvg-chno="96" group-title="NZAU",9Rush
