@@ -137,6 +137,8 @@ https://c.mjh.nz/abc-news.m3u8
 https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-abc-tv-plus" tvg-name="ABC Family" tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/7_Family_C-1053_iview_LivestreamOff_2000x2000_new.png" tvg-chno="22" group-title="NZAU",ABC Family
 https://c.mjh.nz/abc-tv-plus.m3u8
+#EXTINF:-1 tvg-id="mjh-acountrypractice-fast" tvg-name="A Country Practice" tvg-logo="https://i.mjh.nz/.images/auto-acountrypractice-fast-3f02ad.png" group-title="NZAU",A Country Practice
+https://i.mjh.nz/.r/acountrypractice-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-aircrashinvestigations-fast" tvg-name="Air Crash Investigations" tvg-logo="https://i.mjh.nz/.images/auto-aircrashinvestigations-fast-7ff35e.png" group-title="NZAU",Air Crash Investigations
 https://i.mjh.nz/.r/aircrashinvestigations-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" tvg-chno="20" group-title="NZAU",Al Jazeera
@@ -295,8 +297,6 @@ https://i.mjh.nz/.r/racingwa-fast.m3u8
 https://i.mjh.nz/.r/real-emergency-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-redbull-tv" tvg-name="Redbull TV" tvg-logo="https://i.mjh.nz/.images/redbull-tv.png" group-title="NZAU",Redbull TV
 https://i.mjh.nz/.r/redbull-tv.m3u8
-#EXTINF:-1 tvg-id="mjh-rugby-league-queensland-school-boys-and-girls-finals-fast" tvg-name="Rugby League: Queensland School Boys and Girls Finals" tvg-logo="https://imageresizer.static9.net.au/biMML_emaXXmNUWaXNCK_ARz0WI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F08%2F792721%2Fnhlsquircle.png" group-title="NZAU",Rugby League: Queensland School Boys and Girls Finals
-https://i.mjh.nz/.r/rugby-league-queensland-school-boys-and-girls-finals-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-rush-nsw" tvg-name="9Rush" tvg-logo="https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png" tvg-chno="96" group-title="NZAU",9Rush
 https://i.mjh.nz/.r/rush-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-rush-nz" tvg-name="RUSH" tvg-logo="https://i.mjh.nz/.images/rush-nz.png" tvg-chno="9" group-title="NZAU",RUSH
