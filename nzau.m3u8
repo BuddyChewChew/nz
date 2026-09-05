@@ -387,6 +387,8 @@ https://i.mjh.nz/.r/surveillancecentral-fast.m3u8
 https://i.mjh.nz/.r/swimmingreplays-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-taronga-247-fast" tvg-name="Taronga 24/7" tvg-logo="https://imageresizer.static9.net.au/HvEyaXfq57tpzSGiLjqejGDiyA8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F06%2F779914%2Ftaronga_squircle.png" group-title="NZAU",Taronga 24/7
 https://i.mjh.nz/.r/taronga-247-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-tas3_event-fast" tvg-name="VFL" tvg-logo="https://i.mjh.nz/.images/auto-tas3_event-fast-f472ed.png" group-title="NZAU",VFL
+https://i.mjh.nz/.r/tas3_event-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-te-reo" tvg-name="Te Reo" tvg-logo="https://i.mjh.nz/.images/te-reo.png" tvg-chno="10" group-title="NZAU",Te Reo
 https://i.mjh.nz/.r/te-reo.m3u8
 #EXTINF:-1 tvg-id="mjh-the-block-247-fast" tvg-name="The Block 24/7" tvg-logo="https://imageresizer.static9.net.au/Mj-NaVq7oZgtzt2bf55lkLIfyuQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F623508%2Ftheblock_squircle.png" group-title="NZAU",The Block 24/7
