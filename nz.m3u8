@@ -38,7 +38,7 @@ https://i.mjh.nz/.r/redbull-tv.m3u8
 #EXTINF:-1 tvg-id="mjh-rush-nz" tvg-name="RUSH" tvg-logo="https://i.mjh.nz/.images/rush-nz.png" tvg-chno="9" group-title="NZ",RUSH
 https://i.mjh.nz/.r/rush-nz.m3u8
 #EXTINF:-1 tvg-id="mjh-shine-tv" tvg-name="Shine TV" tvg-logo="https://i.mjh.nz/.images/shine-tv.png" tvg-chno="25" group-title="NZ",Shine TV
-https://i.mjh.nz/.r/shine-tv.m3u8
+https://c.mjh.nz/shine-tv.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-fast1" tvg-name="Warner Bros TV Motorheads" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/laHWrOWVIUsYpUq2F7y0r/900f30b379ffadcdd49ea43ff83dc3d9/Logo_Images_-_default.png" group-title="NZ",Warner Bros TV Motorheads
 https://i.mjh.nz/.r/sky-fast1.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-fast2" tvg-name="Warner Bros TV Deadliest Catch" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/4sdV9uGhLQRMYrBdMtGTNs/15a364e6a26ee48cff2979fa9f90bf51/Logo_-_default.png" group-title="NZ",Warner Bros TV Deadliest Catch

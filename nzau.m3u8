@@ -213,8 +213,6 @@ https://i.mjh.nz/.r/channel-9-newcastle.m3u8
 https://i.mjh.nz/.r/channel-9-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-channel-news-asia" tvg-name="Channel News Asia (CNA)" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" group-title="NZAU",Channel News Asia (CNA)
 https://i.mjh.nz/.r/channel-news-asia.m3u8
-#EXTINF:-1 tvg-id="mjh-cricketgold-fast" tvg-name="Cricket Gold" tvg-logo="https://i.mjh.nz/.images/auto-cricketgold-fast-906f03.png" group-title="NZAU",Cricket Gold
-https://i.mjh.nz/.r/cricketgold-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-csicrimesceneinvestigation-fast" tvg-name="CSI Crime Scene Investigation" tvg-logo="https://i.mjh.nz/.images/auto-csicrimesceneinvestigation-fast-87549e.png" group-title="NZAU",CSI Crime Scene Investigation
 https://i.mjh.nz/.r/csicrimesceneinvestigation-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-dance-moms-247-fast" tvg-name="Dance Moms 24/7" tvg-logo="https://imageresizer.static9.net.au/OKBRw5HKp9hAAVX3XM-A1HrVRug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585178%2Fsquircle_dancemoms.png" group-title="NZAU",Dance Moms 24/7
@@ -348,7 +346,7 @@ https://i.mjh.nz/.r/seinfeld-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-seven-syd" tvg-name="Seven" tvg-logo="https://i.mjh.nz/.images/auto-seven-syd-9608a4.png" tvg-chno="71" group-title="NZAU",Seven
 https://i.mjh.nz/.r/seven-syd.m3u8
 #EXTINF:-1 tvg-id="mjh-shine-tv" tvg-name="Shine TV" tvg-logo="https://i.mjh.nz/.images/shine-tv.png" tvg-chno="25" group-title="NZAU",Shine TV
-https://i.mjh.nz/.r/shine-tv.m3u8
+https://c.mjh.nz/shine-tv.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-fast1" tvg-name="Warner Bros TV Motorheads" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/laHWrOWVIUsYpUq2F7y0r/900f30b379ffadcdd49ea43ff83dc3d9/Logo_Images_-_default.png" group-title="NZAU",Warner Bros TV Motorheads
 https://i.mjh.nz/.r/sky-fast1.m3u8
 #EXTINF:-1 tvg-id="mjh-sky-fast2" tvg-name="Warner Bros TV Deadliest Catch" tvg-logo="https://contentful-images.digital.skyone.co.nz/v3/hf0kmuqe0d45/4sdV9uGhLQRMYrBdMtGTNs/15a364e6a26ee48cff2979fa9f90bf51/Logo_-_default.png" group-title="NZAU",Warner Bros TV Deadliest Catch
