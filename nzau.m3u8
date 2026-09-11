@@ -213,6 +213,8 @@ https://i.mjh.nz/.r/channel-9-newcastle.m3u8
 https://i.mjh.nz/.r/channel-9-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-channel-news-asia" tvg-name="Channel News Asia (CNA)" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" group-title="NZAU",Channel News Asia (CNA)
 https://i.mjh.nz/.r/channel-news-asia.m3u8
+#EXTINF:-1 tvg-id="mjh-cricketgold-fast" tvg-name="Cricket Gold" tvg-logo="https://i.mjh.nz/.images/auto-cricketgold-fast-906f03.png" group-title="NZAU",Cricket Gold
+https://i.mjh.nz/.r/cricketgold-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-csicrimesceneinvestigation-fast" tvg-name="CSI Crime Scene Investigation" tvg-logo="https://i.mjh.nz/.images/auto-csicrimesceneinvestigation-fast-87549e.png" group-title="NZAU",CSI Crime Scene Investigation
 https://i.mjh.nz/.r/csicrimesceneinvestigation-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-dance-moms-247-fast" tvg-name="Dance Moms 24/7" tvg-logo="https://imageresizer.static9.net.au/OKBRw5HKp9hAAVX3XM-A1HrVRug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585178%2Fsquircle_dancemoms.png" group-title="NZAU",Dance Moms 24/7
@@ -421,5 +423,7 @@ https://i.mjh.nz/.r/wairarapa-tv.m3u8
 https://i.mjh.nz/.r/waterrats-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-winnersnlosers-fast" tvg-name="Winners & Losers" tvg-logo="https://i.mjh.nz/.images/auto-winnersnlosers-fast-a59958.png" group-title="NZAU",Winners & Losers
 https://i.mjh.nz/.r/winnersnlosers-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-wnbl-townsville-tip-off-2026-fast" tvg-name="WNBL Townsville Tip-off 2026" tvg-logo="https://imageresizer.static9.net.au/uUKragCeqcCHDUTO6vai0SvBeHw=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F09%2F794689%2Fnhlsquircle.png" group-title="NZAU",WNBL Townsville Tip-off 2026
+https://i.mjh.nz/.r/wnbl-townsville-tip-off-2026-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-wtn-fast" tvg-name="Wicked Tuna" tvg-logo="https://i.mjh.nz/.images/auto-wtn-fast-0a858d.png" group-title="NZAU",Wicked Tuna
 https://i.mjh.nz/.r/wtn-fast.m3u8
