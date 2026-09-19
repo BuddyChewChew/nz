@@ -51,6 +51,8 @@ https://i.mjh.nz/.r/10-judge-judy.m3u8
 https://i.mjh.nz/.r/10-masterchef.m3u8
 #EXTINF:-1 tvg-id="mjh-10-medical-emergency" tvg-name="Medical Emergency" tvg-logo="https://10.com.au/ip/s3/2023/06/28/115b6796134f1e983f41c224c31cc7c9-1246084.png?image-profile=logo" group-title="NZAU",Medical Emergency
 https://i.mjh.nz/.r/10-medical-emergency.m3u8
+#EXTINF:-1 tvg-id="mjh-10-moviesphere" tvg-name="Moviesphere" tvg-logo="https://10.com.au/ip/s3/2022/12/05/6bb229de8fcf96e206e99ca455fc2267-1202912.png?image-profile=logo" group-title="NZAU",Moviesphere
+https://i.mjh.nz/.r/10-moviesphere.m3u8
 #EXTINF:-1 tvg-id="mjh-10-mtv-the-shores" tvg-name="MTV The Shores" tvg-logo="https://10.com.au/ip/s3/2023/07/11/3901f5c4522a0c36cfed8630ab781a5e-1248401.png?image-profile=logo" group-title="NZAU",MTV The Shores
 https://i.mjh.nz/.r/10-mtv-the-shores.m3u8
 #EXTINF:-1 tvg-id="mjh-10-mtvridiculousness" tvg-name="MTV Ridiculousness" tvg-logo="https://10.com.au/ip/s3/2024/02/19/6a7d740896d031b59c9d33d0e6dff544-1298686.png?image-profile=logo" group-title="NZAU",MTV Ridiculousness
@@ -103,10 +105,6 @@ https://i.mjh.nz/.r/10peach-nsw.m3u8
 https://i.mjh.nz/.r/10shake-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-60-minutes-australia-fast" tvg-name="60 Minutes Australia" tvg-logo="https://imageresizer.static9.net.au/kufGcZyXI7lNm32WrMV86xPNAnk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585173%2Fsquircle_60mins.png" group-title="NZAU",60 Minutes Australia
 https://i.mjh.nz/.r/60-minutes-australia-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-7afl-fast" tvg-name="7AFL" tvg-logo="https://i.mjh.nz/.images/auto-7afl-fast-e8fdb6.png" group-title="NZAU",7AFL
-https://i.mjh.nz/.r/7afl-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-7bravo-fast" tvg-name="7Bravo" tvg-logo="https://i.mjh.nz/.images/auto-7bravo-fast-04647e.png" tvg-chno="75" group-title="NZAU",7Bravo
-https://i.mjh.nz/.r/7bravo-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-7flix-syd" tvg-name="7flix" tvg-logo="https://i.mjh.nz/.images/auto-7flix-syd-c6badc.png" tvg-chno="76" group-title="NZAU",7flix
 https://i.mjh.nz/.r/7flix-syd.m3u8
 #EXTINF:-1 tvg-id="mjh-7mate-syd" tvg-name="7mate" tvg-logo="https://i.mjh.nz/.images/auto-7mate-syd-360d60.png" tvg-chno="74" group-title="NZAU",7mate
@@ -135,24 +133,8 @@ https://c.mjh.nz/abc-news.m3u8
 https://c.mjh.nz/abc-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-abc-tv-plus" tvg-name="ABC Family" tvg-logo="https://cdn.iview.abc.net.au/thumbs/256/7_Family_C-1053_iview_LivestreamOff_2000x2000_new.png" tvg-chno="22" group-title="NZAU",ABC Family
 https://c.mjh.nz/abc-tv-plus.m3u8
-#EXTINF:-1 tvg-id="mjh-acountrypractice-fast" tvg-name="A Country Practice" tvg-logo="https://i.mjh.nz/.images/auto-acountrypractice-fast-3f02ad.png" group-title="NZAU",A Country Practice
-https://i.mjh.nz/.r/acountrypractice-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-aircrashinvestigations-fast" tvg-name="Air Crash Investigations" tvg-logo="https://i.mjh.nz/.images/auto-aircrashinvestigations-fast-7ff35e.png" group-title="NZAU",Air Crash Investigations
-https://i.mjh.nz/.r/aircrashinvestigations-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" tvg-chno="20" group-title="NZAU",Al Jazeera
 https://i.mjh.nz/.r/al-jazeera.m3u8
-#EXTINF:-1 tvg-id="mjh-all-starcinema-fast" tvg-name="All-Star Cinema" tvg-logo="https://i.mjh.nz/.images/auto-all-starcinema-fast-9f2397.png" group-title="NZAU",All-Star Cinema
-https://i.mjh.nz/.r/all-starcinema-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-allsaints-fast" tvg-name="All Saints" tvg-logo="https://i.mjh.nz/.images/auto-allsaints-fast-ebad23.png" group-title="NZAU",All Saints
-https://i.mjh.nz/.r/allsaints-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-anglersparadise-fast" tvg-name="Anglers Paradise" tvg-logo="https://i.mjh.nz/.images/auto-anglersparadise-fast-970ebb.png" group-title="NZAU",Anglers Paradise
-https://i.mjh.nz/.r/anglersparadise-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-art-fast" tvg-name="Antiques Road Trip" tvg-logo="https://i.mjh.nz/.images/auto-art-fast-99c60f.png" group-title="NZAU",Antiques Road Trip
-https://i.mjh.nz/.r/art-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-athleticsreplays-fast" tvg-name="Athletics Replays" tvg-logo="https://i.mjh.nz/.images/auto-athleticsreplays-fast-f68a21.png" group-title="NZAU",Athletics Replays
-https://i.mjh.nz/.r/athleticsreplays-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-ausbiz-fast" tvg-name="ausbiz" tvg-logo="https://i.mjh.nz/.images/auto-ausbiz-fast-b12203.png" group-title="NZAU",ausbiz
-https://i.mjh.nz/.r/ausbiz-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-bbc-antiques-roadshow-247-fast" tvg-name="BBC Antiques Roadshow" tvg-logo="https://imageresizer.static9.net.au/zRjEXK-6iFh-92EKnAZN9rXREkA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648315%2Fgroup-61774.png" group-title="NZAU",BBC Antiques Roadshow
 https://i.mjh.nz/.r/bbc-antiques-roadshow-247-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-bbc-comedy-fast" tvg-name="BBC Comedy" tvg-logo="https://imageresizer.static9.net.au/2bl6ZyviwjpHCeVoXf8twpEVFjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648314%2Fgroup-61772.png" group-title="NZAU",BBC Comedy
@@ -167,40 +149,12 @@ https://i.mjh.nz/.r/bbc-news.m3u8
 https://i.mjh.nz/.r/bbc-news-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-bbc-top-gear-247-fast" tvg-name="BBC Top Gear" tvg-logo="https://imageresizer.static9.net.au/anIncnAgaLBmeroZtHqBIXHpW6c=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648316%2Fgroup-61773.png" group-title="NZAU",BBC Top Gear
 https://i.mjh.nz/.r/bbc-top-gear-247-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-belowdeckvault-fast" tvg-name="Below Deck Vault" tvg-logo="https://i.mjh.nz/.images/auto-belowdeckvault-fast-587793.png" group-title="NZAU",Below Deck Vault
-https://i.mjh.nz/.r/belowdeckvault-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-betterhomesandgardens-fast" tvg-name="Better Homes And Gardens" tvg-logo="https://i.mjh.nz/.images/auto-betterhomesandgardens-fast-8d1753.png" group-title="NZAU",Better Homes And Gardens
-https://i.mjh.nz/.r/betterhomesandgardens-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-bloomberg-tv" tvg-name="Bloomberg TV" tvg-logo="https://i.mjh.nz/.images/bloomberg-tv.png" group-title="NZAU",Bloomberg TV
 https://i.mjh.nz/.r/bloomberg-tv.m3u8
-#EXTINF:-1 tvg-id="mjh-blueheelers-fast" tvg-name="Blue Heelers" tvg-logo="https://i.mjh.nz/.images/auto-blueheelers-fast-8cc89d.png" group-title="NZAU",Blue Heelers
-https://i.mjh.nz/.r/blueheelers-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-bluelight-fast" tvg-name="Blue Light" tvg-logo="https://i.mjh.nz/.images/auto-bluelight-fast-dc5718.png" group-title="NZAU",Blue Light
-https://i.mjh.nz/.r/bluelight-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-bordersecurityaustralia-fast" tvg-name="Border Security Australia" tvg-logo="https://i.mjh.nz/.images/auto-bordersecurityaustralia-fast-30b210.png" group-title="NZAU",Border Security Australia
-https://i.mjh.nz/.r/bordersecurityaustralia-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-botchedvault-fast" tvg-name="Botched VAULT" tvg-logo="https://i.mjh.nz/.images/auto-botchedvault-fast-4c6012.png" group-title="NZAU",Botched VAULT
-https://i.mjh.nz/.r/botchedvault-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-bravo" tvg-name="Bravo" tvg-logo="https://i.mjh.nz/.images/bravo.png" tvg-chno="4" group-title="NZAU",Bravo
 https://i.mjh.nz/.r/bravo.m3u8
 #EXTINF:-1 tvg-id="mjh-bravo-plus1" tvg-name="Bravo PLUS 1" tvg-logo="https://i.mjh.nz/.images/bravo-plus1.png" tvg-chno="14" group-title="NZAU",Bravo PLUS 1
 https://i.mjh.nz/.r/bravo-plus1.m3u8
-#EXTINF:-1 tvg-id="mjh-cas21-fast" tvg-name="Ghost Hunters" tvg-logo="https://i.mjh.nz/.images/auto-cas21-fast-f940a9.png" group-title="NZAU",Ghost Hunters
-https://i.mjh.nz/.r/cas21-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-cas24-fast" tvg-name="Bondi Vet" tvg-logo="https://i.mjh.nz/.images/auto-cas24-fast-b9e819.png" group-title="NZAU",Bondi Vet
-https://i.mjh.nz/.r/cas24-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-cas26-fast" tvg-name="Home and Away Classics" tvg-logo="https://i.mjh.nz/.images/auto-cas26-fast-ea7944.png" group-title="NZAU",Home and Away Classics
-https://i.mjh.nz/.r/cas26-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-cas32-fast" tvg-name="7NEWS Spotlight" tvg-logo="https://i.mjh.nz/.images/auto-cas32-fast-2bc14f.png" group-title="NZAU",7NEWS Spotlight
-https://i.mjh.nz/.r/cas32-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-cas33-fast" tvg-name="The Yorkshire Vet" tvg-logo="https://i.mjh.nz/.images/auto-cas33-fast-7aec74.png" group-title="NZAU",The Yorkshire Vet
-https://i.mjh.nz/.r/cas33-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-cas39-fast" tvg-name="24 Hours in A&E" tvg-logo="https://i.mjh.nz/.images/auto-cas39-fast-aa22c1.png" group-title="NZAU",24 Hours in A&E
-https://i.mjh.nz/.r/cas39-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-cas40-fast" tvg-name="Million Dollar Listing VAULT" tvg-logo="https://i.mjh.nz/.images/auto-cas40-fast-0b72b7.png" group-title="NZAU",Million Dollar Listing VAULT
-https://i.mjh.nz/.r/cas40-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-cas41-fast" tvg-name="Bondi Rescue" tvg-logo="https://i.mjh.nz/.images/auto-cas41-fast-a6b151.png" group-title="NZAU",Bondi Rescue
-https://i.mjh.nz/.r/cas41-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-ch200" tvg-name="CH200" tvg-logo="https://i.mjh.nz/.images/ch200.png" tvg-chno="200" group-title="NZAU",CH200
 https://i.mjh.nz/.r/ch200.m3u8
 #EXTINF:-1 tvg-id="mjh-channel-9-lismore" tvg-name="Channel 9 (Norther Rivers)" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="NZAU",Channel 9 (Norther Rivers)
@@ -211,8 +165,6 @@ https://i.mjh.nz/.r/channel-9-newcastle.m3u8
 https://i.mjh.nz/.r/channel-9-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-channel-news-asia" tvg-name="Channel News Asia (CNA)" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" group-title="NZAU",Channel News Asia (CNA)
 https://i.mjh.nz/.r/channel-news-asia.m3u8
-#EXTINF:-1 tvg-id="mjh-csicrimesceneinvestigation-fast" tvg-name="CSI Crime Scene Investigation" tvg-logo="https://i.mjh.nz/.images/auto-csicrimesceneinvestigation-fast-87549e.png" group-title="NZAU",CSI Crime Scene Investigation
-https://i.mjh.nz/.r/csicrimesceneinvestigation-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-dance-moms-247-fast" tvg-name="Dance Moms 24/7" tvg-logo="https://imageresizer.static9.net.au/OKBRw5HKp9hAAVX3XM-A1HrVRug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585178%2Fsquircle_dancemoms.png" group-title="NZAU",Dance Moms 24/7
 https://i.mjh.nz/.r/dance-moms-247-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-drive-fast" tvg-name="Drive" tvg-logo="https://imageresizer.static9.net.au/FbD6lTD6rHmNM35zPbmc572qOB8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F07%2F702351%2Fdrive_squircle.png" group-title="NZAU",Drive
@@ -221,44 +173,26 @@ https://i.mjh.nz/.r/drive-fast.m3u8
 https://i.mjh.nz/.r/dw-news.m3u8
 #EXTINF:-1 tvg-id="mjh-eden" tvg-name="eden" tvg-logo="https://i.mjh.nz/.images/eden.png" tvg-chno="18" group-title="NZAU",eden
 https://i.mjh.nz/.r/eden.m3u8
-#EXTINF:-1 tvg-id="mjh-etc-fast" tvg-name="Escape to the Country" tvg-logo="https://i.mjh.nz/.images/auto-etc-fast-6d4429.png" group-title="NZAU",Escape to the Country
-https://i.mjh.nz/.r/etc-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-firstlight" tvg-name="Firstlight" tvg-logo="https://i.mjh.nz/.images/firstlight.png" tvg-chno="26" group-title="NZAU",Firstlight
 https://i.mjh.nz/.r/firstlight.m3u8
 #EXTINF:-1 tvg-id="mjh-gem-nsw" tvg-name="9Gem" tvg-logo="https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png" tvg-chno="92" group-title="NZAU",9Gem
 https://i.mjh.nz/.r/gem-nsw.m3u8
-#EXTINF:-1 tvg-id="mjh-glasgowglory-fast" tvg-name="Glasgow Glory" tvg-logo="https://i.mjh.nz/.images/auto-glasgowglory-fast-687d7c.png" group-title="NZAU",Glasgow Glory
-https://i.mjh.nz/.r/glasgowglory-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-go-nsw" tvg-name="9Go!" tvg-logo="https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png" tvg-chno="93" group-title="NZAU",9Go!
 https://i.mjh.nz/.r/go-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-good-dot" tvg-name="GOOD." tvg-logo="https://i.mjh.nz/.images/good-dot.png" group-title="NZAU",GOOD.
 https://c.mjh.nz/good-dot.m3u8
 #EXTINF:-1 tvg-id="mjh-h2-fast" tvg-name="H2" tvg-logo="https://imageresizer.static9.net.au/OxADVUkSO8Xp2ATCSJmMsa0gcDE=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F684622%2Fh2_squircle.png" group-title="NZAU",H2
 https://i.mjh.nz/.r/h2-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-hardcorepawn-fast" tvg-name="Hardcore Pawn" tvg-logo="https://i.mjh.nz/.images/auto-hardcorepawn-fast-87f8ee.png" group-title="NZAU",Hardcore Pawn
-https://i.mjh.nz/.r/hardcorepawn-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-heki-fast" tvg-name="Hells Kitchen" tvg-logo="https://i.mjh.nz/.images/auto-heki-fast-6f7c4d.png" group-title="NZAU",Hells Kitchen
-https://i.mjh.nz/.r/heki-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-hope-channel" tvg-name="Hope Channel" tvg-logo="https://i.mjh.nz/.images/hope-channel.png" tvg-chno="27" group-title="NZAU",Hope Channel
 https://i.mjh.nz/.r/hope-channel.m3u8
-#EXTINF:-1 tvg-id="mjh-judgejudy-fast" tvg-name="Judge Judy" tvg-logo="https://i.mjh.nz/.images/auto-judgejudy-fast-8781e8.png" group-title="NZAU",Judge Judy
-https://i.mjh.nz/.r/judgejudy-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-kitchennightmares-fast" tvg-name="Kitchen Nightmares" tvg-logo="https://i.mjh.nz/.images/auto-kitchennightmares-fast-ba1ad2.png" group-title="NZAU",Kitchen Nightmares
-https://i.mjh.nz/.r/kitchennightmares-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-life-nsw" tvg-name="9Life" tvg-logo="https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png" tvg-chno="94" group-title="NZAU",9Life
 https://i.mjh.nz/.r/life-nsw.m3u8
-#EXTINF:-1 tvg-id="mjh-livgolfreplays-fast" tvg-name="LIV Golf Replays" tvg-logo="https://i.mjh.nz/.images/auto-livgolfreplays-fast-471f30.png" group-title="NZAU",LIV Golf Replays
-https://i.mjh.nz/.r/livgolfreplays-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-lmn-fast" tvg-name="LMN" tvg-logo="https://imageresizer.static9.net.au/GfA3WNoMOfZbJOqJeq-UrX5nsdk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F12%2F658518%2Fgroup-61484.png" group-title="NZAU",LMN
 https://i.mjh.nz/.r/lmn-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-maori-tv" tvg-name="Whakaata Māori" tvg-logo="https://i.mjh.nz/.images/maori-tv.png" tvg-chno="5" group-title="NZAU",Whakaata Māori
 https://i.mjh.nz/.r/maori-tv.m3u8
 #EXTINF:-1 tvg-id="mjh-married-at-first-sight-fast" tvg-name="Married At First Sight" tvg-logo="https://imageresizer.static9.net.au/OCF69HZLp4AWm0cGB8bvgx4U8mQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585176%2Fsquircle_mafs.png" group-title="NZAU",Married At First Sight
 https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-medicalnrescue-fast" tvg-name="Medical And Rescue" tvg-logo="https://i.mjh.nz/.images/auto-medicalnrescue-fast-bd9388.png" group-title="NZAU",Medical And Rescue
-https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="NZAU",Mighty Machines
-https://i.mjh.nz/.r/mightymachines-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1286" tvg-name="Big Rig" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244778333.png" group-title="NZAU",Big Rig
 https://i.mjh.nz/.r/mood-1286.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1287" tvg-name="The Groat" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1743730111010.png" group-title="NZAU",The Groat
@@ -269,26 +203,12 @@ https://i.mjh.nz/.r/mood-1288.m3u8
 https://i.mjh.nz/.r/mood-1289.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1290" tvg-name="JuiceTV" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244355255.png" tvg-chno="38" group-title="NZAU",JuiceTV
 https://i.mjh.nz/.r/mood-1290.m3u8
-#EXTINF:-1 tvg-id="mjh-moviesphere-fast" tvg-name="MovieSphere" tvg-logo="https://i.mjh.nz/.images/auto-moviesphere-fast-c0653a.png" group-title="NZAU",MovieSphere
-https://i.mjh.nz/.r/moviesphere-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-mythbusters-fast" tvg-name="Mythbusters" tvg-logo="https://i.mjh.nz/.images/auto-mythbusters-fast-3a72b1.png" group-title="NZAU",Mythbusters
-https://i.mjh.nz/.r/mythbusters-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-ncis-fast" tvg-name="NCIS" tvg-logo="https://i.mjh.nz/.images/auto-ncis-fast-6f82bd.png" group-title="NZAU",NCIS
-https://i.mjh.nz/.r/ncis-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-onthecase-fast" tvg-name="On The Case" tvg-logo="https://i.mjh.nz/.images/auto-onthecase-fast-6ec172.png" group-title="NZAU",On The Case
-https://i.mjh.nz/.r/onthecase-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-outbacktruckers-fast" tvg-name="Outback Truckers" tvg-logo="https://i.mjh.nz/.images/auto-outbacktruckers-fast-332b21.png" group-title="NZAU",Outback Truckers
-https://i.mjh.nz/.r/outbacktruckers-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-parliament-tv" tvg-name="Parliament TV" tvg-logo="https://i.mjh.nz/.images/parliament-tv.png" tvg-chno="31" group-title="NZAU",Parliament TV
 https://i.mjh.nz/.r/parliament-tv.m3u8
 #EXTINF:-1 tvg-id="mjh-prime" tvg-name="Sky Open" tvg-logo="https://i.mjh.nz/.images/sky-open.png" tvg-chno="8" group-title="NZAU",Sky Open
 https://i.mjh.nz/.r/prime.m3u8
 #EXTINF:-1 tvg-id="mjh-qrl-hostplus-cup-2026-fast" tvg-name="QRL Hostplus Cup 2026" tvg-logo="https://imageresizer.static9.net.au/LNpywqVf2w4867hx6GFb3LerFzs=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F02%2F756275%2Fsquircle_qrlhostplus.png" group-title="NZAU",QRL Hostplus Cup 2026
 https://i.mjh.nz/.r/qrl-hostplus-cup-2026-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-racing-fast" tvg-name="Racing.com" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" tvg-chno="78" group-title="NZAU",Racing.com
-https://i.mjh.nz/.r/racing-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-racingwa-fast" tvg-name="Racing WA" tvg-logo="https://i.mjh.nz/.images/auto-racingwa-fast-128220.png" group-title="NZAU",Racing WA
-https://i.mjh.nz/.r/racingwa-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-real-emergency-fast" tvg-name="Real Emergency" tvg-logo="https://imageresizer.static9.net.au/mEHWZZQZMecm6LaCcdOvOqgSn0Q=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F10%2F726130%2Frealemergencysquircle.png" group-title="NZAU",Real Emergency
 https://i.mjh.nz/.r/real-emergency-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-redbull-tv" tvg-name="Redbull TV" tvg-logo="https://i.mjh.nz/.images/redbull-tv.png" group-title="NZAU",Redbull TV
@@ -377,18 +297,12 @@ https://i.mjh.nz/.r/sky-racing-2.m3u8
 https://i.mjh.nz/.r/sky-racing-thoroughbred.m3u8
 #EXTINF:-1 tvg-id="mjh-snowy-mountains" tvg-name="Snowy Mountains Television" tvg-logo="https://i.mjh.nz/.images/smtv.png" group-title="NZAU",Snowy Mountains Television
 https://i.mjh.nz/.r/snowy-mountains.m3u8
-#EXTINF:-1 tvg-id="mjh-surveillancecentral-fast" tvg-name="Surveillance Central" tvg-logo="https://i.mjh.nz/.images/auto-surveillancecentral-fast-4eeefa.png" group-title="NZAU",Surveillance Central
-https://i.mjh.nz/.r/surveillancecentral-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-swimmingreplays-fast" tvg-name="Swimming Replays" tvg-logo="https://i.mjh.nz/.images/auto-swimmingreplays-fast-930ec0.png" group-title="NZAU",Swimming Replays
-https://i.mjh.nz/.r/swimmingreplays-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-taronga-247-fast" tvg-name="Taronga 24/7" tvg-logo="https://imageresizer.static9.net.au/HvEyaXfq57tpzSGiLjqejGDiyA8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F06%2F779914%2Ftaronga_squircle.png" group-title="NZAU",Taronga 24/7
 https://i.mjh.nz/.r/taronga-247-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-te-reo" tvg-name="Te Reo" tvg-logo="https://i.mjh.nz/.images/te-reo.png" tvg-chno="10" group-title="NZAU",Te Reo
 https://i.mjh.nz/.r/te-reo.m3u8
 #EXTINF:-1 tvg-id="mjh-the-block-247-fast" tvg-name="The Block 24/7" tvg-logo="https://imageresizer.static9.net.au/Mj-NaVq7oZgtzt2bf55lkLIfyuQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F623508%2Ftheblock_squircle.png" group-title="NZAU",The Block 24/7
 https://i.mjh.nz/.r/the-block-247-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-therealhousewivesvault-fast" tvg-name="The Real Housewives VAULT" tvg-logo="https://i.mjh.nz/.images/auto-therealhousewivesvault-fast-dd8ea5.png" group-title="NZAU",The Real Housewives VAULT
-https://i.mjh.nz/.r/therealhousewivesvault-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-three" tvg-name="Three" tvg-logo="https://i.mjh.nz/.images/three.png" tvg-chno="3" group-title="NZAU",Three
 https://i.mjh.nz/.r/three.m3u8
 #EXTINF:-1 tvg-id="mjh-three-plus1" tvg-name="ThreePlus1" tvg-logo="https://i.mjh.nz/.images/three-plus1.png" tvg-chno="13" group-title="NZAU",ThreePlus1
@@ -399,29 +313,15 @@ https://i.mjh.nz/.r/trackside-1.m3u8
 https://i.mjh.nz/.r/trackside-2.m3u8
 #EXTINF:-1 tvg-id="mjh-trackside-premier" tvg-name="Trackside Premier" tvg-logo="https://i.mjh.nz/.images/trackside-premier.png" group-title="NZAU",Trackside Premier
 https://i.mjh.nz/.r/trackside-premier.m3u8
-#EXTINF:-1 tvg-id="mjh-travelaustralia-fast" tvg-name="Travel Australia" tvg-logo="https://i.mjh.nz/.images/auto-travelaustralia-fast-cfd556.png" group-title="NZAU",Travel Australia
-https://i.mjh.nz/.r/travelaustralia-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-truckinghell-fast" tvg-name="Trucking Hell" tvg-logo="https://i.mjh.nz/.images/auto-truckinghell-fast-6b08c1.png" group-title="NZAU",Trucking Hell
-https://i.mjh.nz/.r/truckinghell-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-truecrimefiles-fast" tvg-name="True Crime Files" tvg-logo="https://i.mjh.nz/.images/auto-truecrimefiles-fast-26e3bf.png" group-title="NZAU",True Crime Files
-https://i.mjh.nz/.r/truecrimefiles-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-tvnz-1" tvg-name="TVNZ 1" tvg-logo="https://i.mjh.nz/.images/tvnz-1.png" tvg-chno="1" group-title="NZAU",TVNZ 1
 https://i.mjh.nz/.r/tvnz-1.mpd
 #EXTINF:-1 tvg-id="mjh-tvnz-2" tvg-name="TVNZ 2" tvg-logo="https://i.mjh.nz/.images/tvnz-2.png" tvg-chno="2" group-title="NZAU",TVNZ 2
 https://i.mjh.nz/.r/tvnz-2.mpd
 #EXTINF:-1 tvg-id="mjh-tvnz-duke" tvg-name="DUKE" tvg-logo="https://i.mjh.nz/.images/tvnz-duke.png" tvg-chno="6" group-title="NZAU",DUKE
 https://i.mjh.nz/.r/tvnz-duke.mpd
-#EXTINF:-1 tvg-id="mjh-tvsn-fast" tvg-name="TVSN" tvg-logo="https://i.mjh.nz/.images/auto-tvsn-fast-eda516.png" tvg-chno="77" group-title="NZAU",TVSN
-https://i.mjh.nz/.r/tvsn-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-tvsn-shopping" tvg-name="TVSN Shopping" tvg-logo="https://i.mjh.nz/.images/tvsn-shopping.png" group-title="NZAU",TVSN Shopping
 https://i.mjh.nz/.r/tvsn-shopping.m3u8
 #EXTINF:-1 tvg-id="mjh-wairarapa-tv" tvg-name="Wairarapa TV" tvg-logo="https://i.mjh.nz/.images/wairarapa-tv.png" tvg-chno="41" group-title="NZAU",Wairarapa TV
 https://i.mjh.nz/.r/wairarapa-tv.m3u8
-#EXTINF:-1 tvg-id="mjh-waterrats-fast" tvg-name="Water Rats" tvg-logo="https://i.mjh.nz/.images/auto-waterrats-fast-428228.png" group-title="NZAU",Water Rats
-https://i.mjh.nz/.r/waterrats-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-winnersnlosers-fast" tvg-name="Winners & Losers" tvg-logo="https://i.mjh.nz/.images/auto-winnersnlosers-fast-a59958.png" group-title="NZAU",Winners & Losers
-https://i.mjh.nz/.r/winnersnlosers-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-wnbl-townsville-tip-off-2026-fast" tvg-name="WNBL Townsville Tip-off 2026" tvg-logo="https://imageresizer.static9.net.au/uUKragCeqcCHDUTO6vai0SvBeHw=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F09%2F794689%2Fnhlsquircle.png" group-title="NZAU",WNBL Townsville Tip-off 2026
 https://i.mjh.nz/.r/wnbl-townsville-tip-off-2026-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-wtn-fast" tvg-name="Wicked Tuna" tvg-logo="https://i.mjh.nz/.images/auto-wtn-fast-0a858d.png" group-title="NZAU",Wicked Tuna
-https://i.mjh.nz/.r/wtn-fast.m3u8
