@@ -219,8 +219,6 @@ https://i.mjh.nz/.r/cricketgold-fast.m3u8
 https://i.mjh.nz/.r/csicrimesceneinvestigation-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-dance-moms-247-fast" tvg-name="Dance Moms 24/7" tvg-logo="https://imageresizer.static9.net.au/OKBRw5HKp9hAAVX3XM-A1HrVRug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585178%2Fsquircle_dancemoms.png" group-title="NZAU",Dance Moms 24/7
 https://i.mjh.nz/.r/dance-moms-247-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-drive-fast" tvg-name="Drive" tvg-logo="https://imageresizer.static9.net.au/FbD6lTD6rHmNM35zPbmc572qOB8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F07%2F702351%2Fdrive_squircle.png" group-title="NZAU",Drive
-https://i.mjh.nz/.r/drive-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-dw-news" tvg-name="DW English" tvg-logo="https://www.dw.com/images/icons/favicon-540x540.png" group-title="NZAU",DW English
 https://i.mjh.nz/.r/dw-news.m3u8
 #EXTINF:-1 tvg-id="mjh-eden" tvg-name="eden" tvg-logo="https://i.mjh.nz/.images/eden.png" tvg-chno="18" group-title="NZAU",eden
