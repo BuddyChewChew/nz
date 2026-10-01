@@ -275,6 +275,10 @@ https://i.mjh.nz/.r/mood-1290.m3u8
 https://i.mjh.nz/.r/mythbusters-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-ncis-fast" tvg-name="NCIS" tvg-logo="https://i.mjh.nz/.images/auto-ncis-fast-6f82bd.png" group-title="NZAU",NCIS
 https://i.mjh.nz/.r/ncis-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-nrl-grand-final-2026-exclusive-cams-fast" tvg-name="NRL Grand Final 2026: Exclusive Cams" tvg-logo="https://imageresizer.static9.net.au/lSP0xiaiecY1CTI_dEmFTVJg7Ac=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F09%2F798454%2Fmens_squircle.png" group-title="NZAU",NRL Grand Final 2026: Exclusive Cams
+https://i.mjh.nz/.r/nrl-grand-final-2026-exclusive-cams-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-nrlw-grand-final-2026-exclusive-cams-fast" tvg-name="NRLW Grand Final 2026: Exclusive Cams" tvg-logo="https://imageresizer.static9.net.au/KtXqj15lb7PAwZ2h_TeUIsPeXUQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F09%2F798391%2Fwomens_squircle.png" group-title="NZAU",NRLW Grand Final 2026: Exclusive Cams
+https://i.mjh.nz/.r/nrlw-grand-final-2026-exclusive-cams-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-onthecase-fast" tvg-name="On The Case" tvg-logo="https://i.mjh.nz/.images/auto-onthecase-fast-6ec172.png" group-title="NZAU",On The Case
 https://i.mjh.nz/.r/onthecase-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-outbacktruckers-fast" tvg-name="Outback Truckers" tvg-logo="https://i.mjh.nz/.images/auto-outbacktruckers-fast-332b21.png" group-title="NZAU",Outback Truckers
