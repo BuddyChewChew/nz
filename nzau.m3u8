@@ -133,8 +133,6 @@ https://c.mjh.nz/abc-nsw.m3u8
 https://c.mjh.nz/abc-tv-plus.m3u8
 #EXTINF:-1 tvg-id="mjh-al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" tvg-chno="20" group-title="NZAU",Al Jazeera
 https://i.mjh.nz/.r/al-jazeera.m3u8
-#EXTINF:-1 tvg-id="mjh-australian-short-course-championships-swimming-2026-fast" tvg-name="Australian Short Course Championships Swimming 2026" tvg-logo="https://imageresizer.static9.net.au/Gff2jG76cG2jPTfs7Sv9YcjZBkQ=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F09%2F797542%2Fsquircle_swimmingaus.png" group-title="NZAU",Australian Short Course Championships Swimming 2026
-https://i.mjh.nz/.r/australian-short-course-championships-swimming-2026-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-bbc-antiques-roadshow-247-fast" tvg-name="BBC Antiques Roadshow" tvg-logo="https://imageresizer.static9.net.au/zRjEXK-6iFh-92EKnAZN9rXREkA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648315%2Fgroup-61774.png" group-title="NZAU",BBC Antiques Roadshow
 https://i.mjh.nz/.r/bbc-antiques-roadshow-247-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-bbc-comedy-fast" tvg-name="BBC Comedy" tvg-logo="https://imageresizer.static9.net.au/2bl6ZyviwjpHCeVoXf8twpEVFjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648314%2Fgroup-61772.png" group-title="NZAU",BBC Comedy
