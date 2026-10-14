@@ -413,5 +413,7 @@ https://i.mjh.nz/.r/wairarapa-tv.m3u8
 https://i.mjh.nz/.r/waterrats-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-winnersnlosers-fast" tvg-name="Winners & Losers" tvg-logo="https://i.mjh.nz/.images/auto-winnersnlosers-fast-a59958.png" group-title="NZAU",Winners & Losers
 https://i.mjh.nz/.r/winnersnlosers-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-wnbl-202627-fast" tvg-name="WNBL 2026/27" tvg-logo="https://imageresizer.static9.net.au/SBz7DKoMTTXJvmj-XGrjU093es0=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F10%2F800206%2Fwnbl_squircle.png" group-title="NZAU",WNBL 2026/27
+https://i.mjh.nz/.r/wnbl-202627-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-wtn-fast" tvg-name="Wicked Tuna" tvg-logo="https://i.mjh.nz/.images/auto-wtn-fast-0a858d.png" group-title="NZAU",Wicked Tuna
 https://i.mjh.nz/.r/wtn-fast.m3u8
