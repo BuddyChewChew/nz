@@ -15,6 +15,8 @@ https://i.mjh.nz/.r/10-cops.m3u8
 https://i.mjh.nz/.r/10-crime-hunters.m3u8
 #EXTINF:-1 tvg-id="mjh-10-crime-time" tvg-name="Crime Time" tvg-logo="https://10.com.au/ip/s3/2024/09/25/c27b803a4128c5b097cd3a23e1be973c-1341004.png?image-profile=logo" group-title="NZAU",Crime Time
 https://i.mjh.nz/.r/10-crime-time.m3u8
+#EXTINF:-1 tvg-id="mjh-10-dallascheerleaders" tvg-name="Dallas Cowboy Cheerleaders: Making The Team" tvg-logo="https://10.com.au/ip/s3/2026/10/13/0908d845bb84c3146f50501d394ca2a6-1466626.png?image-profile=logo" group-title="NZAU",Dallas Cowboy Cheerleaders: Making The Team
+https://i.mjh.nz/.r/10-dallascheerleaders.m3u8
 #EXTINF:-1 tvg-id="mjh-10-deadlywomen" tvg-name="Deadly Women" tvg-logo="https://10.com.au/ip/s3/2025/06/19/01e576c63918373cd03aa21ea8566f1e-1383812.png?image-profile=logo" group-title="NZAU",Deadly Women
 https://i.mjh.nz/.r/10-deadlywomen.m3u8
 #EXTINF:-1 tvg-id="mjh-10-diagnosismurder" tvg-name="Diagnosis Murder" tvg-logo="https://10.com.au/ip/s3/2023/06/28/5f85fc3d794a167630b935cb639abcc3-1246005.png?image-profile=logo" group-title="NZAU",Diagnosis Murder
@@ -75,6 +77,8 @@ https://i.mjh.nz/.r/10-prisoner-cell-block-h.m3u8
 https://i.mjh.nz/.r/10-projectrunway.m3u8
 #EXTINF:-1 tvg-id="mjh-10-rookieblue" tvg-name="rookie-blue" tvg-logo="https://10.com.au/ip/s3/2026/02/01/b4f014a58a872ecca3409d233c38f122-1408366.png?image-profile=logo" group-title="NZAU",rookie-blue
 https://i.mjh.nz/.r/10-rookieblue.m3u8
+#EXTINF:-1 tvg-id="mjh-10-seasonalmovies" tvg-name="Thriller Movies" tvg-logo="https://10.com.au/ip/s3/2024/04/01/86e45216ee9df7d873e393dccb379d94-1306209.png?image-profile=logo" group-title="NZAU",Thriller Movies
+https://i.mjh.nz/.r/10-seasonalmovies.m3u8
 #EXTINF:-1 tvg-id="mjh-10-shockwave" tvg-name="Shockwave" tvg-logo="https://10.com.au/ip/s3/2026/03/31/145f61f54f2e66b3bf4a2fefff5b267a-1421437.png?image-profile=logo" group-title="NZAU",Shockwave
 https://i.mjh.nz/.r/10-shockwave.m3u8
 #EXTINF:-1 tvg-id="mjh-10-spongebobsquarepants" tvg-name="SpongeBob SquarePants" tvg-logo="https://10.com.au/ip/s3/2024/05/27/ee4d9694aa3f7a2fe97b6f18aa773b88-1316803.png?image-profile=logo" group-title="NZAU",SpongeBob SquarePants
