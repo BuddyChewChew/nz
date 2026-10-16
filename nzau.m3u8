@@ -229,8 +229,6 @@ https://i.mjh.nz/.r/etc-fast.m3u8
 https://i.mjh.nz/.r/firstlight.m3u8
 #EXTINF:-1 tvg-id="mjh-gem-nsw" tvg-name="9Gem" tvg-logo="https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png" tvg-chno="92" group-title="NZAU",9Gem
 https://i.mjh.nz/.r/gem-nsw.m3u8
-#EXTINF:-1 tvg-id="mjh-glasgowglory-fast" tvg-name="Glasgow Glory" tvg-logo="https://i.mjh.nz/.images/auto-glasgowglory-fast-687d7c.png" group-title="NZAU",Glasgow Glory
-https://i.mjh.nz/.r/glasgowglory-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-go-nsw" tvg-name="9Go!" tvg-logo="https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png" tvg-chno="93" group-title="NZAU",9Go!
 https://i.mjh.nz/.r/go-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-good-dot" tvg-name="GOOD." tvg-logo="https://i.mjh.nz/.images/good-dot.png" group-title="NZAU",GOOD.
@@ -375,8 +373,6 @@ https://i.mjh.nz/.r/sky-racing-thoroughbred.m3u8
 https://i.mjh.nz/.r/snowy-mountains.m3u8
 #EXTINF:-1 tvg-id="mjh-surveillancecentral-fast" tvg-name="Surveillance Central" tvg-logo="https://i.mjh.nz/.images/auto-surveillancecentral-fast-4eeefa.png" group-title="NZAU",Surveillance Central
 https://i.mjh.nz/.r/surveillancecentral-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-swimmingreplays-fast" tvg-name="Swimming Replays" tvg-logo="https://i.mjh.nz/.images/auto-swimmingreplays-fast-930ec0.png" group-title="NZAU",Swimming Replays
-https://i.mjh.nz/.r/swimmingreplays-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-taronga-247-fast" tvg-name="Taronga 24/7" tvg-logo="https://imageresizer.static9.net.au/HvEyaXfq57tpzSGiLjqejGDiyA8=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F06%2F779914%2Ftaronga_squircle.png" group-title="NZAU",Taronga 24/7
 https://i.mjh.nz/.r/taronga-247-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-te-reo" tvg-name="Te Reo" tvg-logo="https://i.mjh.nz/.images/te-reo.png" tvg-chno="10" group-title="NZAU",Te Reo
