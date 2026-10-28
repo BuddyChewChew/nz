@@ -155,8 +155,6 @@ https://i.mjh.nz/.r/allsaints-fast.m3u8
 https://i.mjh.nz/.r/anglersparadise-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-art-fast" tvg-name="Antiques Road Trip" tvg-logo="https://i.mjh.nz/.images/auto-art-fast-99c60f.png" group-title="NZAU",Antiques Road Trip
 https://i.mjh.nz/.r/art-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-ausbiz-fast" tvg-name="ausbiz" tvg-logo="https://i.mjh.nz/.images/auto-ausbiz-fast-b12203.png" group-title="NZAU",ausbiz
-https://i.mjh.nz/.r/ausbiz-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-bbc-antiques-roadshow-247-fast" tvg-name="BBC Antiques Roadshow" tvg-logo="https://imageresizer.static9.net.au/zRjEXK-6iFh-92EKnAZN9rXREkA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648315%2Fgroup-61774.png" group-title="NZAU",BBC Antiques Roadshow
 https://i.mjh.nz/.r/bbc-antiques-roadshow-247-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-bbc-comedy-fast" tvg-name="BBC Comedy" tvg-logo="https://imageresizer.static9.net.au/2bl6ZyviwjpHCeVoXf8twpEVFjo=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F11%2F648314%2Fgroup-61772.png" group-title="NZAU",BBC Comedy
@@ -219,6 +217,8 @@ https://i.mjh.nz/.r/channel-news-asia.m3u8
 https://i.mjh.nz/.r/cricketgold-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-csicrimesceneinvestigation-fast" tvg-name="CSI Crime Scene Investigation" tvg-logo="https://i.mjh.nz/.images/auto-csicrimesceneinvestigation-fast-87549e.png" group-title="NZAU",CSI Crime Scene Investigation
 https://i.mjh.nz/.r/csicrimesceneinvestigation-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-dakar-summer-youth-olympics-2026-fast" tvg-name="Youth Olympics Games Dakar 2026" tvg-logo="https://imageresizer.static9.net.au/om2ALmSqPt5-d0EIflsFKuzZcVs=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F10%2F803206%2Fdakar_squircle.png" group-title="NZAU",Youth Olympics Games Dakar 2026
+https://i.mjh.nz/.r/dakar-summer-youth-olympics-2026-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-dance-moms-247-fast" tvg-name="Dance Moms 24/7" tvg-logo="https://imageresizer.static9.net.au/OKBRw5HKp9hAAVX3XM-A1HrVRug=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F04%2F585178%2Fsquircle_dancemoms.png" group-title="NZAU",Dance Moms 24/7
 https://i.mjh.nz/.r/dance-moms-247-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-dw-news" tvg-name="DW English" tvg-logo="https://www.dw.com/images/icons/favicon-540x540.png" group-title="NZAU",DW English
