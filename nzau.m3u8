@@ -251,7 +251,7 @@ https://i.mjh.nz/.r/kitchennightmares-fast.m3u8
 https://i.mjh.nz/.r/life-nsw.m3u8
 #EXTINF:-1 tvg-id="mjh-livgolfreplays-fast" tvg-name="LIV Golf Replays" tvg-logo="https://i.mjh.nz/.images/auto-livgolfreplays-fast-471f30.png" group-title="NZAU",LIV Golf Replays
 https://i.mjh.nz/.r/livgolfreplays-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-lmn-fast" tvg-name="LMN" tvg-logo="https://imageresizer.static9.net.au/GfA3WNoMOfZbJOqJeq-UrX5nsdk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F12%2F658518%2Fgroup-61484.png" group-title="NZAU",LMN
+#EXTINF:-1 tvg-id="mjh-lmn-fast" tvg-name="LMN" tvg-logo="https://imageresizer.static9.net.au/pEZzrJfH9LZQzOaS0IYXJ0TGXjA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F10%2F804379%2Fgroup-61765.png" group-title="NZAU",LMN
 https://i.mjh.nz/.r/lmn-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-maori-tv" tvg-name="Whakaata Māori" tvg-logo="https://i.mjh.nz/.images/maori-tv.png" tvg-chno="5" group-title="NZAU",Whakaata Māori
 https://i.mjh.nz/.r/maori-tv.m3u8
@@ -259,10 +259,12 @@ https://i.mjh.nz/.r/maori-tv.m3u8
 https://i.mjh.nz/.r/married-at-first-sight-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-medicalnrescue-fast" tvg-name="Medical And Rescue" tvg-logo="https://i.mjh.nz/.images/auto-medicalnrescue-fast-bd9388.png" group-title="NZAU",Medical And Rescue
 https://i.mjh.nz/.r/medicalnrescue-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-mel1_event-fast" tvg-name="AFLW" tvg-logo="https://i.mjh.nz/.images/auto-mel1_event-fast-c499bf.png" group-title="NZAU",AFLW
+https://i.mjh.nz/.r/mel1_event-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mightymachines-fast" tvg-name="Mighty Machines" tvg-logo="https://i.mjh.nz/.images/auto-mightymachines-fast-0fa14e.png" group-title="NZAU",Mighty Machines
 https://i.mjh.nz/.r/mightymachines-fast.m3u8
-#EXTINF:-1 tvg-id="mjh-misc503-fast" tvg-name="Hockey One" tvg-logo="https://i.mjh.nz/.images/auto-misc503-fast-942b42.png" group-title="NZAU",Hockey One
-https://i.mjh.nz/.r/misc503-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-misc515-fast" tvg-name="WSL Championship Tour" tvg-logo="https://i.mjh.nz/.images/auto-misc515-fast-b497ba.png" group-title="NZAU",WSL Championship Tour
+https://i.mjh.nz/.r/misc515-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1286" tvg-name="Big Rig" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1744244778333.png" group-title="NZAU",Big Rig
 https://i.mjh.nz/.r/mood-1286.m3u8
 #EXTINF:-1 tvg-id="mjh-mood-1287" tvg-name="The Groat" tvg-logo="https://gizmeon-vod.lg.mncdn.com/thumbnails/fastchannel/1743730111010.png" group-title="NZAU",The Groat
@@ -305,8 +307,6 @@ https://i.mjh.nz/.r/sbs-3syd.m3u8
 https://i.mjh.nz/.r/sbs-4syd.m3u8
 #EXTINF:-1 tvg-id="mjh-sbs-5nsw" tvg-name="NITV" tvg-logo="https://image.pr.sbsod.com/00ff96cd-68c3-5219-b792-c0c2faec1fe6" tvg-chno="34" group-title="NZAU",NITV
 https://i.mjh.nz/.r/sbs-5nsw.m3u8
-#EXTINF:-1 tvg-id="mjh-sbs-7faa" tvg-name="Planet Luke Nguyen" tvg-logo="https://image.pr.sbsod.com/6c1ccae0-2ddb-5e67-ae24-a4e42f23b2a0" group-title="NZAU",Planet Luke Nguyen
-https://i.mjh.nz/.r/sbs-7faa.m3u8
 #EXTINF:-1 tvg-id="mjh-sbs-euronews" tvg-name="euronews" tvg-logo="https://image.pr.sbsod.com/60e599d9-82ed-5eac-b51c-7c23a9bb0c55" group-title="NZAU",euronews
 https://i.mjh.nz/.r/sbs-euronews.m3u8
 #EXTINF:-1 tvg-id="mjh-sbs-france24" tvg-name="France 24" tvg-logo="https://image.pr.sbsod.com/940bda61-531e-5e30-bb1e-69db1cdbb077" group-title="NZAU",France 24
