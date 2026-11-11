@@ -11,6 +11,8 @@ https://i.mjh.nz/.r/10-becker.m3u8
 https://i.mjh.nz/.r/10-bigbrother.m3u8
 #EXTINF:-1 tvg-id="mjh-10-cheapseats" tvg-name="The Cheap Seats" tvg-logo="https://10.com.au/ip/s3/2025/08/08/47006754904d1d36520e76157ecbfb41-1390280.png?image-profile=logo" group-title="NZAU",The Cheap Seats
 https://i.mjh.nz/.r/10-cheapseats.m3u8
+#EXTINF:-1 tvg-id="mjh-10-christmasmovies" tvg-name="Christmas Movies" tvg-logo="https://10.com.au/ip/s3/2025/11/24/9e410ae2839bab3195b8faa894027f1e-1401189.png?image-profile=logo" group-title="NZAU",Christmas Movies
+https://i.mjh.nz/.r/10-christmasmovies.m3u8
 #EXTINF:-1 tvg-id="mjh-10-cops" tvg-name="COPS" tvg-logo="https://10.com.au/ip/s3/2025/03/30/6fadf0873ac36ecacdc63ed8bba4cf3d-1371071.png?image-profile=logo" group-title="NZAU",COPS
 https://i.mjh.nz/.r/10-cops.m3u8
 #EXTINF:-1 tvg-id="mjh-10-crime-hunters" tvg-name="Crime Hunters" tvg-logo="https://10.com.au/ip/s3/2024/03/06/cb69de15e7b8989a218ad25b7f6547ef-1301820.png?image-profile=logo" group-title="NZAU",Crime Hunters
@@ -277,6 +279,8 @@ https://i.mjh.nz/.r/mood-1289.m3u8
 https://i.mjh.nz/.r/mood-1290.m3u8
 #EXTINF:-1 tvg-id="mjh-mythbusters-fast" tvg-name="Mythbusters" tvg-logo="https://i.mjh.nz/.images/auto-mythbusters-fast-3a72b1.png" group-title="NZAU",Mythbusters
 https://i.mjh.nz/.r/mythbusters-fast.m3u8
+#EXTINF:-1 tvg-id="mjh-national-pharmacies-christmas-pageant-2026-fast" tvg-name="National Pharmacies Christmas Pageant 2026" tvg-logo="https://imageresizer.static9.net.au/nI-P856PeObvNNnVJ0hg0xEjnBs=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F11%2F806153%2Fpharmaciesxmassquircle-1.png" group-title="NZAU",National Pharmacies Christmas Pageant 2026
+https://i.mjh.nz/.r/national-pharmacies-christmas-pageant-2026-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-ncis-fast" tvg-name="NCIS" tvg-logo="https://i.mjh.nz/.images/auto-ncis-fast-6f82bd.png" group-title="NZAU",NCIS
 https://i.mjh.nz/.r/ncis-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-onthecase-fast" tvg-name="On The Case" tvg-logo="https://i.mjh.nz/.images/auto-onthecase-fast-6ec172.png" group-title="NZAU",On The Case
@@ -411,8 +415,6 @@ https://i.mjh.nz/.r/tvnz-duke.mpd
 https://i.mjh.nz/.r/tvsn-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-tvsn-shopping" tvg-name="TVSN Shopping" tvg-logo="https://i.mjh.nz/.images/tvsn-shopping.png" group-title="NZAU",TVSN Shopping
 https://i.mjh.nz/.r/tvsn-shopping.m3u8
-#EXTINF:-1 tvg-id="mjh-victoria-decides-2026-the-great-debate-fast" tvg-name="Victoria Decides 2026: The Great Debate" tvg-logo="https://imageresizer.static9.net.au/iq7WJM0AEkp01zQjP8i9l4IZCk0=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2026%2F11%2F805914%2Fnews_sq.png" group-title="NZAU",Victoria Decides 2026: The Great Debate
-https://i.mjh.nz/.r/victoria-decides-2026-the-great-debate-fast.m3u8
 #EXTINF:-1 tvg-id="mjh-wairarapa-tv" tvg-name="Wairarapa TV" tvg-logo="https://i.mjh.nz/.images/wairarapa-tv.png" tvg-chno="41" group-title="NZAU",Wairarapa TV
 https://i.mjh.nz/.r/wairarapa-tv.m3u8
 #EXTINF:-1 tvg-id="mjh-waterrats-fast" tvg-name="Water Rats" tvg-logo="https://i.mjh.nz/.images/auto-waterrats-fast-428228.png" group-title="NZAU",Water Rats
