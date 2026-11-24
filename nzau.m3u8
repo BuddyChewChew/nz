@@ -11,8 +11,6 @@ https://i.mjh.nz/.r/10-becker.m3u8
 https://i.mjh.nz/.r/10-bigbrother.m3u8
 #EXTINF:-1 tvg-id="mjh-10-cheapseats" tvg-name="The Cheap Seats" tvg-logo="https://10.com.au/ip/s3/2025/08/08/47006754904d1d36520e76157ecbfb41-1390280.png?image-profile=logo" group-title="NZAU",The Cheap Seats
 https://i.mjh.nz/.r/10-cheapseats.m3u8
-#EXTINF:-1 tvg-id="mjh-10-christmasmovies" tvg-name="Christmas Movies" tvg-logo="https://10.com.au/ip/s3/2025/11/24/9e410ae2839bab3195b8faa894027f1e-1401189.png?image-profile=logo" group-title="NZAU",Christmas Movies
-https://i.mjh.nz/.r/10-christmasmovies.m3u8
 #EXTINF:-1 tvg-id="mjh-10-cops" tvg-name="COPS" tvg-logo="https://10.com.au/ip/s3/2025/03/30/6fadf0873ac36ecacdc63ed8bba4cf3d-1371071.png?image-profile=logo" group-title="NZAU",COPS
 https://i.mjh.nz/.r/10-cops.m3u8
 #EXTINF:-1 tvg-id="mjh-10-crime-hunters" tvg-name="Crime Hunters" tvg-logo="https://10.com.au/ip/s3/2024/03/06/cb69de15e7b8989a218ad25b7f6547ef-1301820.png?image-profile=logo" group-title="NZAU",Crime Hunters
@@ -87,8 +85,6 @@ https://i.mjh.nz/.r/10-rookieblue.m3u8
 https://i.mjh.nz/.r/10-seasonalmovies.m3u8
 #EXTINF:-1 tvg-id="mjh-10-shockwave" tvg-name="Shockwave" tvg-logo="https://10.com.au/ip/s3/2026/03/31/145f61f54f2e66b3bf4a2fefff5b267a-1421437.png?image-profile=logo" group-title="NZAU",Shockwave
 https://i.mjh.nz/.r/10-shockwave.m3u8
-#EXTINF:-1 tvg-id="mjh-10-sitcomcentral" tvg-name="Sitcom Central" tvg-logo="https://10.com.au/ip/s3/2026/11/03/9b6127d5c344faf363a70b45ecbe827f-1470465.png?image-profile=logo" group-title="NZAU",Sitcom Central
-https://i.mjh.nz/.r/10-sitcomcentral.m3u8
 #EXTINF:-1 tvg-id="mjh-10-spongebobsquarepants" tvg-name="SpongeBob SquarePants" tvg-logo="https://10.com.au/ip/s3/2024/05/27/ee4d9694aa3f7a2fe97b6f18aa773b88-1316803.png?image-profile=logo" group-title="NZAU",SpongeBob SquarePants
 https://i.mjh.nz/.r/10-spongebobsquarepants.m3u8
 #EXTINF:-1 tvg-id="mjh-10-thankgodyourehere" tvg-name="Thank God You're Here" tvg-logo="https://10.com.au/ip/s3/2025/08/19/9cde4af8ad28a81defc2e020775ff74f-1390978.png?image-profile=logo" group-title="NZAU",Thank God You're Here
